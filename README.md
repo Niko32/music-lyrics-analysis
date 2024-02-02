@@ -7,14 +7,15 @@ This is the repository for a university project concerned with the analysis of t
 - Niko Konzack 🔴
 
 ## Distribution of work packets
-🟢 related work research 
-🔴 project planning
-🔴 data retrieval
-🟢 topic model implementation
-⚪ classifier implementation
-🟡 evaluation and visualisation of model results
-🟡 report: research gap and research question
-⚪ report: discussion
+- 🟢 related work research 
+- 🔴 project planning
+- 🔴 data retrieval
+- 🟢 topic model implementation
+- ⚪ classifier implementation
+- 🟡 evaluation and visualisation of model results
+- 🟡 report: research gap and research question
+- ⚪ report: discussion
+- packets marked with ⚪ will be assigned later based on individual progress on the tasks
 - other parts of the report will be written by the person responsible for its implementation
 
 
