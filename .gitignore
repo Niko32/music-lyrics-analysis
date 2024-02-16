@@ -1,2 +1,5 @@
 venv
 *.env
+.cache
+
+data/multiclass-lyrics
