@@ -1,6 +1,6 @@
-data_dir = "../../data"
-multiclass_data_dir = "../../data/multiclass"
-multilabel_data_dir = "../../data/multilabel"
+data_dir = "data"
+multiclass_data_dir = "data/multiclass"
+multilabel_data_dir = "data/multilabel"
 
 genres = [
     "pop", 
