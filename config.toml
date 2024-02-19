@@ -15,3 +15,16 @@ genres = [
     "classical-music", 
     "electronic"
 ]
+
+[n_songs]
+pop = 1000
+rock = 1000
+r-b = 1500
+country = 1000
+rap = 1000
+blues = 1000
+jazz = 1200
+experimental = 3000
+folk = 1000
+classical-music = 1000
+electronic = 2000
