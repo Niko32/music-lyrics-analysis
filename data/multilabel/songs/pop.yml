@@ -1890,12 +1890,16 @@
   - Daft Punk
   featured_artists:
   - Julian Casablancas
+  genre: pop
+  id: 151355
   title: Instant Crush
   title_with_artists: Instant Crush by Daft Punk (Ft. Julian Casablancas)
   url: https://genius.com/Daft-punk-instant-crush-lyrics
 - artists:
   - Frank Sinatra
   featured_artists: []
+  genre: rap
+  id: 653082
   title: My Way
   title_with_artists: My Way by Frank Sinatra
   url: https://genius.com/Frank-sinatra-my-way-lyrics
@@ -1903,6 +1907,8 @@
   - Sam Smith
   - Kim Petras
   featured_artists: []
+  genre: pop
+  id: 8302862
   title: Unholy
   title_with_artists: Unholy by Sam Smith & Kim Petras
   url: https://genius.com/Sam-smith-and-kim-petras-unholy-lyrics
@@ -1910,42 +1916,56 @@
   - Zedd
   - Alessia Cara
   featured_artists: []
+  genre: pop
+  id: 2975362
   title: Stay
   title_with_artists: Stay by Zedd & Alessia Cara
   url: https://genius.com/Zedd-and-alessia-cara-stay-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 3681287
   title: "\u200B\u200Bbreathin"
   title_with_artists: "\u200B\u200Bbreathin by Ariana Grande"
   url: https://genius.com/Ariana-grande-breathin-lyrics
 - artists:
   - Frank Ocean
   featured_artists: []
+  genre: pop
+  id: 2842066
   title: White Ferrari
   title_with_artists: White Ferrari by Frank Ocean
   url: https://genius.com/Frank-ocean-white-ferrari-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 3210592
   title: Look What You Made Me Do
   title_with_artists: Look What You Made Me Do by Taylor Swift
   url: https://genius.com/Taylor-swift-look-what-you-made-me-do-lyrics
 - artists:
   - Frank Ocean
   featured_artists: []
+  genre: pop
+  id: 2842078
   title: Pink + White
   title_with_artists: Pink + White by Frank Ocean
   url: https://genius.com/Frank-ocean-pink-white-lyrics
 - artists:
   - Justin Bieber
   featured_artists: []
+  genre: pop
+  id: 5124449
   title: Yummy
   title_with_artists: Yummy by Justin Bieber
   url: https://genius.com/Justin-bieber-yummy-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 8852469
   title: "YOASOBI - \u30A2\u30A4\u30C9\u30EB (Idol) (Romanized)"
   title_with_artists: "YOASOBI - \u30A2\u30A4\u30C9\u30EB (Idol) (Romanized) by Genius\
     \ Romanizations"
@@ -1953,72 +1973,96 @@
 - artists:
   - Camila Cabello
   featured_artists: []
+  genre: pop
+  id: 3107031
   title: Never Be The Same
   title_with_artists: Never Be The Same by Camila Cabello
   url: https://genius.com/Camila-cabello-never-be-the-same-lyrics
 - artists:
   - Phillipa Soo
   featured_artists: []
+  genre: rap
+  id: 2315135
   title: Burn
   title_with_artists: Burn by Phillipa Soo
   url: https://genius.com/Phillipa-soo-burn-lyrics
 - artists:
   - Christmas Songs
   featured_artists: []
+  genre: pop
+  id: 2198790
   title: Silent Night
   title_with_artists: Silent Night by Christmas Songs
   url: https://genius.com/Christmas-songs-silent-night-lyrics
 - artists:
   - Ed Sheeran
   featured_artists: []
+  genre: pop
+  id: 2953767
   title: Supermarket Flowers
   title_with_artists: Supermarket Flowers by Ed Sheeran
   url: https://genius.com/Ed-sheeran-supermarket-flowers-lyrics
 - artists:
   - Silk Sonic
   featured_artists: []
+  genre: pop
+  id: 6531412
   title: Leave The Door Open
   title_with_artists: Leave The Door Open by Silk Sonic
   url: https://genius.com/Silk-sonic-leave-the-door-open-lyrics
 - artists:
   - Frank Ocean
   featured_artists: []
+  genre: pop
+  id: 78966
   title: Bad Religion
   title_with_artists: Bad Religion by Frank Ocean
   url: https://genius.com/Frank-ocean-bad-religion-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 4712978
   title: Cruel Summer
   title_with_artists: Cruel Summer by Taylor Swift
   url: https://genius.com/Taylor-swift-cruel-summer-lyrics
 - artists:
   - Ben E. King
   featured_artists: []
+  genre: pop
+  id: 72156
   title: Stand By Me
   title_with_artists: Stand By Me by Ben E. King
   url: https://genius.com/Ben-e-king-stand-by-me-lyrics
 - artists:
   - Lil Dicky
   featured_artists: []
+  genre: rap
+  id: 4482797
   title: Earth
   title_with_artists: Earth by Lil Dicky
   url: https://genius.com/Lil-dicky-earth-lyrics
 - artists:
   - Tyler, The Creator
   featured_artists: []
+  genre: rap
+  id: 4544030
   title: NEW MAGIC WAND
   title_with_artists: NEW MAGIC WAND by Tyler, The Creator
   url: https://genius.com/Tyler-the-creator-new-magic-wand-lyrics
 - artists:
   - Alan Walker
   featured_artists: []
+  genre: pop
+  id: 2396871
   title: Faded
   title_with_artists: Faded by Alan Walker
   url: https://genius.com/Alan-walker-faded-lyrics
 - artists:
   - Adele
   featured_artists: []
+  genre: pop
+  id: 51294
   title: Someone Like You
   title_with_artists: Someone Like You by Adele
   url: https://genius.com/Adele-someone-like-you-lyrics
@@ -2026,18 +2070,24 @@
   - Ed Sheeran
   - "Beyonc\xE9"
   featured_artists: []
+  genre: pop
+  id: 3343029
   title: Perfect Duet
   title_with_artists: "Perfect Duet by Ed Sheeran & Beyonc\xE9"
   url: https://genius.com/Ed-sheeran-and-beyonce-perfect-duet-lyrics
 - artists:
   - OutKast
   featured_artists: []
+  genre: pop
+  id: 1449
   title: Hey Ya!
   title_with_artists: Hey Ya! by OutKast
   url: https://genius.com/Outkast-hey-ya-lyrics
 - artists:
   - Drake
   featured_artists: []
+  genre: rap
+  id: 2464123
   title: Controlla
   title_with_artists: Controlla by Drake
   url: https://genius.com/Drake-controlla-lyrics
@@ -2045,24 +2095,32 @@
   - DaBaby
   featured_artists:
   - Roddy Ricch
+  genre: rap
+  id: 2942139
   title: ROCKSTAR
   title_with_artists: ROCKSTAR by DaBaby (Ft. Roddy Ricch)
   url: https://genius.com/Dababy-rockstar-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 137656
   title: Young and Beautiful
   title_with_artists: Young and Beautiful by Lana Del Rey
   url: https://genius.com/Lana-del-rey-young-and-beautiful-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 6749869
   title: Your Power
   title_with_artists: Your Power by Billie Eilish
   url: https://genius.com/Billie-eilish-your-power-lyrics
 - artists:
   - Drake
   featured_artists: []
+  genre: rap
+  id: 2463396
   title: U With Me?
   title_with_artists: U With Me? by Drake
   url: https://genius.com/Drake-u-with-me-lyrics
@@ -2070,12 +2128,16 @@
   - Ariana Grande
   - Justin Bieber
   featured_artists: []
+  genre: pop
+  id: 5524080
   title: Stuck with U
   title_with_artists: Stuck with U by Ariana Grande & Justin Bieber
   url: https://genius.com/Ariana-grande-and-justin-bieber-stuck-with-u-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 6068618
   title: "\u200Bpositions"
   title_with_artists: "\u200Bpositions by Ariana Grande"
   url: https://genius.com/Ariana-grande-positions-lyrics
@@ -2083,12 +2145,16 @@
   - Travis Scott
   featured_artists:
   - Kacy Hill
+  genre: rap
+  id: 2290813
   title: '90210'
   title_with_artists: 90210 by Travis Scott (Ft. Kacy Hill)
   url: https://genius.com/Travis-scott-90210-lyrics
 - artists:
   - Christina Perri
   featured_artists: []
+  genre: pop
+  id: 98919
   title: A Thousand Years
   title_with_artists: A Thousand Years by Christina Perri
   url: https://genius.com/Christina-perri-a-thousand-years-lyrics
@@ -2098,6 +2164,8 @@
   - Cardi B
   - Ozuna
   - Selena Gomez
+  genre: pop
+  id: 3920132
   title: Taki Taki
   title_with_artists: Taki Taki by DJ Snake (Ft. Cardi B, Ozuna & Selena Gomez)
   url: https://genius.com/Dj-snake-taki-taki-lyrics
@@ -2106,6 +2174,8 @@
     Broadway Cast of "Hamilton"
   - "Ren\xE9e Elise Goldsberry"
   featured_artists: []
+  genre: rap
+  id: 2314680
   title: Non-Stop
   title_with_artists: "Non-Stop by Leslie Odom, Jr., Lin-Manuel Miranda, Phillipa\
     \ Soo, Christopher Jackson, Original Broadway Cast of \"Hamilton\" & Ren\xE9e\
@@ -2115,6 +2185,8 @@
   - "Beyonc\xE9"
   featured_artists:
   - Drake
+  genre: pop
+  id: 299098
   title: Mine
   title_with_artists: "Mine by Beyonc\xE9 (Ft. Drake)"
   url: https://genius.com/Beyonce-mine-lyrics
@@ -2122,24 +2194,32 @@
   - Chris Brown
   featured_artists:
   - Drake
+  genre: pop
+  id: 4533406
   title: No Guidance
   title_with_artists: No Guidance by Chris Brown (Ft. Drake)
   url: https://genius.com/Chris-brown-no-guidance-lyrics
 - artists:
   - Eminem
   featured_artists: []
+  genre: rap
+  id: 463
   title: Not Afraid
   title_with_artists: Not Afraid by Eminem
   url: https://genius.com/Eminem-not-afraid-lyrics
 - artists:
   - Mike Posner
   featured_artists: []
+  genre: pop
+  id: 749821
   title: I Took a Pill in Ibiza
   title_with_artists: I Took a Pill in Ibiza by Mike Posner
   url: https://genius.com/Mike-posner-i-took-a-pill-in-ibiza-lyrics
 - artists:
   - Drake
   featured_artists: []
+  genre: pop
+  id: 3028701
   title: Teenage Fever
   title_with_artists: Teenage Fever by Drake
   url: https://genius.com/Drake-teenage-fever-lyrics
@@ -2147,24 +2227,32 @@
   - Kanye West
   featured_artists:
   - Rick Ross
+  genre: rap
+  id: 1207
   title: Devil In a New Dress
   title_with_artists: Devil In a New Dress by Kanye West (Ft. Rick Ross)
   url: https://genius.com/Kanye-west-devil-in-a-new-dress-lyrics
 - artists:
   - NF
   featured_artists: []
+  genre: rap
+  id: 2853827
   title: Let You Down
   title_with_artists: Let You Down by NF
   url: https://genius.com/Nf-let-you-down-lyrics
 - artists:
   - Naomi Scott
   featured_artists: []
+  genre: pop
+  id: 4539715
   title: Speechless (Full)
   title_with_artists: Speechless (Full) by Naomi Scott
   url: https://genius.com/Naomi-scott-speechless-full-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 6260160
   title: "\u200Bchampagne problems"
   title_with_artists: "\u200Bchampagne problems by Taylor Swift"
   url: https://genius.com/Taylor-swift-champagne-problems-lyrics
@@ -2172,6 +2260,8 @@
   - Simon
   - Garfunkel
   featured_artists: []
+  genre: pop
+  id: 79538
   title: The Sound of Silence
   title_with_artists: The Sound of Silence by Simon & Garfunkel
   url: https://genius.com/Simon-and-garfunkel-the-sound-of-silence-lyrics
@@ -2179,30 +2269,40 @@
   - Kanye West
   featured_artists:
   - Sampha
+  genre: rap
+  id: 2428259
   title: Saint Pablo
   title_with_artists: Saint Pablo by Kanye West (Ft. Sampha)
   url: https://genius.com/Kanye-west-saint-pablo-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: pop
+  id: 4694697
   title: Save Your Tears
   title_with_artists: Save Your Tears by The Weeknd
   url: https://genius.com/The-weeknd-save-your-tears-lyrics
 - artists:
   - Kanye West
   featured_artists: []
+  genre: rap
+  id: 1660
   title: Dark Fantasy
   title_with_artists: Dark Fantasy by Kanye West
   url: https://genius.com/Kanye-west-dark-fantasy-lyrics
 - artists:
   - Miley Cyrus
   featured_artists: []
+  genre: pop
+  id: 8689815
   title: Flowers
   title_with_artists: Flowers by Miley Cyrus
   url: https://genius.com/Miley-cyrus-flowers-lyrics
 - artists:
   - Rodrigo Amarante
   featured_artists: []
+  genre: pop
+  id: 2292971
   title: Tuyo
   title_with_artists: Tuyo by Rodrigo Amarante
   url: https://genius.com/Rodrigo-amarante-tuyo-lyrics
@@ -2210,24 +2310,32 @@
   - Phillipa Soo
   - Original Broadway Cast of "Hamilton"
   featured_artists: []
+  genre: rap
+  id: 2314544
   title: Helpless
   title_with_artists: Helpless by Phillipa Soo & Original Broadway Cast of "Hamilton"
   url: https://genius.com/Phillipa-soo-and-original-broadway-cast-of-hamilton-helpless-lyrics
 - artists:
   - Imagine Dragons
   featured_artists: []
+  genre: pop
+  id: 3044373
   title: Thunder
   title_with_artists: Thunder by Imagine Dragons
   url: https://genius.com/Imagine-dragons-thunder-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 2851948
   title: Style
   title_with_artists: Style by Taylor Swift
   url: https://genius.com/Taylor-swift-style-lyrics
 - artists:
   - Harry Styles
   featured_artists: []
+  genre: pop
+  id: 5037838
   title: Falling
   title_with_artists: Falling by Harry Styles
   url: https://genius.com/Harry-styles-falling-lyrics
@@ -2235,12 +2343,16 @@
   - "Beyonc\xE9"
   featured_artists:
   - Nicki Minaj
+  genre: rap
+  id: 489227
   title: Flawless Remix
   title_with_artists: "Flawless Remix by Beyonc\xE9 (Ft. Nicki Minaj)"
   url: https://genius.com/Beyonce-flawless-remix-lyrics
 - artists:
   - A$AP Rocky
   featured_artists: []
+  genre: rap
+  id: 71525
   title: Goldie
   title_with_artists: Goldie by A$AP Rocky
   url: https://genius.com/A-ap-rocky-goldie-lyrics
@@ -2248,12 +2360,16 @@
   - Kanye West
   featured_artists:
   - The Weeknd
+  genre: rap
+  id: 2421661
   title: FML
   title_with_artists: FML by Kanye West (Ft. The Weeknd)
   url: https://genius.com/Kanye-west-fml-lyrics
 - artists:
   - Auli'i Cravalho
   featured_artists: []
+  genre: pop
+  id: 2894765
   title: How Far I'll Go
   title_with_artists: How Far I'll Go by Auli'i Cravalho
   url: https://genius.com/Aulii-cravalho-how-far-ill-go-lyrics
@@ -2261,12 +2377,16 @@
   - Kanye West
   featured_artists:
   - Chris Brown
+  genre: rap
+  id: 2412668
   title: Waves
   title_with_artists: Waves by Kanye West (Ft. Chris Brown)
   url: https://genius.com/Kanye-west-waves-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: pop
+  id: 2911255
   title: Party Monster
   title_with_artists: Party Monster by The Weeknd
   url: https://genius.com/The-weeknd-party-monster-lyrics
@@ -2274,12 +2394,16 @@
   - Rihanna
   featured_artists:
   - Mikky Ekko
+  genre: pop
+  id: 2975362
   title: Stay
   title_with_artists: Stay by Rihanna (Ft. Mikky Ekko)
   url: https://genius.com/Rihanna-stay-lyrics
 - artists:
   - Kanye West
   featured_artists: []
+  genre: rap
+  id: 1781
   title: All of the Lights
   title_with_artists: All of the Lights by Kanye West
   url: https://genius.com/Kanye-west-all-of-the-lights-lyrics
@@ -2287,12 +2411,16 @@
   - Daniel Caesar
   featured_artists:
   - Kali Uchis
+  genre: pop
+  id: 2887594
   title: Get You
   title_with_artists: Get You by Daniel Caesar (Ft. Kali Uchis)
   url: https://genius.com/Daniel-caesar-get-you-lyrics
 - artists:
   - Michael Jackson
   featured_artists: []
+  genre: pop
+  id: 1644
   title: Billie Jean
   title_with_artists: Billie Jean by Michael Jackson
   url: https://genius.com/Michael-jackson-billie-jean-lyrics
@@ -2300,6 +2428,8 @@
   - Marshmello
   featured_artists:
   - Khalid
+  genre: electronic
+  id: 3188009
   title: Silence
   title_with_artists: Silence by Marshmello (Ft. Khalid)
   url: https://genius.com/Marshmello-silence-lyrics
@@ -2308,24 +2438,32 @@
   featured_artists:
   - Kid Cudi
   - Raekwon
+  genre: rap
+  id: 1791
   title: Gorgeous
   title_with_artists: Gorgeous by Kanye West (Ft. Kid Cudi & Raekwon)
   url: https://genius.com/Kanye-west-gorgeous-lyrics
 - artists:
   - The 1975
   featured_artists: []
+  genre: pop
+  id: 2364153
   title: Somebody Else
   title_with_artists: Somebody Else by The 1975
   url: https://genius.com/The-1975-somebody-else-lyrics
 - artists:
   - TLC
   featured_artists: []
+  genre: pop
+  id: 2365
   title: No Scrubs (With Rap)
   title_with_artists: No Scrubs (With Rap) by TLC
   url: https://genius.com/Tlc-no-scrubs-with-rap-lyrics
 - artists:
   - Kendrick Lamar
   featured_artists: []
+  genre: rap
+  id: 3039923
   title: DUCKWORTH.
   title_with_artists: DUCKWORTH. by Kendrick Lamar
   url: https://genius.com/Kendrick-lamar-duckworth-lyrics
@@ -2333,18 +2471,24 @@
   - "\u200Bbenny blanco, Halsey"
   - Khalid
   featured_artists: []
+  genre: pop
+  id: 3828011
   title: Eastside
   title_with_artists: "Eastside by \u200Bbenny blanco, Halsey & Khalid"
   url: https://genius.com/Benny-blanco-halsey-and-khalid-eastside-lyrics
 - artists:
   - Bruce Springsteen
   featured_artists: []
+  genre: rock
+  id: 70448
   title: Born in the U.S.A.
   title_with_artists: Born in the U.S.A. by Bruce Springsteen
   url: https://genius.com/Bruce-springsteen-born-in-the-usa-lyrics
 - artists:
   - Bazzi
   featured_artists: []
+  genre: pop
+  id: 299098
   title: Mine
   title_with_artists: Mine by Bazzi
   url: https://genius.com/Bazzi-mine-lyrics
@@ -2353,12 +2497,16 @@
   featured_artists:
   - Nicki Minaj
   - Ty Dolla $ign
+  genre: pop
+  id: 2945277
   title: Swalla
   title_with_artists: Swalla by Jason Derulo (Ft. Nicki Minaj & Ty Dolla $ign)
   url: https://genius.com/Jason-derulo-swalla-lyrics
 - artists:
   - Paramore
   featured_artists: []
+  genre: rock
+  id: 135048
   title: Still into You
   title_with_artists: Still into You by Paramore
   url: https://genius.com/Paramore-still-into-you-lyrics
@@ -2366,30 +2514,40 @@
   - Zedd, Maren Morris
   - Grey
   featured_artists: []
+  genre: pop
+  id: 3430424
   title: The Middle
   title_with_artists: The Middle by Zedd, Maren Morris & Grey
   url: https://genius.com/Zedd-maren-morris-and-grey-the-middle-lyrics
 - artists:
   - Whitney Houston
   featured_artists: []
+  genre: pop
+  id: 220371
   title: I Have Nothing
   title_with_artists: I Have Nothing by Whitney Houston
   url: https://genius.com/Whitney-houston-i-have-nothing-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 3256574
   title: "\u200Bwish you were gay"
   title_with_artists: "\u200Bwish you were gay by Billie Eilish"
   url: https://genius.com/Billie-eilish-wish-you-were-gay-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 5173169
   title: No Time To Die
   title_with_artists: No Time To Die by Billie Eilish
   url: https://genius.com/Billie-eilish-no-time-to-die-lyrics
 - artists:
   - Ed Sheeran
   featured_artists: []
+  genre: pop
+  id: 2953763
   title: Galway Girl
   title_with_artists: Galway Girl by Ed Sheeran
   url: https://genius.com/Ed-sheeran-galway-girl-lyrics
@@ -2398,12 +2556,16 @@
   featured_artists:
   - Gunna
   - NAV
+  genre: rap
+  id: 3876940
   title: YOSEMITE
   title_with_artists: YOSEMITE by Travis Scott (Ft. Gunna & NAV)
   url: https://genius.com/Travis-scott-yosemite-lyrics
 - artists:
   - Khalid
   featured_artists: []
+  genre: pop
+  id: 3952794
   title: Better
   title_with_artists: Better by Khalid
   url: https://genius.com/Khalid-better-lyrics
@@ -2412,6 +2574,8 @@
   featured_artists:
   - Anne-Marie
   - Sean Paul
+  genre: pop
+  id: 2880960
   title: Rockabye
   title_with_artists: Rockabye by Clean Bandit (Ft. Anne-Marie & Sean Paul)
   url: https://genius.com/Clean-bandit-rockabye-lyrics
@@ -2419,36 +2583,48 @@
   - Martin Garrix
   - Dua Lipa
   featured_artists: []
+  genre: pop
+  id: 2945792
   title: Scared to Be Lonely
   title_with_artists: Scared to Be Lonely by Martin Garrix & Dua Lipa
   url: https://genius.com/Martin-garrix-and-dua-lipa-scared-to-be-lonely-lyrics
 - artists:
   - Dream
   featured_artists: []
+  genre: rap
+  id: 2989266
   title: Mask
   title_with_artists: Mask by Dream
   url: https://genius.com/Dream-mask-lyrics
 - artists:
   - Maroon 5
   featured_artists: []
+  genre: pop
+  id: 4881650
   title: Memories
   title_with_artists: Memories by Maroon 5
   url: https://genius.com/Maroon-5-memories-lyrics
 - artists:
   - Seal
   featured_artists: []
+  genre: pop
+  id: 49816
   title: Kiss from a Rose
   title_with_artists: Kiss from a Rose by Seal
   url: https://genius.com/Seal-kiss-from-a-rose-lyrics
 - artists:
   - Elton John
   featured_artists: []
+  genre: pop
+  id: 390407
   title: I'm Still Standing
   title_with_artists: I'm Still Standing by Elton John
   url: https://genius.com/Elton-john-im-still-standing-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8434253
   title: Anti-Hero
   title_with_artists: Anti-Hero by Taylor Swift
   url: https://genius.com/Taylor-swift-anti-hero-lyrics
@@ -2456,12 +2632,16 @@
   - Katy Perry
   featured_artists:
   - Nicki Minaj
+  genre: pop
+  id: 3080768
   title: Swish Swish
   title_with_artists: Swish Swish by Katy Perry (Ft. Nicki Minaj)
   url: https://genius.com/Katy-perry-swish-swish-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 9157489
   title: "You\u2019re Losing Me (From The Vault)"
   title_with_artists: "You\u2019re Losing Me (From The Vault) by Taylor Swift"
   url: https://genius.com/Taylor-swift-youre-losing-me-from-the-vault-lyrics
@@ -2469,78 +2649,104 @@
   - Zack Knight
   - Jasmin Walia
   featured_artists: []
+  genre: pop
+  id: 3209288
   title: Bom Diggy
   title_with_artists: Bom Diggy by Zack Knight & Jasmin Walia
   url: https://genius.com/Zack-knight-and-jasmin-walia-bom-diggy-lyrics
 - artists:
   - Post Malone
   featured_artists: []
+  genre: pop
+  id: 3646568
   title: Better Now
   title_with_artists: Better Now by Post Malone
   url: https://genius.com/Post-malone-better-now-lyrics
 - artists:
   - Alessia Cara
   featured_artists: []
+  genre: pop
+  id: 1778100
   title: Here
   title_with_artists: Here by Alessia Cara
   url: https://genius.com/Alessia-cara-here-lyrics
 - artists:
   - LP
   featured_artists: []
+  genre: pop
+  id: 2450071
   title: Lost On You
   title_with_artists: Lost On You by LP
   url: https://genius.com/Lp-lost-on-you-lyrics
 - artists:
   - Wheatus
   featured_artists: []
+  genre: rock
+  id: 390703
   title: Teenage Dirtbag
   title_with_artists: Teenage Dirtbag by Wheatus
   url: https://genius.com/Wheatus-teenage-dirtbag-lyrics
 - artists:
   - Panic! at the Disco
   featured_artists: []
+  genre: pop
+  id: 3596006
   title: High Hopes
   title_with_artists: High Hopes by Panic! at the Disco
   url: https://genius.com/Panic-at-the-disco-high-hopes-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 3788502
   title: BTS - Magic Shop (English Translation)
   title_with_artists: BTS - Magic Shop (English Translation) by Genius English Translations
   url: https://genius.com/Genius-english-translations-bts-magic-shop-english-translation-lyrics
 - artists:
   - Ava Max
   featured_artists: []
+  genre: pop
+  id: 3905115
   title: Sweet but Psycho
   title_with_artists: Sweet but Psycho by Ava Max
   url: https://genius.com/Ava-max-sweet-but-psycho-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 2403346
   title: "\u200B\u200Bocean eyes"
   title_with_artists: "\u200B\u200Bocean eyes by Billie Eilish"
   url: https://genius.com/Billie-eilish-ocean-eyes-lyrics
 - artists:
   - Nicki Minaj
   featured_artists: []
+  genre: rap
+  id: 2110
   title: Super Bass
   title_with_artists: Super Bass by Nicki Minaj
   url: https://genius.com/Nicki-minaj-super-bass-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 542389
   title: Blank Space
   title_with_artists: Blank Space by Taylor Swift
   url: https://genius.com/Taylor-swift-blank-space-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 5793982
   title: "\u200Bmy tears ricochet"
   title_with_artists: "\u200Bmy tears ricochet by Taylor Swift"
   url: https://genius.com/Taylor-swift-my-tears-ricochet-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: pop
+  id: 639914
   title: Earned It
   title_with_artists: Earned It by The Weeknd
   url: https://genius.com/The-weeknd-earned-it-lyrics
@@ -2548,6 +2754,8 @@
   - "SHAUN (\uC200)"
   featured_artists:
   - Conor Maynard
+  genre: pop
+  id: 4172920
   title: Way Back Home (Sam Feldt Edit)
   title_with_artists: "Way Back Home (Sam Feldt Edit) by SHAUN (\uC200) (Ft. Conor\
     \ Maynard)"
@@ -2556,6 +2764,8 @@
   - Buddy Castle
   featured_artists:
   - Amy Castle
+  genre: pop
+  id: 2238919
   title: The Cuppycake Song
   title_with_artists: The Cuppycake Song by Buddy Castle (Ft. Amy Castle)
   url: https://genius.com/Buddy-castle-the-cuppycake-song-lyrics
@@ -2564,18 +2774,24 @@
   featured_artists:
   - Ed Sheeran
   - Future
+  genre: pop
+  id: 3281773
   title: End Game
   title_with_artists: End Game by Taylor Swift (Ft. Ed Sheeran & Future)
   url: https://genius.com/Taylor-swift-end-game-lyrics
 - artists:
   - Drake
   featured_artists: []
+  genre: rap
+  id: 2463398
   title: Feel No Ways
   title_with_artists: Feel No Ways by Drake
   url: https://genius.com/Drake-feel-no-ways-lyrics
 - artists:
   - Moira Dela Torre
   featured_artists: []
+  genre: pop
+  id: 3261938
   title: Titibo-tibo
   title_with_artists: Titibo-tibo by Moira Dela Torre
   url: https://genius.com/Moira-dela-torre-titibo-tibo-lyrics
@@ -2583,12 +2799,16 @@
   - Liam Payne
   featured_artists:
   - Quavo
+  genre: pop
+  id: 3079084
   title: Strip That Down
   title_with_artists: Strip That Down by Liam Payne (Ft. Quavo)
   url: https://genius.com/Liam-payne-strip-that-down-lyrics
 - artists:
   - Passenger
   featured_artists: []
+  genre: folk
+  id: 135402
   title: Let Her Go
   title_with_artists: Let Her Go by Passenger
   url: https://genius.com/Passenger-let-her-go-lyrics
@@ -2596,24 +2816,32 @@
   - Justin Bieber
   featured_artists:
   - Big Sean
+  genre: electronic
+  id: 77547
   title: As Long As You Love Me
   title_with_artists: As Long As You Love Me by Justin Bieber (Ft. Big Sean)
   url: https://genius.com/Justin-bieber-as-long-as-you-love-me-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 6260164
   title: "\u200Btolerate it"
   title_with_artists: "\u200Btolerate it by Taylor Swift"
   url: https://genius.com/Taylor-swift-tolerate-it-lyrics
 - artists:
   - Ed Sheeran
   featured_artists: []
+  genre: pop
+  id: 451776
   title: Photograph
   title_with_artists: Photograph by Ed Sheeran
   url: https://genius.com/Ed-sheeran-photograph-lyrics
 - artists:
   - Bruno Mars
   featured_artists: []
+  genre: pop
+  id: 2872960
   title: 24K Magic
   title_with_artists: 24K Magic by Bruno Mars
   url: https://genius.com/Bruno-mars-24k-magic-lyrics
@@ -2622,6 +2850,8 @@
   featured_artists:
   - Bebe Rexha
   - Digital Farm Animals
+  genre: pop
+  id: 3132161
   title: Back To You
   title_with_artists: Back To You by Louis Tomlinson (Ft. Bebe Rexha & Digital Farm
     Animals)
@@ -2629,12 +2859,16 @@
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 6151003
   title: Therefore I Am
   title_with_artists: Therefore I Am by Billie Eilish
   url: https://genius.com/Billie-eilish-therefore-i-am-lyrics
 - artists:
   - Dwayne Johnson
   featured_artists: []
+  genre: pop
+  id: 2894762
   title: You're Welcome
   title_with_artists: You're Welcome by Dwayne Johnson
   url: https://genius.com/Dwayne-johnson-youre-welcome-lyrics
@@ -2642,6 +2876,8 @@
   - Hugh Jackman
   - Zac Efron
   featured_artists: []
+  genre: pop
+  id: 3317637
   title: The Other Side
   title_with_artists: The Other Side by Hugh Jackman & Zac Efron
   url: https://genius.com/Hugh-jackman-and-zac-efron-the-other-side-lyrics
@@ -2649,6 +2885,8 @@
   - Cast of Sofia the First
   featured_artists:
   - Ariel Winter
+  genre: pop
+  id: 4864087
   title: Sofia the First Main Title Theme
   title_with_artists: Sofia the First Main Title Theme by Cast of Sofia the First
     (Ft. Ariel Winter)
@@ -2657,12 +2895,16 @@
   - "\u200Bfun."
   featured_artists:
   - "Janelle Mon\xE1e"
+  genre: rock
+  id: 63985
   title: We Are Young
   title_with_artists: "We Are Young by \u200Bfun. (Ft. Janelle Mon\xE1e)"
   url: https://genius.com/Fun-we-are-young-lyrics
 - artists:
   - Michael Jackson
   featured_artists: []
+  genre: pop
+  id: 69620
   title: Smooth Criminal
   title_with_artists: Smooth Criminal by Michael Jackson
   url: https://genius.com/Michael-jackson-smooth-criminal-lyrics
@@ -2670,24 +2912,32 @@
   - Maroon 5
   featured_artists:
   - SZA
+  genre: pop
+  id: 3212901
   title: What Lovers Do
   title_with_artists: What Lovers Do by Maroon 5 (Ft. SZA)
   url: https://genius.com/Maroon-5-what-lovers-do-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 3788496
   title: BTS - FAKE LOVE (English Translation)
   title_with_artists: BTS - FAKE LOVE (English Translation) by Genius English Translations
   url: https://genius.com/Genius-english-translations-bts-fake-love-english-translation-lyrics
 - artists:
   - Drake
   featured_artists: []
+  genre: rap
+  id: 3807731
   title: Emotionless
   title_with_artists: Emotionless by Drake
   url: https://genius.com/Drake-emotionless-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 3788498
   title: "BTS - \uC804\uD558\uC9C0 \uBABB\uD55C \uC9C4\uC2EC (The Truth Untold) ft.\
     \ Steve Aoki (English Translation)"
   title_with_artists: "BTS - \uC804\uD558\uC9C0 \uBABB\uD55C \uC9C4\uC2EC (The Truth\
@@ -2697,48 +2947,64 @@
   - Charlie Puth
   featured_artists:
   - Selena Gomez
+  genre: pop
+  id: 2388373
   title: We Don't Talk Anymore
   title_with_artists: We Don't Talk Anymore by Charlie Puth (Ft. Selena Gomez)
   url: https://genius.com/Charlie-puth-we-dont-talk-anymore-lyrics
 - artists:
   - Lorde
   featured_artists: []
+  genre: pop
+  id: 217372
   title: Team
   title_with_artists: Team by Lorde
   url: https://genius.com/Lorde-team-lyrics
 - artists:
   - Kendrick Lamar
   featured_artists: []
+  genre: rap
+  id: 49129
   title: HiiiPoWeR
   title_with_artists: HiiiPoWeR by Kendrick Lamar
   url: https://genius.com/Kendrick-lamar-hiiipower-lyrics
 - artists:
   - Rex Orange County
   featured_artists: []
+  genre: rap
+  id: 2165110
   title: Best Friend
   title_with_artists: Best Friend by Rex Orange County
   url: https://genius.com/Rex-orange-county-best-friend-lyrics
 - artists:
   - OutKast
   featured_artists: []
+  genre: rap
+  id: 452
   title: Ms. Jackson
   title_with_artists: Ms. Jackson by OutKast
   url: https://genius.com/Outkast-ms-jackson-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 64764
   title: Summertime Sadness
   title_with_artists: Summertime Sadness by Lana Del Rey
   url: https://genius.com/Lana-del-rey-summertime-sadness-lyrics
 - artists:
   - Queen
   featured_artists: []
+  genre: rock
+  id: 205311
   title: Don't Stop Me Now
   title_with_artists: Don't Stop Me Now by Queen
   url: https://genius.com/Queen-dont-stop-me-now-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 3221550
   title: '...Ready for It?'
   title_with_artists: '...Ready for It? by Taylor Swift'
   url: https://genius.com/Taylor-swift-ready-for-it-lyrics
@@ -2746,6 +3012,8 @@
   - Black Eyed Peas
   featured_artists:
   - Justin Timberlake
+  genre: rap
+  id: 10680
   title: Where Is the Love?
   title_with_artists: Where Is the Love? by Black Eyed Peas (Ft. Justin Timberlake)
   url: https://genius.com/Black-eyed-peas-where-is-the-love-lyrics
@@ -2754,24 +3022,32 @@
   featured_artists:
   - Dr. Dre
   - Queen Pen
+  genre: rap
+  id: 6320
   title: No Diggity
   title_with_artists: No Diggity by Blackstreet (Ft. Dr. Dre & Queen Pen)
   url: https://genius.com/Blackstreet-no-diggity-lyrics
 - artists:
   - Oasis
   featured_artists: []
+  genre: rock
+  id: 76654
   title: Wonderwall
   title_with_artists: Wonderwall by Oasis
   url: https://genius.com/Oasis-wonderwall-lyrics
 - artists:
   - Dua Lipa
   featured_artists: []
+  genre: pop
+  id: 4547279
   title: Don't Start Now
   title_with_artists: Don't Start Now by Dua Lipa
   url: https://genius.com/Dua-lipa-dont-start-now-lyrics
 - artists:
   - Bad Bunny
   featured_artists: []
+  genre: pop
+  id: 3524844
   title: Amorfoda
   title_with_artists: Amorfoda by Bad Bunny
   url: https://genius.com/Bad-bunny-amorfoda-lyrics
@@ -2779,18 +3055,24 @@
   - Chance the Rapper
   featured_artists:
   - Childish Gambino
+  genre: rap
+  id: 146855
   title: Favorite Song
   title_with_artists: Favorite Song by Chance the Rapper (Ft. Childish Gambino)
   url: https://genius.com/Chance-the-rapper-favorite-song-lyrics
 - artists:
   - Coldplay
   featured_artists: []
+  genre: rock
+  id: 77782
   title: Yellow
   title_with_artists: Yellow by Coldplay
   url: https://genius.com/Coldplay-yellow-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 3067667
   title: Luis Fonsi & Daddy Yankee - Despacito (Remix) ft. Justin Bieber (English
     Translation)
   title_with_artists: Luis Fonsi & Daddy Yankee - Despacito (Remix) ft. Justin Bieber
@@ -2799,30 +3081,40 @@
 - artists:
   - Meghan Trainor
   featured_artists: []
+  genre: pop
+  id: 3057010
   title: 'NO'
   title_with_artists: NO by Meghan Trainor
   url: https://genius.com/Meghan-trainor-no-lyrics
 - artists:
   - Indila
   featured_artists: []
+  genre: pop
+  id: 266756
   title: "Derni\xE8re Danse"
   title_with_artists: "Derni\xE8re Danse by Indila"
   url: https://genius.com/Indila-derniere-danse-lyrics
 - artists:
   - Shawn Mendes
   featured_artists: []
+  genre: pop
+  id: 3591762
   title: In My Blood
   title_with_artists: In My Blood by Shawn Mendes
   url: https://genius.com/Shawn-mendes-in-my-blood-lyrics
 - artists:
   - Billy Straus
   featured_artists: []
+  genre: pop
+  id: 712367
   title: Little Einsteins Theme Song
   title_with_artists: Little Einsteins Theme Song by Billy Straus
   url: https://genius.com/Billy-straus-little-einsteins-theme-song-lyrics
 - artists:
   - Harry Styles
   featured_artists: []
+  genre: pop
+  id: 5037350
   title: Adore You
   title_with_artists: Adore You by Harry Styles
   url: https://genius.com/Harry-styles-adore-you-lyrics
@@ -2830,18 +3122,24 @@
   - Ed Sheeran
   - Justin Bieber
   featured_artists: []
+  genre: pop
+  id: 4526073
   title: I Don't Care
   title_with_artists: I Don't Care by Ed Sheeran & Justin Bieber
   url: https://genius.com/Ed-sheeran-and-justin-bieber-i-dont-care-lyrics
 - artists:
   - Jason Mraz
   featured_artists: []
+  genre: rock
+  id: 58874
   title: I'm Yours
   title_with_artists: I'm Yours by Jason Mraz
   url: https://genius.com/Jason-mraz-im-yours-lyrics
 - artists:
   - Shawn Mendes
   featured_artists: []
+  genre: pop
+  id: 2478138
   title: Treat You Better
   title_with_artists: Treat You Better by Shawn Mendes
   url: https://genius.com/Shawn-mendes-treat-you-better-lyrics
@@ -2849,24 +3147,32 @@
   - Lea Salonga
   - Brad Kane
   featured_artists: []
+  genre: pop
+  id: 132111
   title: A Whole New World
   title_with_artists: A Whole New World by Lea Salonga & Brad Kane
   url: https://genius.com/Lea-salonga-and-brad-kane-a-whole-new-world-lyrics
 - artists:
   - OneRepublic
   featured_artists: []
+  genre: pop
+  id: 145495
   title: Counting Stars
   title_with_artists: Counting Stars by OneRepublic
   url: https://genius.com/Onerepublic-counting-stars-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: rock
+  id: 63416
   title: "\u200Bimagine"
   title_with_artists: "\u200Bimagine by Ariana Grande"
   url: https://genius.com/Ariana-grande-imagine-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 6260155
   title: "\u200Bwillow"
   title_with_artists: "\u200Bwillow by Taylor Swift"
   url: https://genius.com/Taylor-swift-willow-lyrics
@@ -2875,18 +3181,24 @@
   - Don Toliver
   featured_artists:
   - NAV
+  genre: rap
+  id: 5670872
   title: Lemonade
   title_with_artists: Lemonade by Internet Money, Gunna & Don Toliver (Ft. NAV)
   url: https://genius.com/Internet-money-gunna-and-don-toliver-lemonade-lyrics
 - artists:
   - Kanye West
   featured_artists: []
+  genre: rap
+  id: 525
   title: Stronger
   title_with_artists: Stronger by Kanye West
   url: https://genius.com/Kanye-west-stronger-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 6094314
   title: "\u200Bpov"
   title_with_artists: "\u200Bpov by Ariana Grande"
   url: https://genius.com/Ariana-grande-pov-lyrics
@@ -2894,12 +3206,16 @@
   - Dan + Shay
   - Justin Bieber
   featured_artists: []
+  genre: country
+  id: 4910146
   title: 10,000 Hours
   title_with_artists: 10,000 Hours by Dan + Shay & Justin Bieber
   url: https://genius.com/Dan-shay-and-justin-bieber-10000-hours-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: pop
+  id: 3614873
   title: Wasted Times
   title_with_artists: Wasted Times by The Weeknd
   url: https://genius.com/The-weeknd-wasted-times-lyrics
@@ -2907,6 +3223,8 @@
   - Nelly Furtado
   featured_artists:
   - Timbaland
+  genre: rap
+  id: 3343
   title: Promiscuous
   title_with_artists: Promiscuous by Nelly Furtado (Ft. Timbaland)
   url: https://genius.com/Nelly-furtado-promiscuous-lyrics
@@ -2914,12 +3232,16 @@
   - Rihanna, Kanye West
   - Paul McCartney
   featured_artists: []
+  genre: pop
+  id: 690706
   title: FourFiveSeconds
   title_with_artists: FourFiveSeconds by Rihanna, Kanye West & Paul McCartney
   url: https://genius.com/Rihanna-kanye-west-and-paul-mccartney-fourfiveseconds-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 9539416
   title: '"Slut!" (Taylor''s Version) [From The Vault]'
   title_with_artists: '"Slut!" (Taylor''s Version) [From The Vault] by Taylor Swift'
   url: https://genius.com/Taylor-swift-slut-taylors-version-from-the-vault-lyrics
@@ -2927,18 +3249,24 @@
   - Ariana Grande
   - Social House
   featured_artists: []
+  genre: pop
+  id: 4737178
   title: Boyfriend
   title_with_artists: Boyfriend by Ariana Grande & Social House
   url: https://genius.com/Ariana-grande-and-social-house-boyfriend-lyrics
 - artists:
   - Fourtwnty
   featured_artists: []
+  genre: pop
+  id: 3338786
   title: Zona Nyaman
   title_with_artists: Zona Nyaman by Fourtwnty
   url: https://genius.com/Fourtwnty-zona-nyaman-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: pop
+  id: 2273458
   title: Tell Your Friends
   title_with_artists: Tell Your Friends by The Weeknd
   url: https://genius.com/The-weeknd-tell-your-friends-lyrics
@@ -2946,36 +3274,48 @@
   - Lil Peep
   - XXXTENTACION
   featured_artists: []
+  genre: pop
+  id: 3906162
   title: Falling Down
   title_with_artists: Falling Down by Lil Peep & XXXTENTACION
   url: https://genius.com/Lil-peep-and-xxxtentacion-falling-down-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 4625737
   title: You Need To Calm Down
   title_with_artists: You Need To Calm Down by Taylor Swift
   url: https://genius.com/Taylor-swift-you-need-to-calm-down-lyrics
 - artists:
   - Doja Cat
   featured_artists: []
+  genre: pop
+  id: 4989524
   title: Say So
   title_with_artists: Say So by Doja Cat
   url: https://genius.com/Doja-cat-say-so-lyrics
 - artists:
   - Rex Orange County
   featured_artists: []
+  genre: pop
+  id: 3993850
   title: Sunflower
   title_with_artists: Sunflower by Rex Orange County
   url: https://genius.com/Rex-orange-county-sunflower-lyrics
 - artists:
   - Mitski
   featured_artists: []
+  genre: pop
+  id: 9363022
   title: My Love Mine All Mine
   title_with_artists: My Love Mine All Mine by Mitski
   url: https://genius.com/Mitski-my-love-mine-all-mine-lyrics
 - artists:
   - Nat "King" Cole
   featured_artists: []
+  genre: pop
+  id: 2263909
   title: L-O-V-E
   title_with_artists: L-O-V-E by Nat "King" Cole
   url: https://genius.com/Nat-king-cole-l-o-v-e-lyrics
@@ -2983,6 +3323,8 @@
   - Doja Cat
   featured_artists:
   - SZA
+  genre: pop
+  id: 6556752
   title: Kiss Me More
   title_with_artists: Kiss Me More by Doja Cat (Ft. SZA)
   url: https://genius.com/Doja-cat-kiss-me-more-lyrics
@@ -2990,6 +3332,8 @@
   - J Balvin
   - Willy William
   featured_artists: []
+  genre: pop
+  id: 3106596
   title: Mi Gente
   title_with_artists: Mi Gente by J Balvin & Willy William
   url: https://genius.com/J-balvin-and-willy-william-mi-gente-lyrics
@@ -2998,6 +3342,8 @@
   featured_artists:
   - Daniel Caesar
   - "GIV\u0112ON"
+  genre: pop
+  id: 6326342
   title: Peaches
   title_with_artists: "Peaches by Justin Bieber (Ft. Daniel Caesar & GIV\u0112ON)"
   url: https://genius.com/Justin-bieber-peaches-lyrics
@@ -3005,12 +3351,16 @@
   - A Great Big World
   - Christina Aguilera
   featured_artists: []
+  genre: pop
+  id: 255826
   title: Say Something
   title_with_artists: Say Something by A Great Big World & Christina Aguilera
   url: https://genius.com/A-great-big-world-and-christina-aguilera-say-something-lyrics
 - artists:
   - Kendrick Lamar
   featured_artists: []
+  genre: pop
+  id: 3057010
   title: FEEL.
   title_with_artists: FEEL. by Kendrick Lamar
   url: https://genius.com/Kendrick-lamar-feel-lyrics
@@ -3019,12 +3369,16 @@
   featured_artists:
   - Justin Bieber
   - "M\xD8"
+  genre: pop
+  id: 2481759
   title: Cold Water
   title_with_artists: "Cold Water by Major Lazer (Ft. Justin Bieber & M\xD8)"
   url: https://genius.com/Major-lazer-cold-water-lyrics
 - artists:
   - Ed Sheeran
   featured_artists: []
+  genre: pop
+  id: 2953760
   title: Dive
   title_with_artists: Dive by Ed Sheeran
   url: https://genius.com/Ed-sheeran-dive-lyrics
@@ -3032,12 +3386,16 @@
   - Taylor Swift
   featured_artists:
   - Brendon Urie
+  genre: pop
+  id: 3057010
   title: ME!
   title_with_artists: ME! by Taylor Swift (Ft. Brendon Urie)
   url: https://genius.com/Taylor-swift-me-lyrics
 - artists:
   - Lewis Capaldi
   featured_artists: []
+  genre: pop
+  id: 4986655
   title: Before You Go
   title_with_artists: Before You Go by Lewis Capaldi
   url: https://genius.com/Lewis-capaldi-before-you-go-lyrics
@@ -3045,6 +3403,8 @@
   - Clean Bandit
   featured_artists:
   - Jess Glynne
+  genre: pop
+  id: 292916
   title: Rather Be
   title_with_artists: Rather Be by Clean Bandit (Ft. Jess Glynne)
   url: https://genius.com/Clean-bandit-rather-be-lyrics
@@ -3056,6 +3416,8 @@
   - Grandmaster Caz
   - Grandmaster Melle Mel
   - Kool Moe Dee
+  genre: rap
+  id: 2291611
   title: Downtown
   title_with_artists: Downtown by Macklemore & Ryan Lewis (Ft. Eric Nally, Grandmaster
     Caz, Grandmaster Melle Mel & Kool Moe Dee)
@@ -3065,6 +3427,8 @@
   - Ty Dolla $ign
   featured_artists:
   - X Ambassadors
+  genre: rap
+  id: 2554106
   title: Sucker for Pain
   title_with_artists: Sucker for Pain by Lil Wayne, Wiz Khalifa, Imagine Dragons,
     Logic & Ty Dolla $ign (Ft. X Ambassadors)
@@ -3073,48 +3437,64 @@
   - Chris Brown
   - Tyga
   featured_artists: []
+  genre: pop
+  id: 640182
   title: Ayo
   title_with_artists: Ayo by Chris Brown & Tyga
   url: https://genius.com/Chris-brown-and-tyga-ayo-lyrics
 - artists:
   - XXXTENTACION
   featured_artists: []
+  genre: rap
+  id: 235729
   title: BAD!
   title_with_artists: BAD! by XXXTENTACION
   url: https://genius.com/Xxxtentacion-bad-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 4000336
   title: "\u200Bneedy"
   title_with_artists: "\u200Bneedy by Ariana Grande"
   url: https://genius.com/Ariana-grande-needy-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: pop
+  id: 6169
   title: The Morning
   title_with_artists: The Morning by The Weeknd
   url: https://genius.com/The-weeknd-the-morning-lyrics
 - artists:
   - "\u200Ba-ha"
   featured_artists: []
+  genre: pop
+  id: 118904
   title: Take On Me
   title_with_artists: "Take On Me by \u200Ba-ha"
   url: https://genius.com/A-ha-take-on-me-lyrics
 - artists:
   - Frank Ocean
   featured_artists: []
+  genre: pop
+  id: 2842067
   title: Solo
   title_with_artists: Solo by Frank Ocean
   url: https://genius.com/Frank-ocean-solo-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 1000223
   title: Kailash Kher - Saiyyan (Romanized)
   title_with_artists: Kailash Kher - Saiyyan (Romanized) by Genius Romanizations
   url: https://genius.com/Genius-romanizations-kailash-kher-saiyyan-romanized-lyrics
 - artists:
   - Lady Gaga
   featured_artists: []
+  genre: pop
+  id: 1313
   title: Bad Romance
   title_with_artists: Bad Romance by Lady Gaga
   url: https://genius.com/Lady-gaga-bad-romance-lyrics
@@ -3122,6 +3502,8 @@
   - N.E.R.D
   - Rihanna
   featured_artists: []
+  genre: pop
+  id: 3298826
   title: Lemon
   title_with_artists: Lemon by N.E.R.D & Rihanna
   url: https://genius.com/Nerd-and-rihanna-lemon-lyrics
@@ -3129,12 +3511,16 @@
   - Jessie J, Ariana Grande
   - Nicki Minaj
   featured_artists: []
+  genre: rap
+  id: 486355
   title: Bang Bang
   title_with_artists: Bang Bang by Jessie J, Ariana Grande & Nicki Minaj
   url: https://genius.com/Jessie-j-ariana-grande-and-nicki-minaj-bang-bang-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8485908
   title: You're On Your Own, Kid
   title_with_artists: You're On Your Own, Kid by Taylor Swift
   url: https://genius.com/Taylor-swift-youre-on-your-own-kid-lyrics
@@ -3142,6 +3528,8 @@
   - Calvin Harris
   - Disciples
   featured_artists: []
+  genre: pop
+  id: 2158086
   title: How Deep Is Your Love
   title_with_artists: How Deep Is Your Love by Calvin Harris & Disciples
   url: https://genius.com/Calvin-harris-and-disciples-how-deep-is-your-love-lyrics
@@ -3151,6 +3539,8 @@
   featured_artists:
   - Maluma
   - Swae Lee
+  genre: rap
+  id: 3720335
   title: Arms Around You
   title_with_artists: Arms Around You by XXXTENTACION & Lil Pump (Ft. Maluma & Swae
     Lee)
@@ -3158,6 +3548,8 @@
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8485907
   title: Maroon
   title_with_artists: Maroon by Taylor Swift
   url: https://genius.com/Taylor-swift-maroon-lyrics
@@ -3167,30 +3559,40 @@
   - Mark Ronson
   - Miguel
   - Rod Stewart
+  genre: rap
+  id: 1786453
   title: Everyday
   title_with_artists: Everyday by A$AP Rocky (Ft. Mark Ronson, Miguel & Rod Stewart)
   url: https://genius.com/A-ap-rocky-everyday-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 4067759
   title: "\u200Bghostin"
   title_with_artists: "\u200Bghostin by Ariana Grande"
   url: https://genius.com/Ariana-grande-ghostin-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: country
+  id: 102701
   title: All Too Well
   title_with_artists: All Too Well by Taylor Swift
   url: https://genius.com/Taylor-swift-all-too-well-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 9888882
   title: "\u200Byes, and?"
   title_with_artists: "\u200Byes, and? by Ariana Grande"
   url: https://genius.com/Ariana-grande-yes-and-lyrics
 - artists:
   - Stromae
   featured_artists: []
+  genre: pop
+  id: 203940
   title: "\u200BTous les m\xEAmes"
   title_with_artists: "\u200BTous les m\xEAmes by Stromae"
   url: https://genius.com/Stromae-tous-les-memes-lyrics
@@ -3198,12 +3600,16 @@
   - Estelle
   featured_artists:
   - Kanye West
+  genre: rap
+  id: 2927
   title: American Boy
   title_with_artists: American Boy by Estelle (Ft. Kanye West)
   url: https://genius.com/Estelle-american-boy-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 5798642
   title: "\u200Bmy future"
   title_with_artists: "\u200Bmy future by Billie Eilish"
   url: https://genius.com/Billie-eilish-my-future-lyrics
@@ -3211,18 +3617,24 @@
   - PewDiePie
   - Party in Backyard
   featured_artists: []
+  genre: rap
+  id: 4001588
   title: Bitch Lasagna
   title_with_artists: Bitch Lasagna by PewDiePie & Party in Backyard
   url: https://genius.com/Pewdiepie-and-party-in-backyard-bitch-lasagna-lyrics
 - artists:
   - BLACKPINK
   featured_artists: []
+  genre: pop
+  id: 3126688
   title: "\uB9C8\uC9C0\uB9C9\uCC98\uB7FC (AS IF IT'S YOUR LAST)"
   title_with_artists: "\uB9C8\uC9C0\uB9C9\uCC98\uB7FC (AS IF IT'S YOUR LAST) by BLACKPINK"
   url: https://genius.com/Blackpink-as-if-its-your-last-lyrics
 - artists:
   - Frank Ocean
   featured_artists: []
+  genre: pop
+  id: 78968
   title: Forrest Gump
   title_with_artists: Forrest Gump by Frank Ocean
   url: https://genius.com/Frank-ocean-forrest-gump-lyrics
@@ -3230,78 +3642,104 @@
   - Selena Gomez
   - Marshmello
   featured_artists: []
+  genre: rap
+  id: 2421668
   title: Wolves
   title_with_artists: Wolves by Selena Gomez & Marshmello
   url: https://genius.com/Selena-gomez-and-marshmello-wolves-lyrics
 - artists:
   - Rae Sremmurd
   featured_artists: []
+  genre: rap
+  id: 2457826
   title: Swang
   title_with_artists: Swang by Rae Sremmurd
   url: https://genius.com/Rae-sremmurd-swang-lyrics
 - artists:
   - Halsey
   featured_artists: []
+  genre: pop
+  id: 726660
   title: Colors
   title_with_artists: Colors by Halsey
   url: https://genius.com/Halsey-colors-lyrics
 - artists:
   - Selena Gomez
   featured_artists: []
+  genre: pop
+  id: 3132161
   title: Back To You
   title_with_artists: Back To You by Selena Gomez
   url: https://genius.com/Selena-gomez-back-to-you-lyrics
 - artists:
   - Stephen Sanchez
   featured_artists: []
+  genre: pop
+  id: 7159685
   title: Until I Found You
   title_with_artists: Until I Found You by Stephen Sanchez
   url: https://genius.com/Stephen-sanchez-until-i-found-you-lyrics
 - artists:
   - Portugal. The Man
   featured_artists: []
+  genre: rock
+  id: 3008446
   title: Feel It Still
   title_with_artists: Feel It Still by Portugal. The Man
   url: https://genius.com/Portugal-the-man-feel-it-still-lyrics
 - artists:
   - Backstreet Boys
   featured_artists: []
+  genre: pop
+  id: 105083
   title: I Want It That Way
   title_with_artists: I Want It That Way by Backstreet Boys
   url: https://genius.com/Backstreet-boys-i-want-it-that-way-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: pop
+  id: 3792450
   title: "\u200Bhappier"
   title_with_artists: "\u200Bhappier by Olivia Rodrigo"
   url: https://genius.com/Olivia-rodrigo-happier-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 4114857
   title: "\u200Bin my head"
   title_with_artists: "\u200Bin my head by Ariana Grande"
   url: https://genius.com/Ariana-grande-in-my-head-lyrics
 - artists:
   - ElyOtto
   featured_artists: []
+  genre: pop
+  id: 5857963
   title: SugarCrash!
   title_with_artists: SugarCrash! by ElyOtto
   url: https://genius.com/Elyotto-sugarcrash-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 5793972
   title: "\u200Binvisible string"
   title_with_artists: "\u200Binvisible string by Taylor Swift"
   url: https://genius.com/Taylor-swift-invisible-string-lyrics
 - artists:
   - Joji
   featured_artists: []
+  genre: pop
+  id: 8078287
   title: Glimpse of Us
   title_with_artists: Glimpse of Us by Joji
   url: https://genius.com/Joji-glimpse-of-us-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 3804217
   title: "BLACKPINK - \uB69C\uB450\uB69C\uB450 (DDU-DU DDU-DU) (Romanized)"
   title_with_artists: "BLACKPINK - \uB69C\uB450\uB69C\uB450 (DDU-DU DDU-DU) (Romanized)\
     \ by Genius Romanizations"
@@ -3309,42 +3747,56 @@
 - artists:
   - Sia
   featured_artists: []
+  genre: pop
+  id: 2391084
   title: Cheap Thrills
   title_with_artists: Cheap Thrills by Sia
   url: https://genius.com/Sia-cheap-thrills-lyrics
 - artists:
   - Bruno Mars
   featured_artists: []
+  genre: pop
+  id: 122542
   title: When I Was Your Man
   title_with_artists: When I Was Your Man by Bruno Mars
   url: https://genius.com/Bruno-mars-when-i-was-your-man-lyrics
 - artists:
   - "\u200Btwenty one pilots"
   featured_artists: []
+  genre: pop
+  id: 725792
   title: Ride
   title_with_artists: "Ride by \u200Btwenty one pilots"
   url: https://genius.com/Twenty-one-pilots-ride-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 5793979
   title: "\u200Bseven"
   title_with_artists: "\u200Bseven by Taylor Swift"
   url: https://genius.com/Taylor-swift-seven-lyrics
 - artists:
   - Frankie Valli
   featured_artists: []
+  genre: pop
+  id: 155529
   title: Can't Take My Eyes Off You
   title_with_artists: Can't Take My Eyes Off You by Frankie Valli
   url: https://genius.com/Frankie-valli-cant-take-my-eyes-off-you-lyrics
 - artists:
   - Justin Bieber
   featured_artists: []
+  genre: pop
+  id: 2286779
   title: What Do You Mean?
   title_with_artists: What Do You Mean? by Justin Bieber
   url: https://genius.com/Justin-bieber-what-do-you-mean-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 4453314
   title: "BTS - \uC791\uC740 \uAC83\uB4E4\uC744 \uC704\uD55C \uC2DC (Boy With Luv)\
     \ ft. Halsey (Romanized)"
   title_with_artists: "BTS - \uC791\uC740 \uAC83\uB4E4\uC744 \uC704\uD55C \uC2DC (Boy\
@@ -3353,36 +3805,48 @@
 - artists:
   - Missy Elliott
   featured_artists: []
+  genre: rap
+  id: 4176
   title: Work It
   title_with_artists: Work It by Missy Elliott
   url: https://genius.com/Missy-elliott-work-it-lyrics
 - artists:
   - Doja Cat
   featured_artists: []
+  genre: rap
+  id: 8996826
   title: Agora Hills
   title_with_artists: Agora Hills by Doja Cat
   url: https://genius.com/Doja-cat-agora-hills-lyrics
 - artists:
   - Imagine Dragons
   featured_artists: []
+  genre: rock
+  id: 109206
   title: Demons
   title_with_artists: Demons by Imagine Dragons
   url: https://genius.com/Imagine-dragons-demons-lyrics
 - artists:
   - Judy Garland
   featured_artists: []
+  genre: pop
+  id: 67962
   title: Over the Rainbow
   title_with_artists: Over the Rainbow by Judy Garland
   url: https://genius.com/Judy-garland-over-the-rainbow-lyrics
 - artists:
   - Aqua
   featured_artists: []
+  genre: pop
+  id: 133137
   title: Barbie Girl
   title_with_artists: Barbie Girl by Aqua
   url: https://genius.com/Aqua-barbie-girl-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 9666585
   title: Now That We Don't Talk (Taylor's Version) [From The Vault]
   title_with_artists: Now That We Don't Talk (Taylor's Version) [From The Vault] by
     Taylor Swift
@@ -3390,12 +3854,16 @@
 - artists:
   - Doja Cat
   featured_artists: []
+  genre: pop
+  id: 6732114
   title: Need To Know
   title_with_artists: Need To Know by Doja Cat
   url: https://genius.com/Doja-cat-need-to-know-lyrics
 - artists:
   - Chance the Rapper
   featured_artists: []
+  genre: rap
+  id: 3876994
   title: Juice
   title_with_artists: Juice by Chance the Rapper
   url: https://genius.com/Chance-the-rapper-juice-lyrics
@@ -3403,6 +3871,8 @@
   - Mark Ronson
   featured_artists:
   - Bruno Mars
+  genre: pop
+  id: 576123
   title: Uptown Funk
   title_with_artists: Uptown Funk by Mark Ronson (Ft. Bruno Mars)
   url: https://genius.com/Mark-ronson-uptown-funk-lyrics
@@ -3410,12 +3880,16 @@
   - Selena Gomez
   featured_artists:
   - Gucci Mane
+  genre: pop
+  id: 3023367
   title: Fetish
   title_with_artists: Fetish by Selena Gomez (Ft. Gucci Mane)
   url: https://genius.com/Selena-gomez-fetish-lyrics
 - artists:
   - Frank Ocean
   featured_artists: []
+  genre: pop
+  id: 2842086
   title: Seigfried
   title_with_artists: Seigfried by Frank Ocean
   url: https://genius.com/Frank-ocean-seigfried-lyrics
@@ -3423,30 +3897,40 @@
   - BLACKPINK
   - Selena Gomez
   featured_artists: []
+  genre: pop
+  id: 5881818
   title: Ice Cream
   title_with_artists: Ice Cream by BLACKPINK & Selena Gomez
   url: https://genius.com/Blackpink-and-selena-gomez-ice-cream-lyrics
 - artists:
   - Coldplay
   featured_artists: []
+  genre: rock
+  id: 79647
   title: Fix You
   title_with_artists: Fix You by Coldplay
   url: https://genius.com/Coldplay-fix-you-lyrics
 - artists:
   - 5 Seconds of Summer
   featured_artists: []
+  genre: rock
+  id: 3593894
   title: Youngblood
   title_with_artists: Youngblood by 5 Seconds of Summer
   url: https://genius.com/5-seconds-of-summer-youngblood-lyrics
 - artists:
   - Elton John
   featured_artists: []
+  genre: rock
+  id: 54643
   title: Bennie and the Jets
   title_with_artists: Bennie and the Jets by Elton John
   url: https://genius.com/Elton-john-bennie-and-the-jets-lyrics
 - artists:
   - "\u200Btwenty one pilots"
   featured_artists: []
+  genre: pop
+  id: 3886313
   title: Chlorine
   title_with_artists: "Chlorine by \u200Btwenty one pilots"
   url: https://genius.com/Twenty-one-pilots-chlorine-lyrics
@@ -3462,6 +3946,8 @@
   - SOULOUD
   - Thomas Mraz
   - TVETH
+  genre: rap
+  id: 3889950
   title: KONSTRUKT
   title_with_artists: KONSTRUKT by Booking Machine (Ft. JEEMBO, Loqiemean, Markul,
     May Wave$, Oxxxymiron, PORCHY, SOULOUD, Thomas Mraz & TVETH)
@@ -3470,72 +3956,96 @@
   - Kanye West
   featured_artists:
   - Paul McCartney
+  genre: pop
+  id: 657936
   title: Only One
   title_with_artists: Only One by Kanye West (Ft. Paul McCartney)
   url: https://genius.com/Kanye-west-only-one-lyrics
 - artists:
   - Conan Gray
   featured_artists: []
+  genre: pop
+  id: 5160928
   title: Heather
   title_with_artists: Heather by Conan Gray
   url: https://genius.com/Conan-gray-heather-lyrics
 - artists:
   - WILLOW
   featured_artists: []
+  genre: pop
+  id: 2389216
   title: Wait a Minute!
   title_with_artists: Wait a Minute! by WILLOW
   url: https://genius.com/Willow-wait-a-minute-lyrics
 - artists:
   - Glass Animals
   featured_artists: []
+  genre: pop
+  id: 5318313
   title: Heat Waves
   title_with_artists: Heat Waves by Glass Animals
   url: https://genius.com/Glass-animals-heat-waves-lyrics
 - artists:
   - Drake
   featured_artists: []
+  genre: rap
+  id: 2463390
   title: Keep the Family Close
   title_with_artists: Keep the Family Close by Drake
   url: https://genius.com/Drake-keep-the-family-close-lyrics
 - artists:
   - Anne-Marie
   featured_artists: []
+  genre: pop
+  id: 3541694
   title: '2002'
   title_with_artists: 2002 by Anne-Marie
   url: https://genius.com/Anne-marie-2002-lyrics
 - artists:
   - The Fairly Odd Parents
   featured_artists: []
+  genre: pop
+  id: 519307
   title: The Fairly Oddparents Theme Song
   title_with_artists: The Fairly Oddparents Theme Song by The Fairly Odd Parents
   url: https://genius.com/The-fairly-odd-parents-the-fairly-oddparents-theme-song-lyrics
 - artists:
   - This Band
   featured_artists: []
+  genre: pop
+  id: 3577575
   title: Kahit Ayaw Mo Na
   title_with_artists: Kahit Ayaw Mo Na by This Band
   url: https://genius.com/This-band-kahit-ayaw-mo-na-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 3808586
   title: BTS - Pied Piper (English Translation)
   title_with_artists: BTS - Pied Piper (English Translation) by Genius English Translations
   url: https://genius.com/Genius-english-translations-bts-pied-piper-english-translation-lyrics
 - artists:
   - Drake
   featured_artists: []
+  genre: rap
+  id: 235729
   title: '9'
   title_with_artists: 9 by Drake
   url: https://genius.com/Drake-9-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 5793985
   title: "\u200Bthe last great american dynasty"
   title_with_artists: "\u200Bthe last great american dynasty by Taylor Swift"
   url: https://genius.com/Taylor-swift-the-last-great-american-dynasty-lyrics
 - artists:
   - ZAYN
   featured_artists: []
+  genre: pop
+  id: 2414425
   title: PILLOWTALK
   title_with_artists: PILLOWTALK by ZAYN
   url: https://genius.com/Zayn-pillowtalk-lyrics
@@ -3543,6 +4053,8 @@
   - Jasmine Cephas-Jones, Leslie Odom, Jr., Lin-Manuel Miranda, Sydney James Harcourt
   - Original Broadway Cast of "Hamilton"
   featured_artists: []
+  genre: rap
+  id: 2315295
   title: Say No to This
   title_with_artists: Say No to This by Jasmine Cephas-Jones, Leslie Odom, Jr., Lin-Manuel
     Miranda, Sydney James Harcourt & Original Broadway Cast of "Hamilton"
@@ -3550,18 +4062,24 @@
 - artists:
   - BTS
   featured_artists: []
+  genre: rap
+  id: 2890553
   title: FAKE LOVE
   title_with_artists: FAKE LOVE by BTS
   url: https://genius.com/Bts-fake-love-lyrics
 - artists:
   - Thurl Ravenscroft
   featured_artists: []
+  genre: pop
+  id: 1822036
   title: You're a Mean One, Mr. Grinch
   title_with_artists: You're a Mean One, Mr. Grinch by Thurl Ravenscroft
   url: https://genius.com/Thurl-ravenscroft-youre-a-mean-one-mr-grinch-lyrics
 - artists:
   - Kanye West
   featured_artists: []
+  genre: rap
+  id: 5053007
   title: Heartless
   title_with_artists: Heartless by Kanye West
   url: https://genius.com/Kanye-west-heartless-lyrics
@@ -3570,12 +4088,16 @@
   featured_artists:
   - Lili K
   - Nate Fox
+  genre: rap
+  id: 146865
   title: Pusha Man/Paranoia
   title_with_artists: Pusha Man/Paranoia by Chance the Rapper (Ft. Lili K & Nate Fox)
   url: https://genius.com/Chance-the-rapper-pusha-man-paranoia-lyrics
 - artists:
   - A$AP Rocky
   featured_artists: []
+  genre: rap
+  id: 1873008
   title: L$D
   title_with_artists: L$D by A$AP Rocky
   url: https://genius.com/A-ap-rocky-l-d-lyrics
@@ -3583,66 +4105,88 @@
   - Sia
   featured_artists:
   - Kendrick Lamar
+  genre: pop
+  id: 2849661
   title: The Greatest
   title_with_artists: The Greatest by Sia (Ft. Kendrick Lamar)
   url: https://genius.com/Sia-the-greatest-lyrics
 - artists:
   - Post Malone
   featured_artists: []
+  genre: pop
+  id: 1868520
   title: Go Flex
   title_with_artists: Go Flex by Post Malone
   url: https://genius.com/Post-malone-go-flex-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: pop
+  id: 5056283
   title: All I Want
   title_with_artists: All I Want by Olivia Rodrigo
   url: https://genius.com/Olivia-rodrigo-all-i-want-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: pop
+  id: 6702211
   title: "\u200Btraitor"
   title_with_artists: "\u200Btraitor by Olivia Rodrigo"
   url: https://genius.com/Olivia-rodrigo-traitor-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 3283025
   title: Delicate
   title_with_artists: Delicate by Taylor Swift
   url: https://genius.com/Taylor-swift-delicate-lyrics
 - artists:
   - Don McLean
   featured_artists: []
+  genre: rock
+  id: 57030
   title: American Pie
   title_with_artists: American Pie by Don McLean
   url: https://genius.com/Don-mclean-american-pie-lyrics
 - artists:
   - Drake
   featured_artists: []
+  genre: pop
+  id: 3028677
   title: Blem
   title_with_artists: Blem by Drake
   url: https://genius.com/Drake-blem-lyrics
 - artists:
   - Bruno Mars
   featured_artists: []
+  genre: rock
+  id: 90551
   title: Locked Out Of Heaven
   title_with_artists: Locked Out Of Heaven by Bruno Mars
   url: https://genius.com/Bruno-mars-locked-out-of-heaven-lyrics
 - artists:
   - Mariah Carey
   featured_artists: []
+  genre: pop
+  id: 66302
   title: We Belong Together
   title_with_artists: We Belong Together by Mariah Carey
   url: https://genius.com/Mariah-carey-we-belong-together-lyrics
 - artists:
   - Imagine Dragons
   featured_artists: []
+  genre: rock
+  id: 3080781
   title: Whatever It Takes
   title_with_artists: Whatever It Takes by Imagine Dragons
   url: https://genius.com/Imagine-dragons-whatever-it-takes-lyrics
 - artists:
   - Polo G
   featured_artists: []
+  genre: rap
+  id: 5609020
   title: RAPSTAR
   title_with_artists: RAPSTAR by Polo G
   url: https://genius.com/Polo-g-rapstar-lyrics
@@ -3650,24 +4194,32 @@
   - The Kid LAROI
   - Justin Bieber
   featured_artists: []
+  genre: pop
+  id: 2975362
   title: STAY
   title_with_artists: STAY by The Kid LAROI & Justin Bieber
   url: https://genius.com/The-kid-laroi-and-justin-bieber-stay-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 3300013
   title: Call It What You Want
   title_with_artists: Call It What You Want by Taylor Swift
   url: https://genius.com/Taylor-swift-call-it-what-you-want-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: rap
+  id: 235729
   title: A&W
   title_with_artists: A&W by Lana Del Rey
   url: https://genius.com/Lana-del-rey-a-w-lyrics
 - artists:
   - Dua Lipa
   featured_artists: []
+  genre: pop
+  id: 3051942
   title: IDGAF
   title_with_artists: IDGAF by Dua Lipa
   url: https://genius.com/Dua-lipa-idgaf-lyrics
@@ -3675,6 +4227,8 @@
   - Kanye West
   featured_artists:
   - Dwele
+  genre: rap
+  id: 523
   title: Flashing Lights
   title_with_artists: Flashing Lights by Kanye West (Ft. Dwele)
   url: https://genius.com/Kanye-west-flashing-lights-lyrics
@@ -3682,6 +4236,8 @@
   - Ed Sheeran
   - Andrea Bocelli
   featured_artists: []
+  genre: pop
+  id: 3356202
   title: Perfect Symphony
   title_with_artists: Perfect Symphony by Ed Sheeran & Andrea Bocelli
   url: https://genius.com/Ed-sheeran-and-andrea-bocelli-perfect-symphony-lyrics
@@ -3689,6 +4245,8 @@
   - Katie Ladner, Alice Lee, Jessica Keenan Wynn, Barrett Wilbert Weed,
   - Elle McLemore
   featured_artists: []
+  genre: rap
+  id: 545
   title: Beautiful
   title_with_artists: Beautiful by Katie Ladner, Alice Lee, Jessica Keenan Wynn, Barrett
     Wilbert Weed, & Elle McLemore
@@ -3697,30 +4255,40 @@
   - Queen
   - David Bowie
   featured_artists: []
+  genre: rap
+  id: 519316
   title: Under Pressure
   title_with_artists: Under Pressure by Queen & David Bowie
   url: https://genius.com/Queen-and-david-bowie-under-pressure-lyrics
 - artists:
   - The Beatles
   featured_artists: []
+  genre: rock
+  id: 82381
   title: Hey Jude
   title_with_artists: Hey Jude by The Beatles
   url: https://genius.com/The-beatles-hey-jude-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 3788156
   title: "\u200Bpete davidson"
   title_with_artists: "\u200Bpete davidson by Ariana Grande"
   url: https://genius.com/Ariana-grande-pete-davidson-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 5793975
   title: "\u200Bthis is me trying"
   title_with_artists: "\u200Bthis is me trying by Taylor Swift"
   url: https://genius.com/Taylor-swift-this-is-me-trying-lyrics
 - artists:
   - Eminem
   featured_artists: []
+  genre: rap
+  id: 235727
   title: Legacy
   title_with_artists: Legacy by Eminem
   url: https://genius.com/Eminem-legacy-lyrics
@@ -3728,12 +4296,16 @@
   - Macklemore
   featured_artists:
   - Skylar Grey
+  genre: rap
+  id: 3121358
   title: Glorious
   title_with_artists: Glorious by Macklemore (Ft. Skylar Grey)
   url: https://genius.com/Macklemore-glorious-lyrics
 - artists:
   - Ed Sheeran
   featured_artists: []
+  genre: r-b
+  id: 579968
   title: Don't
   title_with_artists: Don't by Ed Sheeran
   url: https://genius.com/Ed-sheeran-dont-lyrics
@@ -3741,126 +4313,168 @@
   - Jonas Blue
   featured_artists:
   - JP Cooper
+  genre: pop
+  id: 2486576
   title: Perfect Strangers
   title_with_artists: Perfect Strangers by Jonas Blue (Ft. JP Cooper)
   url: https://genius.com/Jonas-blue-perfect-strangers-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 6156029
   title: BTS - Life Goes On (English Translation)
   title_with_artists: BTS - Life Goes On (English Translation) by Genius English Translations
   url: https://genius.com/Genius-english-translations-bts-life-goes-on-english-translation-lyrics
 - artists:
   - David Bowie
   featured_artists: []
+  genre: rock
+  id: 112817
   title: Space Oddity
   title_with_artists: Space Oddity by David Bowie
   url: https://genius.com/David-bowie-space-oddity-lyrics
 - artists:
   - Mac Miller
   featured_artists: []
+  genre: r-b
+  id: 4831705
   title: Good News
   title_with_artists: Good News by Mac Miller
   url: https://genius.com/Mac-miller-good-news-lyrics
 - artists:
   - Sam Smith
   featured_artists: []
+  genre: pop
+  id: 336227
   title: "I\u2019m Not The Only One"
   title_with_artists: "I\u2019m Not The Only One by Sam Smith"
   url: https://genius.com/Sam-smith-im-not-the-only-one-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 4186971
   title: "\u200Ball the good girls go to hell"
   title_with_artists: "\u200Ball the good girls go to hell by Billie Eilish"
   url: https://genius.com/Billie-eilish-all-the-good-girls-go-to-hell-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 5793974
   title: "\u200Billicit affairs"
   title_with_artists: "\u200Billicit affairs by Taylor Swift"
   url: https://genius.com/Taylor-swift-illicit-affairs-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 3805955
   title: BTS - Euphoria (English Translation)
   title_with_artists: BTS - Euphoria (English Translation) by Genius English Translations
   url: https://genius.com/Genius-english-translations-bts-euphoria-english-translation-lyrics
 - artists:
   - A$AP Rocky
   featured_artists: []
+  genre: rap
+  id: 103728
   title: Fashion Killa
   title_with_artists: Fashion Killa by A$AP Rocky
   url: https://genius.com/A-ap-rocky-fashion-killa-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 6260166
   title: "\u200Bhappiness"
   title_with_artists: "\u200Bhappiness by Taylor Swift"
   url: https://genius.com/Taylor-swift-happiness-lyrics
 - artists:
   - Kendrick Lamar
   featured_artists: []
+  genre: rap
+  id: 3047131
   title: YAH.
   title_with_artists: YAH. by Kendrick Lamar
   url: https://genius.com/Kendrick-lamar-yah-lyrics
 - artists:
   - Alessia Cara
   featured_artists: []
+  genre: pop
+  id: 2104392
   title: Scars to Your Beautiful
   title_with_artists: Scars to Your Beautiful by Alessia Cara
   url: https://genius.com/Alessia-cara-scars-to-your-beautiful-lyrics
 - artists:
   - Ed Sheeran
   featured_artists: []
+  genre: pop
+  id: 60449
   title: The A Team
   title_with_artists: The A Team by Ed Sheeran
   url: https://genius.com/Ed-sheeran-the-a-team-lyrics
 - artists:
   - Family Guy
   featured_artists: []
+  genre: pop
+  id: 132664
   title: Main Title (From "Family Guy")
   title_with_artists: Main Title (From "Family Guy") by Family Guy
   url: https://genius.com/Family-guy-main-title-from-family-guy-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 4271764
   title: "\u200Bxanny"
   title_with_artists: "\u200Bxanny by Billie Eilish"
   url: https://genius.com/Billie-eilish-xanny-lyrics
 - artists:
   - Spice Girls
   featured_artists: []
+  genre: pop
+  id: 89740
   title: Wannabe
   title_with_artists: Wannabe by Spice Girls
   url: https://genius.com/Spice-girls-wannabe-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 727466
   title: King of the Fall
   title_with_artists: King of the Fall by The Weeknd
   url: https://genius.com/The-weeknd-king-of-the-fall-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8485912
   title: Question...?
   title_with_artists: Question...? by Taylor Swift
   url: https://genius.com/Taylor-swift-question-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 729457
   title: In the Night
   title_with_artists: In the Night by The Weeknd
   url: https://genius.com/The-weeknd-in-the-night-lyrics
 - artists:
   - NCT 127
   featured_artists: []
+  genre: pop
+  id: 3980889
   title: Regular (English Ver.)
   title_with_artists: Regular (English Ver.) by NCT 127
   url: https://genius.com/Nct-127-regular-english-ver-lyrics
 - artists:
   - Linkin Park
   featured_artists: []
+  genre: pop
+  id: 2990388
   title: One More Light
   title_with_artists: One More Light by Linkin Park
   url: https://genius.com/Linkin-park-one-more-light-lyrics
@@ -3869,72 +4483,96 @@
   featured_artists:
   - MGMT
   - Ratatat
+  genre: rap
+  id: 401
   title: Pursuit of Happiness (Nightmare)
   title_with_artists: Pursuit of Happiness (Nightmare) by Kid Cudi (Ft. MGMT & Ratatat)
   url: https://genius.com/Kid-cudi-pursuit-of-happiness-nightmare-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 3844633
   title: "\u200Byou should see me in a crown"
   title_with_artists: "\u200Byou should see me in a crown by Billie Eilish"
   url: https://genius.com/Billie-eilish-you-should-see-me-in-a-crown-lyrics
 - artists:
   - Alessia Cara
   featured_artists: []
+  genre: pop
+  id: 2894765
   title: How Far I'll Go
   title_with_artists: How Far I'll Go by Alessia Cara
   url: https://genius.com/Alessia-cara-how-far-ill-go-lyrics
 - artists:
   - "\u200Bblackbear"
   featured_artists: []
+  genre: r-b
+  id: 3027501
   title: "\u200Bdo re mi"
   title_with_artists: "\u200Bdo re mi by \u200Bblackbear"
   url: https://genius.com/Blackbear-do-re-mi-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: pop
+  id: 5360217
   title: In Your Eyes
   title_with_artists: In Your Eyes by The Weeknd
   url: https://genius.com/The-weeknd-in-your-eyes-lyrics
 - artists:
   - Shawn Mendes
   featured_artists: []
+  genre: pop
+  id: 3592379
   title: Lost in Japan
   title_with_artists: Lost in Japan by Shawn Mendes
   url: https://genius.com/Shawn-mendes-lost-in-japan-lyrics
 - artists:
   - Kent Jones
   featured_artists: []
+  genre: rap
+  id: 2332450
   title: Don't Mind
   title_with_artists: Don't Mind by Kent Jones
   url: https://genius.com/Kent-jones-dont-mind-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: r-b
+  id: 2842065
   title: "\u200Bivy"
   title_with_artists: "\u200Bivy by Taylor Swift"
   url: https://genius.com/Taylor-swift-ivy-lyrics
 - artists:
   - Harry Styles
   featured_artists: []
+  genre: pop
+  id: 5037853
   title: Fine Line
   title_with_artists: Fine Line by Harry Styles
   url: https://genius.com/Harry-styles-fine-line-lyrics
 - artists:
   - USHER
   featured_artists: []
+  genre: rap
+  id: 2315135
   title: Burn
   title_with_artists: Burn by USHER
   url: https://genius.com/Usher-burn-lyrics
 - artists:
   - Britney Spears
   featured_artists: []
+  genre: pop
+  id: 78169
   title: '...Baby One More Time'
   title_with_artists: '...Baby One More Time by Britney Spears'
   url: https://genius.com/Britney-spears-baby-one-more-time-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 6935470
   title: "\u85E4\u4E95\u98A8 (Fujii Kaze) - \u6B7B\u306C\u306E\u304C\u3044\u3044\u308F\
     \ (Shinunoga E-Wa) (English Translation)"
   title_with_artists: "\u85E4\u4E95\u98A8 (Fujii Kaze) - \u6B7B\u306C\u306E\u304C\u3044\
@@ -3943,48 +4581,64 @@
 - artists:
   - Dua Lipa
   featured_artists: []
+  genre: pop
+  id: 5215007
   title: Levitating
   title_with_artists: Levitating by Dua Lipa
   url: https://genius.com/Dua-lipa-levitating-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 9538405
   title: Say Don't Go (Taylor's Version) [From The Vault]
   title_with_artists: Say Don't Go (Taylor's Version) [From The Vault] by Taylor Swift
   url: https://genius.com/Taylor-swift-say-dont-go-taylors-version-from-the-vault-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 2273462
   title: Acquainted
   title_with_artists: Acquainted by The Weeknd
   url: https://genius.com/The-weeknd-acquainted-lyrics
 - artists:
   - Dire Straits
   featured_artists: []
+  genre: rock
+  id: 127932
   title: Money for Nothing
   title_with_artists: Money for Nothing by Dire Straits
   url: https://genius.com/Dire-straits-money-for-nothing-lyrics
 - artists:
   - Rihanna
   featured_artists: []
+  genre: pop
+  id: 89794
   title: Diamonds
   title_with_artists: Diamonds by Rihanna
   url: https://genius.com/Rihanna-diamonds-lyrics
 - artists:
   - Jack Harlow
   featured_artists: []
+  genre: rap
+  id: 7857574
   title: First Class
   title_with_artists: First Class by Jack Harlow
   url: https://genius.com/Jack-harlow-first-class-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 98867
   title: Love Story
   title_with_artists: Love Story by Taylor Swift
   url: https://genius.com/Taylor-swift-love-story-lyrics
 - artists:
   - Alicia Keys
   featured_artists: []
+  genre: r-b
+  id: 276051
   title: If I Ain't Got You
   title_with_artists: If I Ain't Got You by Alicia Keys
   url: https://genius.com/Alicia-keys-if-i-aint-got-you-lyrics
@@ -3992,12 +4646,16 @@
   - Ariana Grande
   featured_artists:
   - Lil Wayne
+  genre: pop
+  id: 2819412
   title: Let Me Love You
   title_with_artists: Let Me Love You by Ariana Grande (Ft. Lil Wayne)
   url: https://genius.com/Ariana-grande-let-me-love-you-lyrics
 - artists:
   - Adele
   featured_artists: []
+  genre: pop
+  id: 2336628
   title: When We Were Young
   title_with_artists: When We Were Young by Adele
   url: https://genius.com/Adele-when-we-were-young-lyrics
@@ -4006,18 +4664,24 @@
   featured_artists:
   - The-Dream
   - Young Thug
+  genre: rap
+  id: 2412664
   title: Highlights
   title_with_artists: Highlights by Kanye West (Ft. The-Dream & Young Thug)
   url: https://genius.com/Kanye-west-highlights-lyrics
 - artists:
   - Joji
   featured_artists: []
+  genre: pop
+  id: 4606292
   title: Sanctuary
   title_with_artists: Sanctuary by Joji
   url: https://genius.com/Joji-sanctuary-lyrics
 - artists:
   - Michael Jackson
   featured_artists: []
+  genre: pop
+  id: 2912
   title: Wanna Be Startin' Somethin'
   title_with_artists: Wanna Be Startin' Somethin' by Michael Jackson
   url: https://genius.com/Michael-jackson-wanna-be-startin-somethin-lyrics
@@ -4025,18 +4689,24 @@
   - Post Malone
   featured_artists:
   - Young Thug
+  genre: rap
+  id: 4387319
   title: Goodbyes
   title_with_artists: Goodbyes by Post Malone (Ft. Young Thug)
   url: https://genius.com/Post-malone-goodbyes-lyrics
 - artists:
   - Kiiara
   featured_artists: []
+  genre: rap
+  id: 3095483
   title: Gold
   title_with_artists: Gold by Kiiara
   url: https://genius.com/Kiiara-gold-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 500846
   title: One Last Time
   title_with_artists: One Last Time by Ariana Grande
   url: https://genius.com/Ariana-grande-one-last-time-lyrics
@@ -4044,6 +4714,8 @@
   - "Pok\xE9mon"
   featured_artists:
   - Jason Paige
+  genre: pop
+  id: 67905
   title: "Pok\xE9mon Theme (Gotta Catch \u2019Em All!)"
   title_with_artists: "Pok\xE9mon Theme (Gotta Catch \u2019Em All!) by Pok\xE9mon\
     \ (Ft. Jason Paige)"
@@ -4051,18 +4723,24 @@
 - artists:
   - Sabrina Carpenter
   featured_artists: []
+  genre: pop
+  id: 6405559
   title: Skin
   title_with_artists: Skin by Sabrina Carpenter
   url: https://genius.com/Sabrina-carpenter-skin-lyrics
 - artists:
   - Stromae
   featured_artists: []
+  genre: pop
+  id: 155855
   title: Formidable
   title_with_artists: Formidable by Stromae
   url: https://genius.com/Stromae-formidable-lyrics
 - artists:
   - Tove Lo
   featured_artists: []
+  genre: pop
+  id: 382949
   title: Habits (Stay High)
   title_with_artists: Habits (Stay High) by Tove Lo
   url: https://genius.com/Tove-lo-habits-stay-high-lyrics
@@ -4070,48 +4748,64 @@
   - Taylor Swift
   featured_artists:
   - Lana Del Rey
+  genre: pop
+  id: 8445376
   title: Snow On The Beach
   title_with_artists: Snow On The Beach by Taylor Swift (Ft. Lana Del Rey)
   url: https://genius.com/Taylor-swift-snow-on-the-beach-lyrics
 - artists:
   - The Neighbourhood
   featured_artists: []
+  genre: rock
+  id: 2290592
   title: Daddy Issues
   title_with_artists: Daddy Issues by The Neighbourhood
   url: https://genius.com/The-neighbourhood-daddy-issues-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 3001600
   title: "\u200Bbellyache"
   title_with_artists: "\u200Bbellyache by Billie Eilish"
   url: https://genius.com/Billie-eilish-bellyache-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 3057010
   title: Love
   title_with_artists: Love by Lana Del Rey
   url: https://genius.com/Lana-del-rey-love-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 64755
   title: Video Games
   title_with_artists: Video Games by Lana Del Rey
   url: https://genius.com/Lana-del-rey-video-games-lyrics
 - artists:
   - Nicki Minaj
   featured_artists: []
+  genre: rap
+  id: 433309
   title: Pills N Potions
   title_with_artists: Pills N Potions by Nicki Minaj
   url: https://genius.com/Nicki-minaj-pills-n-potions-lyrics
 - artists:
   - The Chainsmokers
   featured_artists: []
+  genre: rap
+  id: 70324
   title: Paris
   title_with_artists: Paris by The Chainsmokers
   url: https://genius.com/The-chainsmokers-paris-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 4419450
   title: BLACKPINK - Kill This Love (Romanized)
   title_with_artists: BLACKPINK - Kill This Love (Romanized) by Genius Romanizations
   url: https://genius.com/Genius-romanizations-blackpink-kill-this-love-romanized-lyrics
@@ -4119,12 +4813,16 @@
   - Liam Payne
   - Rita Ora
   featured_artists: []
+  genre: pop
+  id: 3384615
   title: For You
   title_with_artists: For You by Liam Payne & Rita Ora
   url: https://genius.com/Liam-payne-and-rita-ora-for-you-lyrics
 - artists:
   - Frank Ocean
   featured_artists: []
+  genre: r-b
+  id: 2842075
   title: Godspeed
   title_with_artists: Godspeed by Frank Ocean
   url: https://genius.com/Frank-ocean-godspeed-lyrics
@@ -4132,18 +4830,24 @@
   - Bad Bunny
   featured_artists:
   - Drake
+  genre: rock
+  id: 1063
   title: MIA
   title_with_artists: MIA by Bad Bunny (Ft. Drake)
   url: https://genius.com/Bad-bunny-mia-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 3681285
   title: "\u200Bsweetener"
   title_with_artists: "\u200Bsweetener by Ariana Grande"
   url: https://genius.com/Ariana-grande-sweetener-lyrics
 - artists:
   - BTS
   featured_artists: []
+  genre: electronic
+  id: 3333474
   title: MIC Drop (Steve Aoki Remix)
   title_with_artists: MIC Drop (Steve Aoki Remix) by BTS
   url: https://genius.com/Bts-mic-drop-steve-aoki-remix-lyrics
@@ -4151,30 +4855,40 @@
   - Linkin Park
   featured_artists:
   - Kiiara
+  genre: pop
+  id: 2978797
   title: Heavy
   title_with_artists: Heavy by Linkin Park (Ft. Kiiara)
   url: https://genius.com/Linkin-park-heavy-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 499725
   title: Shake It Off
   title_with_artists: Shake It Off by Taylor Swift
   url: https://genius.com/Taylor-swift-shake-it-off-lyrics
 - artists:
   - The 1975
   featured_artists: []
+  genre: pop
+  id: 3831888
   title: Love It If We Made It
   title_with_artists: Love It If We Made It by The 1975
   url: https://genius.com/The-1975-love-it-if-we-made-it-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 4271788
   title: "\u200Bilomilo"
   title_with_artists: "\u200Bilomilo by Billie Eilish"
   url: https://genius.com/Billie-eilish-ilomilo-lyrics
 - artists:
   - Louis Armstrong
   featured_artists: []
+  genre: jazz
+  id: 104942
   title: What a Wonderful World
   title_with_artists: What a Wonderful World by Louis Armstrong
   url: https://genius.com/Louis-armstrong-what-a-wonderful-world-lyrics
@@ -4183,18 +4897,24 @@
   featured_artists:
   - Post Malone
   - Ty Dolla $ign
+  genre: rap
+  id: 2307999
   title: Fade
   title_with_artists: Fade by Kanye West (Ft. Post Malone & Ty Dolla $ign)
   url: https://genius.com/Kanye-west-fade-lyrics
 - artists:
   - Kendrick Lamar
   featured_artists: []
+  genre: rap
+  id: 3039923
   title: BLOOD.
   title_with_artists: BLOOD. by Kendrick Lamar
   url: https://genius.com/Kendrick-lamar-blood-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8461583
   title: Hits Different
   title_with_artists: Hits Different by Taylor Swift
   url: https://genius.com/Taylor-swift-hits-different-lyrics
@@ -4202,6 +4922,8 @@
   - Maroon 5
   featured_artists:
   - Wiz Khalifa
+  genre: rap
+  id: 71518
   title: Payphone
   title_with_artists: Payphone by Maroon 5 (Ft. Wiz Khalifa)
   url: https://genius.com/Maroon-5-payphone-lyrics
@@ -4209,12 +4931,16 @@
   - "Beyonc\xE9"
   featured_artists:
   - Chimamanda Ngozi Adichie
+  genre: r-b
+  id: 299370
   title: '***Flawless'
   title_with_artists: "***Flawless by Beyonc\xE9 (Ft. Chimamanda Ngozi Adichie)"
   url: https://genius.com/Beyonce-flawless-lyrics
 - artists:
   - DNCE
   featured_artists: []
+  genre: pop
+  id: 2306268
   title: Cake By The Ocean
   title_with_artists: Cake By The Ocean by DNCE
   url: https://genius.com/Dnce-cake-by-the-ocean-lyrics
@@ -4222,6 +4948,8 @@
   - Martin Garrix
   - Bebe Rexha
   featured_artists: []
+  genre: pop
+  id: 2442307
   title: In the Name of Love
   title_with_artists: In the Name of Love by Martin Garrix & Bebe Rexha
   url: https://genius.com/Martin-garrix-and-bebe-rexha-in-the-name-of-love-lyrics
@@ -4229,6 +4957,8 @@
   - Kanye West
   featured_artists:
   - Chris Martin
+  genre: rap
+  id: 552
   title: Homecoming
   title_with_artists: Homecoming by Kanye West (Ft. Chris Martin)
   url: https://genius.com/Kanye-west-homecoming-lyrics
@@ -4236,12 +4966,16 @@
   - Kendrick Lamar
   featured_artists:
   - Anna Wise
+  genre: rap
+  id: 235729
   title: Real
   title_with_artists: Real by Kendrick Lamar (Ft. Anna Wise)
   url: https://genius.com/Kendrick-lamar-real-lyrics
 - artists:
   - Prince and the Revolution
   featured_artists: []
+  genre: rock
+  id: 118945
   title: Purple Rain
   title_with_artists: Purple Rain by Prince and the Revolution
   url: https://genius.com/Prince-and-the-revolution-purple-rain-lyrics
@@ -4249,18 +4983,24 @@
   - Shaggy
   featured_artists:
   - Rikrok
+  genre: rap
+  id: 33108
   title: It Wasn't Me
   title_with_artists: It Wasn't Me by Shaggy (Ft. Rikrok)
   url: https://genius.com/Shaggy-it-wasnt-me-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8400683
   title: Mastermind
   title_with_artists: Mastermind by Taylor Swift
   url: https://genius.com/Taylor-swift-mastermind-lyrics
 - artists:
   - Bella Poarch
   featured_artists: []
+  genre: pop
+  id: 6763170
   title: Build a Bitch
   title_with_artists: Build a Bitch by Bella Poarch
   url: https://genius.com/Bella-poarch-build-a-bitch-lyrics
@@ -4268,6 +5008,8 @@
   - Taylor Swift
   featured_artists:
   - Kendrick Lamar
+  genre: pop
+  id: 1866151
   title: Bad Blood (Remix)
   title_with_artists: Bad Blood (Remix) by Taylor Swift (Ft. Kendrick Lamar)
   url: https://genius.com/Taylor-swift-bad-blood-remix-lyrics
@@ -4275,24 +5017,32 @@
   - Katy Perry
   featured_artists:
   - Juicy J
+  genre: pop
+  id: 219361
   title: Dark Horse
   title_with_artists: Dark Horse by Katy Perry (Ft. Juicy J)
   url: https://genius.com/Katy-perry-dark-horse-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8485918
   title: Karma
   title_with_artists: Karma by Taylor Swift
   url: https://genius.com/Taylor-swift-karma-lyrics
 - artists:
   - Halsey
   featured_artists: []
+  genre: rap
+  id: 3069729
   title: Bad at Love
   title_with_artists: Bad at Love by Halsey
   url: https://genius.com/Halsey-bad-at-love-lyrics
 - artists:
   - Amy Winehouse
   featured_artists: []
+  genre: pop
+  id: 52836
   title: Back to Black
   title_with_artists: Back to Black by Amy Winehouse
   url: https://genius.com/Amy-winehouse-back-to-black-lyrics
@@ -4301,12 +5051,16 @@
   featured_artists:
   - Kanye West
   - Rihanna
+  genre: rap
+  id: 74
   title: Run This Town
   title_with_artists: Run This Town by JAY-Z (Ft. Kanye West & Rihanna)
   url: https://genius.com/Jay-z-run-this-town-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 4050249
   title: "Bunny Girl - \u4E0D\u53EF\u601D\u8B70\u306E\u30AB\u30EB\u30C6 (Fukashigi\
     \ No Karte) (Romanized)"
   title_with_artists: "Bunny Girl - \u4E0D\u53EF\u601D\u8B70\u306E\u30AB\u30EB\u30C6\
@@ -4315,36 +5069,48 @@
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8486447
   title: Would've, Could've, Should've
   title_with_artists: Would've, Could've, Should've by Taylor Swift
   url: https://genius.com/Taylor-swift-wouldve-couldve-shouldve-lyrics
 - artists:
   - Ed Sheeran
   featured_artists: []
+  genre: pop
+  id: 6820606
   title: Bad Habits
   title_with_artists: Bad Habits by Ed Sheeran
   url: https://genius.com/Ed-sheeran-bad-habits-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 3237820
   title: "\u200Blisten before i go"
   title_with_artists: "\u200Blisten before i go by Billie Eilish"
   url: https://genius.com/Billie-eilish-listen-before-i-go-lyrics
 - artists:
   - The Beatles
   featured_artists: []
+  genre: pop
+  id: 87577
   title: Here Comes the Sun
   title_with_artists: Here Comes the Sun by The Beatles
   url: https://genius.com/The-beatles-here-comes-the-sun-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 62635
   title: House of Balloons / Glass Table Girls
   title_with_artists: House of Balloons / Glass Table Girls by The Weeknd
   url: https://genius.com/The-weeknd-house-of-balloons-glass-table-girls-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 61458
   title: Born To Die
   title_with_artists: Born To Die by Lana Del Rey
   url: https://genius.com/Lana-del-rey-born-to-die-lyrics
@@ -4352,48 +5118,64 @@
   - Lana Del Rey
   featured_artists:
   - The Weeknd
+  genre: pop
+  id: 3037651
   title: Lust for Life
   title_with_artists: Lust for Life by Lana Del Rey (Ft. The Weeknd)
   url: https://genius.com/Lana-del-rey-lust-for-life-lyrics
 - artists:
   - Nicki Minaj
   featured_artists: []
+  genre: pop
+  id: 3641611
   title: Barbie Tingz
   title_with_artists: Barbie Tingz by Nicki Minaj
   url: https://genius.com/Nicki-minaj-barbie-tingz-lyrics
 - artists:
   - Lorde
   featured_artists: []
+  genre: pop
+  id: 3017496
   title: Liability
   title_with_artists: Liability by Lorde
   url: https://genius.com/Lorde-liability-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 4271787
   title: "\u200Bmy strange addiction"
   title_with_artists: "\u200Bmy strange addiction by Billie Eilish"
   url: https://genius.com/Billie-eilish-my-strange-addiction-lyrics
 - artists:
   - Daddy Yankee
   featured_artists: []
+  genre: rap
+  id: 91785
   title: Gasolina
   title_with_artists: Gasolina by Daddy Yankee
   url: https://genius.com/Daddy-yankee-gasolina-lyrics
 - artists:
   - The 1975
   featured_artists: []
+  genre: pop
+  id: 212708
   title: Robbers
   title_with_artists: Robbers by The 1975
   url: https://genius.com/The-1975-robbers-lyrics
 - artists:
   - Bad Bunny
   featured_artists: []
+  genre: pop
+  id: 6855744
   title: Yonaguni
   title_with_artists: Yonaguni by Bad Bunny
   url: https://genius.com/Bad-bunny-yonaguni-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: pop
+  id: 9382805
   title: "\u200Bget him back!"
   title_with_artists: "\u200Bget him back! by Olivia Rodrigo"
   url: https://genius.com/Olivia-rodrigo-get-him-back-lyrics
@@ -4401,18 +5183,24 @@
   - Iggy Azalea
   featured_artists:
   - Charli XCX
+  genre: pop
+  id: 352612
   title: Fancy
   title_with_artists: Fancy by Iggy Azalea (Ft. Charli XCX)
   url: https://genius.com/Iggy-azalea-fancy-lyrics
 - artists:
   - Payung Teduh
   featured_artists: []
+  genre: pop
+  id: 3228575
   title: Akad
   title_with_artists: Akad by Payung Teduh
   url: https://genius.com/Payung-teduh-akad-lyrics
 - artists:
   - Michael Jackson
   featured_artists: []
+  genre: pop
+  id: 6224
   title: They Don't Care About Us
   title_with_artists: They Don't Care About Us by Michael Jackson
   url: https://genius.com/Michael-jackson-they-dont-care-about-us-lyrics
@@ -4420,84 +5208,112 @@
   - Lady Gaga
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 5317861
   title: Rain On Me
   title_with_artists: Rain On Me by Lady Gaga & Ariana Grande
   url: https://genius.com/Lady-gaga-and-ariana-grande-rain-on-me-lyrics
 - artists:
   - Dean Lewis
   featured_artists: []
+  genre: pop
+  id: 3806525
   title: Be Alright
   title_with_artists: Be Alright by Dean Lewis
   url: https://genius.com/Dean-lewis-be-alright-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 6156231
   title: BTS - Life Goes On (Romanized)
   title_with_artists: BTS - Life Goes On (Romanized) by Genius Romanizations
   url: https://genius.com/Genius-romanizations-bts-life-goes-on-romanized-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: pop
+  id: 9382034
   title: "\u200B\u200Bthe grudge"
   title_with_artists: "\u200B\u200Bthe grudge by Olivia Rodrigo"
   url: https://genius.com/Olivia-rodrigo-the-grudge-lyrics
 - artists:
   - The Fray
   featured_artists: []
+  genre: rock
+  id: 65651
   title: How to Save a Life
   title_with_artists: How to Save a Life by The Fray
   url: https://genius.com/The-fray-how-to-save-a-life-lyrics
 - artists:
   - Stromae
   featured_artists: []
+  genre: pop
+  id: 203944
   title: Carmen
   title_with_artists: Carmen by Stromae
   url: https://genius.com/Stromae-carmen-lyrics
 - artists:
   - Billy Joel
   featured_artists: []
+  genre: rock
+  id: 88991
   title: Vienna
   title_with_artists: Vienna by Billy Joel
   url: https://genius.com/Billy-joel-vienna-lyrics
 - artists:
   - "C\xE9line Dion"
   featured_artists: []
+  genre: pop
+  id: 74345
   title: My Heart Will Go On
   title_with_artists: "My Heart Will Go On by C\xE9line Dion"
   url: https://genius.com/Celine-dion-my-heart-will-go-on-lyrics
 - artists:
   - Bee Gees
   featured_artists: []
+  genre: pop
+  id: 2158086
   title: How Deep Is Your Love
   title_with_artists: How Deep Is Your Love by Bee Gees
   url: https://genius.com/Bee-gees-how-deep-is-your-love-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 3057010
   title: "\u200BR.E.M."
   title_with_artists: "\u200BR.E.M. by Ariana Grande"
   url: https://genius.com/Ariana-grande-rem-lyrics
 - artists:
   - Harry Styles
   featured_artists: []
+  genre: r-b
+  id: 3405486
   title: Medicine
   title_with_artists: Medicine by Harry Styles
   url: https://genius.com/Harry-styles-medicine-lyrics
 - artists:
   - Eurythmics
   featured_artists: []
+  genre: pop
+  id: 1640
   title: Sweet Dreams (Are Made of This)
   title_with_artists: Sweet Dreams (Are Made of This) by Eurythmics
   url: https://genius.com/Eurythmics-sweet-dreams-are-made-of-this-lyrics
 - artists:
   - My Chemical Romance
   featured_artists: []
+  genre: rock
+  id: 133519
   title: Welcome to the Black Parade
   title_with_artists: Welcome to the Black Parade by My Chemical Romance
   url: https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics
 - artists:
   - Lil Uzi Vert
   featured_artists: []
+  genre: rap
+  id: 2418877
   title: Money Longer
   title_with_artists: Money Longer by Lil Uzi Vert
   url: https://genius.com/Lil-uzi-vert-money-longer-lyrics
@@ -4505,6 +5321,8 @@
   - PinkPantheress
   - Ice Spice
   featured_artists: []
+  genre: pop
+  id: 8738986
   title: "Boy\u2019s a liar Pt. 2"
   title_with_artists: "Boy\u2019s a liar Pt. 2 by PinkPantheress & Ice Spice"
   url: https://genius.com/Pinkpantheress-and-ice-spice-boys-a-liar-pt-2-lyrics
@@ -4512,6 +5330,8 @@
   - Roddy Ricch
   featured_artists:
   - Mustard
+  genre: r-b
+  id: 5068161
   title: High Fashion
   title_with_artists: High Fashion by Roddy Ricch (Ft. Mustard)
   url: https://genius.com/Roddy-ricch-high-fashion-lyrics
@@ -4519,6 +5339,8 @@
   - CNCO
   - Little Mix
   featured_artists: []
+  genre: pop
+  id: 3199350
   title: "Reggaet\xF3n Lento (Remix)"
   title_with_artists: "Reggaet\xF3n Lento (Remix) by CNCO & Little Mix"
   url: https://genius.com/Cnco-and-little-mix-reggaeton-lento-remix-lyrics
@@ -4527,12 +5349,16 @@
   featured_artists:
   - Justin Bieber
   - Young Thug
+  genre: rap
+  id: 714719
   title: Maria I'm Drunk
   title_with_artists: Maria I'm Drunk by Travis Scott (Ft. Justin Bieber & Young Thug)
   url: https://genius.com/Travis-scott-maria-im-drunk-lyrics
 - artists:
   - Lil Nas X
   featured_artists: []
+  genre: rap
+  id: 4442107
   title: Panini
   title_with_artists: Panini by Lil Nas X
   url: https://genius.com/Lil-nas-x-panini-lyrics
@@ -4540,48 +5366,64 @@
   - DJ Khaled
   featured_artists:
   - Drake
+  genre: rap
+  id: 5522492
   title: GREECE
   title_with_artists: GREECE by DJ Khaled (Ft. Drake)
   url: https://genius.com/Dj-khaled-greece-lyrics
 - artists:
   - Michael Jackson
   featured_artists: []
+  genre: pop
+  id: 3882
   title: Thriller
   title_with_artists: Thriller by Michael Jackson
   url: https://genius.com/Michael-jackson-thriller-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 4085805
   title: JENNIE - SOLO (Romanized)
   title_with_artists: JENNIE - SOLO (Romanized) by Genius Romanizations
   url: https://genius.com/Genius-romanizations-jennie-solo-romanized-lyrics
 - artists:
   - Tate McRae
   featured_artists: []
+  genre: pop
+  id: 9393794
   title: "\u200Bgreedy"
   title_with_artists: "\u200Bgreedy by Tate McRae"
   url: https://genius.com/Tate-mcrae-greedy-lyrics
 - artists:
   - High School Musical Cast
   featured_artists: []
+  genre: pop
+  id: 393416
   title: Gotta Go My Own Way
   title_with_artists: Gotta Go My Own Way by High School Musical Cast
   url: https://genius.com/High-school-musical-cast-gotta-go-my-own-way-lyrics
 - artists:
   - Maroon 5
   featured_artists: []
+  genre: pop
+  id: 3261716
   title: Girls Like You
   title_with_artists: Girls Like You by Maroon 5
   url: https://genius.com/Maroon-5-girls-like-you-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 3143254
   title: COPYCAT
   title_with_artists: COPYCAT by Billie Eilish
   url: https://genius.com/Billie-eilish-copycat-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 2994171
   title: "TAEYANG - \uB208, \uCF54, \uC785 (EYES, NOSE, LIPS) (Romanized)"
   title_with_artists: "TAEYANG - \uB208, \uCF54, \uC785 (EYES, NOSE, LIPS) (Romanized)\
     \ by Genius Romanizations"
@@ -4589,24 +5431,32 @@
 - artists:
   - Adele
   featured_artists: []
+  genre: pop
+  id: 62493
   title: Set Fire to the Rain
   title_with_artists: Set Fire to the Rain by Adele
   url: https://genius.com/Adele-set-fire-to-the-rain-lyrics
 - artists:
   - Mr. Probz
   featured_artists: []
+  genre: rap
+  id: 2412668
   title: Waves
   title_with_artists: Waves by Mr. Probz
   url: https://genius.com/Mr-probz-waves-lyrics
 - artists:
   - Lewis Capaldi
   featured_artists: []
+  genre: pop
+  id: 3040880
   title: Bruises
   title_with_artists: Bruises by Lewis Capaldi
   url: https://genius.com/Lewis-capaldi-bruises-lyrics
 - artists:
   - Tyler, The Creator
   featured_artists: []
+  genre: rap
+  id: 4544033
   title: GONE, GONE / THANK YOU
   title_with_artists: GONE, GONE / THANK YOU by Tyler, The Creator
   url: https://genius.com/Tyler-the-creator-gone-gone-thank-you-lyrics
@@ -4614,12 +5464,16 @@
   - Taylor Swift
   featured_artists:
   - Bon Iver
+  genre: pop
+  id: 6260141
   title: "\u200Bevermore"
   title_with_artists: "\u200Bevermore by Taylor Swift (Ft. Bon Iver)"
   url: https://genius.com/Taylor-swift-evermore-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 4456531
   title: "BTS - \uC18C\uC6B0\uC8FC (Mikrokosmos) (English Translation)"
   title_with_artists: "BTS - \uC18C\uC6B0\uC8FC (Mikrokosmos) (English Translation)\
     \ by Genius English Translations"
@@ -4628,6 +5482,8 @@
   - Clean Bandit
   featured_artists:
   - Zara Larsson
+  genre: pop
+  id: 2991654
   title: Symphony
   title_with_artists: Symphony by Clean Bandit (Ft. Zara Larsson)
   url: https://genius.com/Clean-bandit-symphony-lyrics
@@ -4635,18 +5491,24 @@
   - Taylor Lautner
   featured_artists:
   - Lavagirl
+  genre: pop
+  id: 3691525
   title: Dream Song
   title_with_artists: Dream Song by Taylor Lautner (Ft. Lavagirl)
   url: https://genius.com/Taylor-lautner-dream-song-lyrics
 - artists:
   - December Avenue
   featured_artists: []
+  genre: rock
+  id: 3473406
   title: Sa Ngalan Ng Pag-Ibig
   title_with_artists: Sa Ngalan Ng Pag-Ibig by December Avenue
   url: https://genius.com/December-avenue-sa-ngalan-ng-pag-ibig-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 3283019
   title: Getaway Car
   title_with_artists: Getaway Car by Taylor Swift
   url: https://genius.com/Taylor-swift-getaway-car-lyrics
@@ -4654,78 +5516,104 @@
   - Justin Timberlake
   featured_artists:
   - JAY-Z
+  genre: pop
+  id: 109287
   title: Suit & Tie
   title_with_artists: Suit & Tie by Justin Timberlake (Ft. JAY-Z)
   url: https://genius.com/Justin-timberlake-suit-and-tie-lyrics
 - artists:
   - Kesha
   featured_artists: []
+  genre: pop
+  id: 3139340
   title: Praying
   title_with_artists: Praying by Kesha
   url: https://genius.com/Kesha-praying-lyrics
 - artists:
   - Miley Cyrus
   featured_artists: []
+  genre: pop
+  id: 3075800
   title: Malibu
   title_with_artists: Malibu by Miley Cyrus
   url: https://genius.com/Miley-cyrus-malibu-lyrics
 - artists:
   - Red Hot Chili Peppers
   featured_artists: []
+  genre: rock
+  id: 3226
   title: Under the Bridge
   title_with_artists: Under the Bridge by Red Hot Chili Peppers
   url: https://genius.com/Red-hot-chili-peppers-under-the-bridge-lyrics
 - artists:
   - Harry Styles
   featured_artists: []
+  genre: pop
+  id: 8017385
   title: Matilda
   title_with_artists: Matilda by Harry Styles
   url: https://genius.com/Harry-styles-matilda-lyrics
 - artists:
   - Maroon 5
   featured_artists: []
+  genre: pop
+  id: 78316
   title: One More Night
   title_with_artists: One More Night by Maroon 5
   url: https://genius.com/Maroon-5-one-more-night-lyrics
 - artists:
   - Maroon 5
   featured_artists: []
+  genre: rap
+  id: 2314493
   title: Sugar
   title_with_artists: Sugar by Maroon 5
   url: https://genius.com/Maroon-5-sugar-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: pop
+  id: 9382815
   title: "\u200Blacy"
   title_with_artists: "\u200Blacy by Olivia Rodrigo"
   url: https://genius.com/Olivia-rodrigo-lacy-lyrics
 - artists:
   - Frank Ocean
   featured_artists: []
+  genre: r-b
+  id: 4620
   title: Swim Good
   title_with_artists: Swim Good by Frank Ocean
   url: https://genius.com/Frank-ocean-swim-good-lyrics
 - artists:
   - Harry Styles
   featured_artists: []
+  genre: pop
+  id: 5037815
   title: Cherry
   title_with_artists: Cherry by Harry Styles
   url: https://genius.com/Harry-styles-cherry-lyrics
 - artists:
   - "\u200Btwenty one pilots"
   featured_artists: []
+  genre: pop
+  id: 3812599
   title: Nico And The Niners
   title_with_artists: "Nico And The Niners by \u200Btwenty one pilots"
   url: https://genius.com/Twenty-one-pilots-nico-and-the-niners-lyrics
 - artists:
   - Miley Cyrus
   featured_artists: []
+  genre: pop
+  id: 209747
   title: Wrecking Ball
   title_with_artists: Wrecking Ball by Miley Cyrus
   url: https://genius.com/Miley-cyrus-wrecking-ball-lyrics
 - artists:
   - "\u200Bfun."
   featured_artists: []
+  genre: rock
+  id: 66704
   title: Some Nights
   title_with_artists: "Some Nights by \u200Bfun."
   url: https://genius.com/Fun-some-nights-lyrics
@@ -4733,42 +5621,56 @@
   - StarBoi3
   featured_artists:
   - Doja Cat
+  genre: rap
+  id: 5832126
   title: Dick
   title_with_artists: Dick by StarBoi3 (Ft. Doja Cat)
   url: https://genius.com/Starboi3-dick-lyrics
 - artists:
   - Trevor Daniel
   featured_artists: []
+  genre: pop
+  id: 5037838
   title: Falling
   title_with_artists: Falling by Trevor Daniel
   url: https://genius.com/Trevor-daniel-falling-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 84880
   title: We Are Never Ever Getting Back Together
   title_with_artists: We Are Never Ever Getting Back Together by Taylor Swift
   url: https://genius.com/Taylor-swift-we-are-never-ever-getting-back-together-lyrics
 - artists:
   - LSD
   featured_artists: []
+  genre: pop
+  id: 3860353
   title: Thunderclouds
   title_with_artists: Thunderclouds by LSD
   url: https://genius.com/Lsd-thunderclouds-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: rap
+  id: 1791
   title: Gorgeous
   title_with_artists: Gorgeous by Taylor Swift
   url: https://genius.com/Taylor-swift-gorgeous-lyrics
 - artists:
   - "Axwell \u039B Ingrosso"
   featured_artists: []
+  genre: electronic
+  id: 3081001
   title: More Than You Know
   title_with_artists: "More Than You Know by Axwell \u039B Ingrosso"
   url: https://genius.com/Axwell-ingrosso-more-than-you-know-lyrics
 - artists:
   - BTS
   featured_artists: []
+  genre: pop
+  id: 6913616
   title: Permission to Dance
   title_with_artists: Permission to Dance by BTS
   url: https://genius.com/Bts-permission-to-dance-lyrics
@@ -4776,6 +5678,8 @@
   - Kina
   featured_artists:
   - "Sn\xF8w"
+  genre: pop
+  id: 3588164
   title: Get You the Moon
   title_with_artists: "Get You the Moon by Kina (Ft. Sn\xF8w)"
   url: https://genius.com/Kina-get-you-the-moon-lyrics
@@ -4783,18 +5687,24 @@
   - Carmen Twillie
   - Lebo M
   featured_artists: []
+  genre: pop
+  id: 67220
   title: Circle of Life
   title_with_artists: Circle of Life by Carmen Twillie & Lebo M
   url: https://genius.com/Carmen-twillie-and-lebo-m-circle-of-life-lyrics
 - artists:
   - Gims
   featured_artists: []
+  genre: r-b
+  id: 123198
   title: J'me tire
   title_with_artists: J'me tire by Gims
   url: https://genius.com/Gims-jme-tire-lyrics
 - artists:
   - Jonas Brothers
   featured_artists: []
+  genre: pop
+  id: 4350998
   title: Sucker
   title_with_artists: Sucker by Jonas Brothers
   url: https://genius.com/Jonas-brothers-sucker-lyrics
@@ -4802,12 +5712,16 @@
   - Maroon 5
   featured_artists:
   - Kendrick Lamar
+  genre: pop
+  id: 2851057
   title: Don't Wanna Know
   title_with_artists: Don't Wanna Know by Maroon 5 (Ft. Kendrick Lamar)
   url: https://genius.com/Maroon-5-dont-wanna-know-lyrics
 - artists:
   - OutKast
   featured_artists: []
+  genre: rap
+  id: 1065
   title: Roses
   title_with_artists: Roses by OutKast
   url: https://genius.com/Outkast-roses-lyrics
@@ -4815,30 +5729,40 @@
   - Rihanna
   featured_artists:
   - JAY-Z
+  genre: pop
+  id: 1629
   title: Umbrella
   title_with_artists: Umbrella by Rihanna (Ft. JAY-Z)
   url: https://genius.com/Rihanna-umbrella-lyrics
 - artists:
   - Nena
   featured_artists: []
+  genre: pop
+  id: 1145735
   title: 99 Luftballons
   title_with_artists: 99 Luftballons by Nena
   url: https://genius.com/Nena-99-luftballons-lyrics
 - artists:
   - Kid Cudi
   featured_artists: []
+  genre: rap
+  id: 131
   title: "Day \u2018N\u2019 Nite (Nightmare)"
   title_with_artists: "Day \u2018N\u2019 Nite (Nightmare) by Kid Cudi"
   url: https://genius.com/Kid-cudi-day-n-nite-nightmare-lyrics
 - artists:
   - Drake
   featured_artists: []
+  genre: r-b
+  id: 3807756
   title: Jaded
   title_with_artists: Jaded by Drake
   url: https://genius.com/Drake-jaded-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8485914
   title: Vigilante Shit
   title_with_artists: Vigilante Shit by Taylor Swift
   url: https://genius.com/Taylor-swift-vigilante-shit-lyrics
@@ -4846,36 +5770,48 @@
   - ZAYN
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 2927948
   title: I Don't Wanna Live Forever
   title_with_artists: I Don't Wanna Live Forever by ZAYN & Taylor Swift
   url: https://genius.com/Zayn-and-taylor-swift-i-dont-wanna-live-forever-lyrics
 - artists:
   - Selena Gomez
   featured_artists: []
+  genre: pop
+  id: 3084463
   title: Bad Liar
   title_with_artists: Bad Liar by Selena Gomez
   url: https://genius.com/Selena-gomez-bad-liar-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 4067750
   title: NASA
   title_with_artists: NASA by Ariana Grande
   url: https://genius.com/Ariana-grande-nasa-lyrics
 - artists:
   - Lorde
   featured_artists: []
+  genre: pop
+  id: 3004720
   title: Green Light
   title_with_artists: Green Light by Lorde
   url: https://genius.com/Lorde-green-light-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 50236
   title: The Party & The After Party
   title_with_artists: The Party & The After Party by The Weeknd
   url: https://genius.com/The-weeknd-the-party-and-the-after-party-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: rap
+  id: 235729
   title: Angel
   title_with_artists: Angel by The Weeknd
   url: https://genius.com/The-weeknd-angel-lyrics
@@ -4883,6 +5819,8 @@
   - Kanye West
   featured_artists:
   - PARTYNEXTDOOR
+  genre: rap
+  id: 3756507
   title: Wouldn't Leave
   title_with_artists: Wouldn't Leave by Kanye West (Ft. PARTYNEXTDOOR)
   url: https://genius.com/Kanye-west-wouldnt-leave-lyrics
@@ -4891,42 +5829,56 @@
   featured_artists:
   - DJ Snake
   - "M\xD8"
+  genre: electronic
+  id: 715223
   title: Lean On
   title_with_artists: "Lean On by Major Lazer (Ft. DJ Snake & M\xD8)"
   url: https://genius.com/Major-lazer-lean-on-lyrics
 - artists:
   - TLC
   featured_artists: []
+  genre: r-b
+  id: 1942
   title: Waterfalls
   title_with_artists: Waterfalls by TLC
   url: https://genius.com/Tlc-waterfalls-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 6260161
   title: "\u200Bgold rush"
   title_with_artists: "\u200Bgold rush by Taylor Swift"
   url: https://genius.com/Taylor-swift-gold-rush-lyrics
 - artists:
   - BTS
   featured_artists: []
+  genre: pop
+  id: 764417
   title: "\uBD04\uB0A0 (Spring Day)"
   title_with_artists: "\uBD04\uB0A0 (Spring Day) by BTS"
   url: https://genius.com/Bts-spring-day-lyrics
 - artists:
   - Mario
   featured_artists: []
+  genre: pop
+  id: 2819412
   title: Let Me Love You
   title_with_artists: Let Me Love You by Mario
   url: https://genius.com/Mario-let-me-love-you-lyrics
 - artists:
   - "Janine Te\xF1oso"
   featured_artists: []
+  genre: pop
+  id: 3761293
   title: '''Di Na Muli'
   title_with_artists: "'Di Na Muli by Janine Te\xF1oso"
   url: https://genius.com/Janine-tenoso-di-na-muli-lyrics
 - artists:
   - The Beatles
   featured_artists: []
+  genre: rock
+  id: 87564
   title: Something
   title_with_artists: Something by The Beatles
   url: https://genius.com/The-beatles-something-lyrics
@@ -4934,18 +5886,24 @@
   - Snow
   featured_artists:
   - MC Shan
+  genre: rap
+  id: 667
   title: Informer
   title_with_artists: Informer by Snow (Ft. MC Shan)
   url: https://genius.com/Snow-informer-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: rap
+  id: 3315890
   title: "\u200Bpeace"
   title_with_artists: "\u200Bpeace by Taylor Swift"
   url: https://genius.com/Taylor-swift-peace-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 3306086
   title: Don't Blame Me
   title_with_artists: Don't Blame Me by Taylor Swift
   url: https://genius.com/Taylor-swift-dont-blame-me-lyrics
@@ -4953,12 +5911,16 @@
   - JP Saxe
   featured_artists:
   - Julia Michaels
+  genre: pop
+  id: 4946130
   title: If The World Was Ending
   title_with_artists: If The World Was Ending by JP Saxe (Ft. Julia Michaels)
   url: https://genius.com/Jp-saxe-if-the-world-was-ending-lyrics
 - artists:
   - Kodaline
   featured_artists: []
+  genre: pop
+  id: 5056283
   title: All I Want
   title_with_artists: All I Want by Kodaline
   url: https://genius.com/Kodaline-all-i-want-lyrics
@@ -4966,6 +5928,8 @@
   - Idina Menzel
   - Evan Rachel Wood
   featured_artists: []
+  genre: pop
+  id: 4910484
   title: Show Yourself
   title_with_artists: Show Yourself by Idina Menzel & Evan Rachel Wood
   url: https://genius.com/Idina-menzel-and-evan-rachel-wood-show-yourself-lyrics
@@ -4973,6 +5937,8 @@
   - Nelly
   featured_artists:
   - Kelly Rowland
+  genre: rap
+  id: 35293
   title: Dilemma
   title_with_artists: Dilemma by Nelly (Ft. Kelly Rowland)
   url: https://genius.com/Nelly-dilemma-lyrics
@@ -4980,42 +5946,56 @@
   - The Neighbourhood
   - Syd
   featured_artists: []
+  genre: pop
+  id: 4540919
   title: Daddy Issues (Remix)
   title_with_artists: Daddy Issues (Remix) by The Neighbourhood & Syd
   url: https://genius.com/The-neighbourhood-and-syd-daddy-issues-remix-lyrics
 - artists:
   - Miley Cyrus
   featured_artists: []
+  genre: pop
+  id: 2509
   title: Party in the U.S.A.
   title_with_artists: Party in the U.S.A. by Miley Cyrus
   url: https://genius.com/Miley-cyrus-party-in-the-usa-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 5118671
   title: KANA-BOON - Silhouette (Romanized)
   title_with_artists: KANA-BOON - Silhouette (Romanized) by Genius Romanizations
   url: https://genius.com/Genius-romanizations-kana-boon-silhouette-romanized-lyrics
 - artists:
   - Cigarettes After Sex
   featured_artists: []
+  genre: pop
+  id: 3030273
   title: Apocalypse
   title_with_artists: Apocalypse by Cigarettes After Sex
   url: https://genius.com/Cigarettes-after-sex-apocalypse-lyrics
 - artists:
   - Niall Horan
   featured_artists: []
+  genre: pop
+  id: 3070591
   title: Slow Hands
   title_with_artists: Slow Hands by Niall Horan
   url: https://genius.com/Niall-horan-slow-hands-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: rap
+  id: 506641
   title: Try Me
   title_with_artists: Try Me by The Weeknd
   url: https://genius.com/The-weeknd-try-me-lyrics
 - artists:
   - Rebecca Sugar
   featured_artists: []
+  genre: jazz
+  id: 740498
   title: Love Like You
   title_with_artists: Love Like You by Rebecca Sugar
   url: https://genius.com/Rebecca-sugar-love-like-you-lyrics
@@ -5023,6 +6003,8 @@
   - Drake
   featured_artists:
   - PARTYNEXTDOOR
+  genre: pop
+  id: 2949128
   title: With You
   title_with_artists: With You by Drake (Ft. PARTYNEXTDOOR)
   url: https://genius.com/Drake-with-you-lyrics
@@ -5031,12 +6013,16 @@
   featured_artists:
   - Lil Jon
   - Ludacris
+  genre: r-b
+  id: 148
   title: Yeah!
   title_with_artists: Yeah! by USHER (Ft. Lil Jon & Ludacris)
   url: https://genius.com/Usher-yeah-lyrics
 - artists:
   - MGMT
   featured_artists: []
+  genre: electronic
+  id: 3080835
   title: Little Dark Age
   title_with_artists: Little Dark Age by MGMT
   url: https://genius.com/Mgmt-little-dark-age-lyrics
@@ -5044,18 +6030,24 @@
   - The Weeknd
   - Gesaffelstein
   featured_artists: []
+  genre: r-b
+  id: 3614926
   title: I Was Never There
   title_with_artists: I Was Never There by The Weeknd & Gesaffelstein
   url: https://genius.com/The-weeknd-and-gesaffelstein-i-was-never-there-lyrics
 - artists:
   - Post Malone
   featured_artists: []
+  genre: rap
+  id: 4839087
   title: Hollywood's Bleeding
   title_with_artists: Hollywood's Bleeding by Post Malone
   url: https://genius.com/Post-malone-hollywoods-bleeding-lyrics
 - artists:
   - "\u041C\u043E\u043D\u0435\u0442\u043E\u0447\u043A\u0430 (Monetochka)"
   featured_artists: []
+  genre: pop
+  id: 3742043
   title: "\u041A\u0430\u0436\u0434\u044B\u0439 \u0440\u0430\u0437 (Every Time)"
   title_with_artists: "\u041A\u0430\u0436\u0434\u044B\u0439 \u0440\u0430\u0437 (Every\
     \ Time) by \u041C\u043E\u043D\u0435\u0442\u043E\u0447\u043A\u0430 (Monetochka)"
@@ -5063,12 +6055,16 @@
 - artists:
   - One Direction
   featured_artists: []
+  genre: pop
+  id: 2953761
   title: Perfect
   title_with_artists: Perfect by One Direction
   url: https://genius.com/One-direction-perfect-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 3908599
   title: 'BTS - Answer: Love Myself (English Translation)'
   title_with_artists: 'BTS - Answer: Love Myself (English Translation) by Genius English
     Translations'
@@ -5076,30 +6072,40 @@
 - artists:
   - "\u200Btwenty one pilots"
   featured_artists: []
+  genre: pop
+  id: 104726
   title: Car Radio
   title_with_artists: "Car Radio by \u200Btwenty one pilots"
   url: https://genius.com/Twenty-one-pilots-car-radio-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 2263591
   title: Shameless
   title_with_artists: Shameless by The Weeknd
   url: https://genius.com/The-weeknd-shameless-lyrics
 - artists:
   - Harry Styles
   featured_artists: []
+  genre: pop
+  id: 4935579
   title: Lights Up
   title_with_artists: Lights Up by Harry Styles
   url: https://genius.com/Harry-styles-lights-up-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 4067752
   title: "\u200Bbloodline"
   title_with_artists: "\u200Bbloodline by Ariana Grande"
   url: https://genius.com/Ariana-grande-bloodline-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 50398
   title: Rolling Stone
   title_with_artists: Rolling Stone by The Weeknd
   url: https://genius.com/The-weeknd-rolling-stone-lyrics
@@ -5107,6 +6113,8 @@
   - Lin-Manuel Miranda, Phillipa Soo, Original Broadway Cast of "Hamilton"
   - "Ren\xE9e Elise Goldsberry"
   featured_artists: []
+  genre: rap
+  id: 2315113
   title: It's Quiet Uptown
   title_with_artists: "It's Quiet Uptown by Lin-Manuel Miranda, Phillipa Soo, Original\
     \ Broadway Cast of \"Hamilton\" & Ren\xE9e Elise Goldsberry"
@@ -5114,12 +6122,16 @@
 - artists:
   - AURORA
   featured_artists: []
+  genre: pop
+  id: 1295
   title: Runaway
   title_with_artists: Runaway by AURORA
   url: https://genius.com/Aurora-runaway-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8485905
   title: Midnight Rain
   title_with_artists: Midnight Rain by Taylor Swift
   url: https://genius.com/Taylor-swift-midnight-rain-lyrics
@@ -5127,12 +6139,16 @@
   - Justin Bieber
   featured_artists:
   - Chance the Rapper
+  genre: pop
+  id: 5956102
   title: Holy
   title_with_artists: Holy by Justin Bieber (Ft. Chance the Rapper)
   url: https://genius.com/Justin-bieber-holy-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 8436329
   title: "\u200Bimase - NIGHT DANCER (Romanized)"
   title_with_artists: "\u200Bimase - NIGHT DANCER (Romanized) by Genius Romanizations"
   url: https://genius.com/Genius-romanizations-imase-night-dancer-romanized-lyrics
@@ -5140,30 +6156,40 @@
   - Katy Perry
   featured_artists:
   - Skip Marley
+  genre: pop
+  id: 2977709
   title: Chained To The Rhythm
   title_with_artists: Chained To The Rhythm by Katy Perry (Ft. Skip Marley)
   url: https://genius.com/Katy-perry-chained-to-the-rhythm-lyrics
 - artists:
   - Mitski
   featured_artists: []
+  genre: pop
+  id: 581363
   title: First Love / Late Spring
   title_with_artists: First Love / Late Spring by Mitski
   url: https://genius.com/Mitski-first-love-late-spring-lyrics
 - artists:
   - Charlie Puth
   featured_artists: []
+  genre: pop
+  id: 3236636
   title: How Long
   title_with_artists: How Long by Charlie Puth
   url: https://genius.com/Charlie-puth-how-long-lyrics
 - artists:
   - BTS
   featured_artists: []
+  genre: pop
+  id: 3629701
   title: Euphoria
   title_with_artists: Euphoria by BTS
   url: https://genius.com/Bts-euphoria-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 3965734
   title: Norman fucking Rockwell
   title_with_artists: Norman fucking Rockwell by Lana Del Rey
   url: https://genius.com/Lana-del-rey-norman-fucking-rockwell-lyrics
@@ -5171,24 +6197,32 @@
   - Doja Cat
   featured_artists:
   - Nicki Minaj
+  genre: pop
+  id: 5521685
   title: Say So (Remix)
   title_with_artists: Say So (Remix) by Doja Cat (Ft. Nicki Minaj)
   url: https://genius.com/Doja-cat-say-so-remix-lyrics
 - artists:
   - Sufian Suhaimi
   featured_artists: []
+  genre: pop
+  id: 3613339
   title: Di Matamu
   title_with_artists: Di Matamu by Sufian Suhaimi
   url: https://genius.com/Sufian-suhaimi-di-matamu-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 4721067
   title: The Archer
   title_with_artists: The Archer by Taylor Swift
   url: https://genius.com/Taylor-swift-the-archer-lyrics
 - artists:
   - Pink Guy
   featured_artists: []
+  genre: rap
+  id: 2864991
   title: STFU
   title_with_artists: STFU by Pink Guy
   url: https://genius.com/Pink-guy-stfu-lyrics
@@ -5196,48 +6230,64 @@
   - Clean Bandit
   featured_artists:
   - Demi Lovato
+  genre: pop
+  id: 2842067
   title: Solo
   title_with_artists: Solo by Clean Bandit (Ft. Demi Lovato)
   url: https://genius.com/Clean-bandit-solo-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 6156331
   title: BTS - Blue & Grey (English Translation)
   title_with_artists: BTS - Blue & Grey (English Translation) by Genius English Translations
   url: https://genius.com/Genius-english-translations-bts-blue-and-grey-english-translation-lyrics
 - artists:
   - Imagine Dragons
   featured_artists: []
+  genre: rock
+  id: 98754
   title: Radioactive
   title_with_artists: Radioactive by Imagine Dragons
   url: https://genius.com/Imagine-dragons-radioactive-lyrics
 - artists:
   - Bishop Briggs
   featured_artists: []
+  genre: rap
+  id: 3350680
   title: River
   title_with_artists: River by Bishop Briggs
   url: https://genius.com/Bishop-briggs-river-lyrics
 - artists:
   - King Princess
   featured_artists: []
+  genre: pop
+  id: 3543447
   title: '1950'
   title_with_artists: 1950 by King Princess
   url: https://genius.com/King-princess-1950-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 3614928
   title: Privilege
   title_with_artists: Privilege by The Weeknd
   url: https://genius.com/The-weeknd-privilege-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: rock
+  id: 6702206
   title: "\u200Bbrutal"
   title_with_artists: "\u200Bbrutal by Olivia Rodrigo"
   url: https://genius.com/Olivia-rodrigo-brutal-lyrics
 - artists:
   - "V (\uBDD4)"
   featured_artists: []
+  genre: pop
+  id: 4768954
   title: Winter Bear
   title_with_artists: "Winter Bear by V (\uBDD4)"
   url: https://genius.com/V-winter-bear-lyrics
@@ -5245,18 +6295,24 @@
   - Chance the Rapper
   featured_artists:
   - Noname
+  genre: r-b
+  id: 78963
   title: Lost
   title_with_artists: Lost by Chance the Rapper (Ft. Noname)
   url: https://genius.com/Chance-the-rapper-lost-lyrics
 - artists:
   - KIDS SEE GHOSTS
   featured_artists: []
+  genre: rap
+  id: 3720970
   title: Reborn
   title_with_artists: Reborn by KIDS SEE GHOSTS
   url: https://genius.com/Kids-see-ghosts-reborn-lyrics
 - artists:
   - Miley Cyrus
   featured_artists: []
+  genre: pop
+  id: 9247387
   title: Used To Be Young
   title_with_artists: Used To Be Young by Miley Cyrus
   url: https://genius.com/Miley-cyrus-used-to-be-young-lyrics
@@ -5264,6 +6320,8 @@
   - BTS
   featured_artists:
   - Steve Aoki
+  genre: pop
+  id: 3715886
   title: "\uC804\uD558\uC9C0 \uBABB\uD55C \uC9C4\uC2EC (The Truth Untold)"
   title_with_artists: "\uC804\uD558\uC9C0 \uBABB\uD55C \uC9C4\uC2EC (The Truth Untold)\
     \ by BTS (Ft. Steve Aoki)"
@@ -5271,78 +6329,104 @@
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 1305815
   title: Shankar Mahadevan - Breathless (Romanized)
   title_with_artists: Shankar Mahadevan - Breathless (Romanized) by Genius Romanizations
   url: https://genius.com/Genius-romanizations-shankar-mahadevan-breathless-romanized-lyrics
 - artists:
   - George Michael
   featured_artists: []
+  genre: pop
+  id: 110101
   title: Careless Whisper
   title_with_artists: Careless Whisper by George Michael
   url: https://genius.com/George-michael-careless-whisper-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: pop
+  id: 9382814
   title: "\u200Ball-american bitch"
   title_with_artists: "\u200Ball-american bitch by Olivia Rodrigo"
   url: https://genius.com/Olivia-rodrigo-all-american-bitch-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: pop
+  id: 6702238
   title: "\u200Bfavorite crime"
   title_with_artists: "\u200Bfavorite crime by Olivia Rodrigo"
   url: https://genius.com/Olivia-rodrigo-favorite-crime-lyrics
 - artists:
   - Bruno Mars
   featured_artists: []
+  genre: pop
+  id: 57149
   title: It Will Rain
   title_with_artists: It Will Rain by Bruno Mars
   url: https://genius.com/Bruno-mars-it-will-rain-lyrics
 - artists:
   - Radiohead
   featured_artists: []
+  genre: rock
+  id: 71498
   title: No Surprises
   title_with_artists: No Surprises by Radiohead
   url: https://genius.com/Radiohead-no-surprises-lyrics
 - artists:
   - Queen
   featured_artists: []
+  genre: pop
+  id: 308937
   title: Love of My Life
   title_with_artists: Love of My Life by Queen
   url: https://genius.com/Queen-love-of-my-life-lyrics
 - artists:
   - The Beatles
   featured_artists: []
+  genre: pop
+  id: 1577
   title: Eleanor Rigby
   title_with_artists: Eleanor Rigby by The Beatles
   url: https://genius.com/The-beatles-eleanor-rigby-lyrics
 - artists:
   - Frank Ocean
   featured_artists: []
+  genre: r-b
+  id: 2842090
   title: Futura Free
   title_with_artists: Futura Free by Frank Ocean
   url: https://genius.com/Frank-ocean-futura-free-lyrics
 - artists:
   - Rusty Cage
   featured_artists: []
+  genre: pop
+  id: 136553
   title: The Knife Game Song
   title_with_artists: The Knife Game Song by Rusty Cage
   url: https://genius.com/Rusty-cage-the-knife-game-song-lyrics
 - artists:
   - Burger King
   featured_artists: []
+  genre: rap
+  id: 8749069
   title: Whopper Whopper
   title_with_artists: Whopper Whopper by Burger King
   url: https://genius.com/Burger-king-whopper-whopper-lyrics
 - artists:
   - Labrinth
   featured_artists: []
+  genre: pop
+  id: 561813
   title: Jealous
   title_with_artists: Jealous by Labrinth
   url: https://genius.com/Labrinth-jealous-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 3281502
   title: Dress
   title_with_artists: Dress by Taylor Swift
   url: https://genius.com/Taylor-swift-dress-lyrics
@@ -5350,30 +6434,40 @@
   - Calvin Harris
   - Dua Lipa
   featured_artists: []
+  genre: pop
+  id: 3596108
   title: One Kiss
   title_with_artists: One Kiss by Calvin Harris & Dua Lipa
   url: https://genius.com/Calvin-harris-and-dua-lipa-one-kiss-lyrics
 - artists:
   - David Bowie
   featured_artists: []
+  genre: rock
+  id: 79216
   title: Starman
   title_with_artists: Starman by David Bowie
   url: https://genius.com/David-bowie-starman-lyrics
 - artists:
   - "ROS\xC9"
   featured_artists: []
+  genre: pop
+  id: 6552696
   title: On The Ground
   title_with_artists: "On The Ground by ROS\xC9"
   url: https://genius.com/Rose-on-the-ground-lyrics
 - artists:
   - Adele
   featured_artists: []
+  genre: pop
+  id: 2336647
   title: All I Ask
   title_with_artists: All I Ask by Adele
   url: https://genius.com/Adele-all-i-ask-lyrics
 - artists:
   - Kendrick Lamar
   featured_artists: []
+  genre: rap
+  id: 7995423
   title: Auntie Diaries
   title_with_artists: Auntie Diaries by Kendrick Lamar
   url: https://genius.com/Kendrick-lamar-auntie-diaries-lyrics
@@ -5384,6 +6478,8 @@
   - Kerry Butler
   - Rob McClure
   - Sophia Anne Caruso
+  genre: pop
+  id: 4449152
   title: Say My Name
   title_with_artists: Say My Name by Original Broadway Cast of Beetlejuice (Ft. Alex
     Brightman, Kerry Butler, Rob McClure & Sophia Anne Caruso)
@@ -5391,6 +6487,8 @@
 - artists:
   - Sia
   featured_artists: []
+  genre: pop
+  id: 3276441
   title: Snowman
   title_with_artists: Snowman by Sia
   url: https://genius.com/Sia-snowman-lyrics
@@ -5398,18 +6496,24 @@
   - Jhay Cortez, J Balvin
   - Bad Bunny
   featured_artists: []
+  genre: pop
+  id: 4558062
   title: No Me Conoce (Remix)
   title_with_artists: No Me Conoce (Remix) by Jhay Cortez, J Balvin & Bad Bunny
   url: https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
 - artists:
   - Ezhel
   featured_artists: []
+  genre: rap
+  id: 4069574
   title: Felaket
   title_with_artists: Felaket by Ezhel
   url: https://genius.com/Ezhel-felaket-lyrics
 - artists:
   - Manu Pilas
   featured_artists: []
+  genre: folk
+  id: 3885955
   title: Bella Ciao
   title_with_artists: Bella Ciao by Manu Pilas
   url: https://genius.com/Manu-pilas-bella-ciao-lyrics
@@ -5417,12 +6521,16 @@
   - Loud Luxury
   featured_artists:
   - "\u200Bbrando"
+  genre: pop
+  id: 3296847
   title: Body
   title_with_artists: "Body by Loud Luxury (Ft. \u200Bbrando)"
   url: https://genius.com/Loud-luxury-body-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 2465219
   title: Into You
   title_with_artists: Into You by Ariana Grande
   url: https://genius.com/Ariana-grande-into-you-lyrics
@@ -5430,18 +6538,24 @@
   - Drake
   - Michael Jackson
   featured_artists: []
+  genre: r-b
+  id: 3807766
   title: Don't Matter to Me
   title_with_artists: Don't Matter to Me by Drake & Michael Jackson
   url: https://genius.com/Drake-and-michael-jackson-dont-matter-to-me-lyrics
 - artists:
   - Iyaz
   featured_artists: []
+  genre: r-b
+  id: 2545
   title: Replay
   title_with_artists: Replay by Iyaz
   url: https://genius.com/Iyaz-replay-lyrics
 - artists:
   - Khalid
   featured_artists: []
+  genre: rap
+  id: 235729
   title: Talk
   title_with_artists: Talk by Khalid
   url: https://genius.com/Khalid-talk-lyrics
@@ -5449,24 +6563,32 @@
   - David Guetta
   featured_artists:
   - Justin Bieber
+  genre: pop
+  id: 3114109
   title: 2U
   title_with_artists: 2U by David Guetta (Ft. Justin Bieber)
   url: https://genius.com/David-guetta-2u-lyrics
 - artists:
   - Tony Halstead
   featured_artists: []
+  genre: pop
+  id: 3564543
   title: Globglogabgalab
   title_with_artists: Globglogabgalab by Tony Halstead
   url: https://genius.com/Tony-halstead-globglogabgalab-lyrics
 - artists:
   - One Direction
   featured_artists: []
+  genre: pop
+  id: 245655
   title: Story of My Life
   title_with_artists: Story of My Life by One Direction
   url: https://genius.com/One-direction-story-of-my-life-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 5793964
   title: "\u200Bmad woman"
   title_with_artists: "\u200Bmad woman by Taylor Swift"
   url: https://genius.com/Taylor-swift-mad-woman-lyrics
@@ -5474,12 +6596,16 @@
   - Miguel
   featured_artists:
   - Travis Scott
+  genre: r-b
+  id: 3209510
   title: Sky Walker
   title_with_artists: Sky Walker by Miguel (Ft. Travis Scott)
   url: https://genius.com/Miguel-sky-walker-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 93460
   title: Twenty Eight
   title_with_artists: Twenty Eight by The Weeknd
   url: https://genius.com/The-weeknd-twenty-eight-lyrics
@@ -5487,12 +6613,16 @@
   - "Beyonc\xE9"
   featured_artists:
   - Jack White
+  genre: rock
+  id: 2461230
   title: Don't Hurt Yourself
   title_with_artists: "Don't Hurt Yourself by Beyonc\xE9 (Ft. Jack White)"
   url: https://genius.com/Beyonce-dont-hurt-yourself-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 3615920
   title: "\u200Bhope is a dangerous thing for a woman like me to have - but i have\
     \ it"
   title_with_artists: "\u200Bhope is a dangerous thing for a woman like me to have\
@@ -5501,12 +6631,16 @@
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 3143259
   title: "\u200Bhostage"
   title_with_artists: "\u200Bhostage by Billie Eilish"
   url: https://genius.com/Billie-eilish-hostage-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 9303875
   title: What Was I Made For?
   title_with_artists: What Was I Made For? by Billie Eilish
   url: https://genius.com/Billie-eilish-what-was-i-made-for-lyrics
@@ -5514,6 +6648,8 @@
   - Lin-Manuel Miranda
   - Leslie Odom, Jr.
   featured_artists: []
+  genre: rap
+  id: 2314546
   title: Dear Theodosia
   title_with_artists: Dear Theodosia by Lin-Manuel Miranda & Leslie Odom, Jr.
   url: https://genius.com/Lin-manuel-miranda-and-leslie-odom-jr-dear-theodosia-lyrics
@@ -5521,12 +6657,16 @@
   - Romeo Santos
   featured_artists:
   - Drake
+  genre: rap
+  id: 348711
   title: Odio
   title_with_artists: Odio by Romeo Santos (Ft. Drake)
   url: https://genius.com/Romeo-santos-odio-lyrics
 - artists:
   - "\xC9dith Piaf"
   featured_artists: []
+  genre: jazz
+  id: 92801
   title: La vie en rose
   title_with_artists: "La vie en rose by \xC9dith Piaf"
   url: https://genius.com/Edith-piaf-la-vie-en-rose-lyrics
@@ -5534,6 +6674,8 @@
   - Coldplay
   featured_artists:
   - "Beyonc\xE9"
+  genre: pop
+  id: 2353271
   title: Hymn For The Weekend
   title_with_artists: "Hymn For The Weekend by Coldplay (Ft. Beyonc\xE9)"
   url: https://genius.com/Coldplay-hymn-for-the-weekend-lyrics
@@ -5542,18 +6684,24 @@
   - Randy
   - "\xD1engo Flow"
   featured_artists: []
+  genre: pop
+  id: 5305013
   title: Safaera
   title_with_artists: "Safaera by Bad Bunny, Jowell & Randy & \xD1engo Flow"
   url: https://genius.com/Bad-bunny-jowell-and-randy-and-nengo-flow-safaera-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 9788587
   title: Anuv Jain - Husn (Romanized)
   title_with_artists: Anuv Jain - Husn (Romanized) by Genius Romanizations
   url: https://genius.com/Genius-romanizations-anuv-jain-husn-romanized-lyrics
 - artists:
   - Halsey
   featured_artists: []
+  genre: rap
+  id: 1797
   title: Nightmare
   title_with_artists: Nightmare by Halsey
   url: https://genius.com/Halsey-nightmare-lyrics
@@ -5561,18 +6709,24 @@
   - "Blue Ivy, SAINt JHN, Beyonc\xE9"
   - Wizkid
   featured_artists: []
+  genre: pop
+  id: 4704081
   title: BROWN SKIN GIRL
   title_with_artists: "BROWN SKIN GIRL by Blue Ivy, SAINt JHN, Beyonc\xE9 & Wizkid"
   url: https://genius.com/Blue-ivy-saint-jhn-beyonce-and-wizkid-brown-skin-girl-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 4765964
   title: Daylight
   title_with_artists: Daylight by Taylor Swift
   url: https://genius.com/Taylor-swift-daylight-lyrics
 - artists:
   - "\u200Btwenty one pilots"
   featured_artists: []
+  genre: pop
+  id: 725790
   title: Heavydirtysoul
   title_with_artists: "Heavydirtysoul by \u200Btwenty one pilots"
   url: https://genius.com/Twenty-one-pilots-heavydirtysoul-lyrics
@@ -5580,24 +6734,32 @@
   - Jon Bellion
   featured_artists:
   - Travis Mendes
+  genre: pop
+  id: 749215
   title: All Time Low
   title_with_artists: All Time Low by Jon Bellion (Ft. Travis Mendes)
   url: https://genius.com/Jon-bellion-all-time-low-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 3306083
   title: I Did Something Bad
   title_with_artists: I Did Something Bad by Taylor Swift
   url: https://genius.com/Taylor-swift-i-did-something-bad-lyrics
 - artists:
   - Gims
   featured_artists: []
+  genre: pop
+  id: 147338
   title: Bella
   title_with_artists: Bella by Gims
   url: https://genius.com/Gims-bella-lyrics
 - artists:
   - Christmas Songs
   featured_artists: []
+  genre: pop
+  id: 1850939
   title: Joy to the World
   title_with_artists: Joy to the World by Christmas Songs
   url: https://genius.com/Christmas-songs-joy-to-the-world-lyrics
@@ -5605,6 +6767,8 @@
   - Travis Scott
   featured_artists:
   - Frank Ocean
+  genre: rap
+  id: 3876992
   title: CAROUSEL
   title_with_artists: CAROUSEL by Travis Scott (Ft. Frank Ocean)
   url: https://genius.com/Travis-scott-carousel-lyrics
@@ -5612,6 +6776,8 @@
   - Post Malone
   featured_artists:
   - Justin Bieber
+  genre: pop
+  id: 6649389
   title: Deja Vu
   title_with_artists: Deja Vu by Post Malone (Ft. Justin Bieber)
   url: https://genius.com/Post-malone-deja-vu-lyrics
@@ -5619,24 +6785,32 @@
   - Taylor Swift
   featured_artists:
   - HAIM
+  genre: pop
+  id: 6260165
   title: "\u200Bno body, no crime"
   title_with_artists: "\u200Bno body, no crime by Taylor Swift (Ft. HAIM)"
   url: https://genius.com/Taylor-swift-no-body-no-crime-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8442190
   title: Lavender Haze
   title_with_artists: Lavender Haze by Taylor Swift
   url: https://genius.com/Taylor-swift-lavender-haze-lyrics
 - artists:
   - "Beyonc\xE9"
   featured_artists: []
+  genre: pop
+  id: 299368
   title: Blow
   title_with_artists: "Blow by Beyonc\xE9"
   url: https://genius.com/Beyonce-blow-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 5360860
   title: Escape From LA
   title_with_artists: Escape From LA by The Weeknd
   url: https://genius.com/The-weeknd-escape-from-la-lyrics
@@ -5646,6 +6820,8 @@
   - Carlos Andrez
   - Judah Amar
   - Rio Santana
+  genre: pop
+  id: 3577666
   title: I don't even speak spanish lol
   title_with_artists: I don't even speak spanish lol by XXXTENTACION (Ft. Carlos Andrez,
     Judah Amar & Rio Santana)
@@ -5654,42 +6830,56 @@
   - "Jung Kook (\uC815\uAD6D)"
   featured_artists:
   - Latto
+  genre: pop
+  id: 9283569
   title: Seven (Clean Ver.)
   title_with_artists: "Seven (Clean Ver.) by Jung Kook (\uC815\uAD6D) (Ft. Latto)"
   url: https://genius.com/Jung-kook-seven-clean-ver-lyrics
 - artists:
   - Shawn Mendes
   featured_artists: []
+  genre: pop
+  id: 724693
   title: Stitches
   title_with_artists: Stitches by Shawn Mendes
   url: https://genius.com/Shawn-mendes-stitches-lyrics
 - artists:
   - One Direction
   featured_artists: []
+  genre: pop
+  id: 72070
   title: What Makes You Beautiful
   title_with_artists: What Makes You Beautiful by One Direction
   url: https://genius.com/One-direction-what-makes-you-beautiful-lyrics
 - artists:
   - Sam Smith
   featured_artists: []
+  genre: rap
+  id: 3039923
   title: Pray
   title_with_artists: Pray by Sam Smith
   url: https://genius.com/Sam-smith-pray-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 2949128
   title: The Man
   title_with_artists: The Man by Taylor Swift
   url: https://genius.com/Taylor-swift-the-man-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 5793957
   title: "\u200Bhoax"
   title_with_artists: "\u200Bhoax by Taylor Swift"
   url: https://genius.com/Taylor-swift-hoax-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 3138202
   title: "\u200Bwatch"
   title_with_artists: "\u200Bwatch by Billie Eilish"
   url: https://genius.com/Billie-eilish-watch-lyrics
@@ -5697,6 +6887,8 @@
   - Hugh Jackman, Keala Settle, Daniel Everidge, Zendaya
   - The Greatest Showman Ensemble
   featured_artists: []
+  genre: pop
+  id: 3317636
   title: Come Alive
   title_with_artists: Come Alive by Hugh Jackman, Keala Settle, Daniel Everidge, Zendaya
     & The Greatest Showman Ensemble
@@ -5705,30 +6897,40 @@
   - Ariana Grande
   - "Victoria Mon\xE9t"
   featured_artists: []
+  genre: pop
+  id: 4426630
   title: MONOPOLY
   title_with_artists: "MONOPOLY by Ariana Grande & Victoria Mon\xE9t"
   url: https://genius.com/Ariana-grande-and-victoria-monet-monopoly-lyrics
 - artists:
   - Avicii
   featured_artists: []
+  genre: pop
+  id: 175844
   title: Wake Me Up
   title_with_artists: Wake Me Up by Avicii
   url: https://genius.com/Avicii-wake-me-up-lyrics
 - artists:
   - Lady Gaga
   featured_artists: []
+  genre: pop
+  id: 3646077
   title: Always Remember Us This Way
   title_with_artists: Always Remember Us This Way by Lady Gaga
   url: https://genius.com/Lady-gaga-always-remember-us-this-way-lyrics
 - artists:
   - "\u200Btwenty one pilots"
   featured_artists: []
+  genre: pop
+  id: 725794
   title: Tear in My Heart
   title_with_artists: "Tear in My Heart by \u200Btwenty one pilots"
   url: https://genius.com/Twenty-one-pilots-tear-in-my-heart-lyrics
 - artists:
   - Harry Styles
   featured_artists: []
+  genre: pop
+  id: 5037340
   title: Golden
   title_with_artists: Golden by Harry Styles
   url: https://genius.com/Harry-styles-golden-lyrics
@@ -5736,6 +6938,8 @@
   - Trippie Redd
   featured_artists:
   - Travis Scott
+  genre: rap
+  id: 3323370
   title: Dark Knight Dummo
   title_with_artists: Dark Knight Dummo by Trippie Redd (Ft. Travis Scott)
   url: https://genius.com/Trippie-redd-dark-knight-dummo-lyrics
@@ -5743,6 +6947,8 @@
   - 24kGoldn
   featured_artists:
   - "\u200Biann dior"
+  genre: pop
+  id: 5596421
   title: Mood
   title_with_artists: "Mood by 24kGoldn (Ft. \u200Biann dior)"
   url: https://genius.com/24kgoldn-mood-lyrics
@@ -5751,18 +6957,24 @@
   featured_artists:
   - JAY-Z
   - Tyler, The Creator
+  genre: r-b
+  id: 3048264
   title: Biking
   title_with_artists: Biking by Frank Ocean (Ft. JAY-Z & Tyler, The Creator)
   url: https://genius.com/Frank-ocean-biking-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 831724
   title: Lucky Ali - O Sanam (Romanized)
   title_with_artists: Lucky Ali - O Sanam (Romanized) by Genius Romanizations
   url: https://genius.com/Genius-romanizations-lucky-ali-o-sanam-romanized-lyrics
 - artists:
   - LANY
   featured_artists: []
+  genre: pop
+  id: 3008976
   title: Super Far
   title_with_artists: Super Far by LANY
   url: https://genius.com/Lany-super-far-lyrics
@@ -5770,12 +6982,16 @@
   - Flume
   featured_artists:
   - "\u200Bkai"
+  genre: pop
+  id: 2407925
   title: Never Be Like You
   title_with_artists: "Never Be Like You by Flume (Ft. \u200Bkai)"
   url: https://genius.com/Flume-never-be-like-you-lyrics
 - artists:
   - "Beyonc\xE9"
   featured_artists: []
+  genre: pop
+  id: 299253
   title: Rocket
   title_with_artists: "Rocket by Beyonc\xE9"
   url: https://genius.com/Beyonce-rocket-lyrics
@@ -5787,6 +7003,8 @@
   - Marius de Vries
   - Nicholai Baxter
   - Sam Stone
+  genre: pop
+  id: 2928578
   title: Another Day of Sun
   title_with_artists: Another Day of Sun by La La Land Cast (Ft. Angela Parrish, Briana
     Lee, Marius de Vries, Nicholai Baxter & Sam Stone)
@@ -5795,6 +7013,8 @@
   - "Alex Rose, Rauw Alejandro, Lenny Tav\xE1rez, Cazzu"
   - Lyanno
   featured_artists: []
+  genre: pop
+  id: 3669004
   title: Toda (Remix)
   title_with_artists: "Toda (Remix) by Alex Rose, Rauw Alejandro, Lenny Tav\xE1rez,\
     \ Cazzu & Lyanno"
@@ -5802,30 +7022,40 @@
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: pop
+  id: 6702237
   title: "\u200Bjealousy, jealousy"
   title_with_artists: "\u200Bjealousy, jealousy by Olivia Rodrigo"
   url: https://genius.com/Olivia-rodrigo-jealousy-jealousy-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 5360859
   title: Snowchild
   title_with_artists: Snowchild by The Weeknd
   url: https://genius.com/The-weeknd-snowchild-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: rap
+  id: 50180
   title: Loft Music
   title_with_artists: Loft Music by The Weeknd
   url: https://genius.com/The-weeknd-loft-music-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 4067754
   title: "\u200Bfake smile"
   title_with_artists: "\u200Bfake smile by Ariana Grande"
   url: https://genius.com/Ariana-grande-fake-smile-lyrics
 - artists:
   - Sufjan Stevens
   featured_artists: []
+  genre: folk
+  id: 3181005
   title: Mystery of Love
   title_with_artists: Mystery of Love by Sufjan Stevens
   url: https://genius.com/Sufjan-stevens-mystery-of-love-lyrics
@@ -5833,12 +7063,16 @@
   - Justin Bieber
   - "BloodPop\xAE"
   featured_artists: []
+  genre: pop
+  id: 3348299
   title: Friends
   title_with_artists: "Friends by Justin Bieber & BloodPop\xAE"
   url: https://genius.com/Justin-bieber-and-bloodpop-friends-lyrics
 - artists:
   - Rey Valera
   featured_artists: []
+  genre: pop
+  id: 944001
   title: Kahit Maputi Na Ang Buhok Ko
   title_with_artists: Kahit Maputi Na Ang Buhok Ko by Rey Valera
   url: https://genius.com/Rey-valera-kahit-maputi-na-ang-buhok-ko-lyrics
@@ -5846,24 +7080,32 @@
   - Luis Fonsi
   - Demi Lovato
   featured_artists: []
+  genre: pop
+  id: 3297818
   title: "\xC9chame la Culpa"
   title_with_artists: "\xC9chame la Culpa by Luis Fonsi & Demi Lovato"
   url: https://genius.com/Luis-fonsi-and-demi-lovato-echame-la-culpa-lyrics
 - artists:
   - Doja Cat
   featured_artists: []
+  genre: rap
+  id: 43
   title: Juicy
   title_with_artists: Juicy by Doja Cat
   url: https://genius.com/Doja-cat-juicy-lyrics
 - artists:
   - Kanye West
   featured_artists: []
+  genre: rap
+  id: 1557
   title: I Wonder
   title_with_artists: I Wonder by Kanye West
   url: https://genius.com/Kanye-west-i-wonder-lyrics
 - artists:
   - "\u200B\u200Bblink-182"
   featured_artists: []
+  genre: rock
+  id: 62154
   title: All the Small Things
   title_with_artists: "All the Small Things by \u200B\u200Bblink-182"
   url: https://genius.com/Blink-182-all-the-small-things-lyrics
@@ -5871,12 +7113,16 @@
   - Lady Gaga
   featured_artists:
   - R. Kelly
+  genre: pop
+  id: 237963
   title: Do What U Want
   title_with_artists: Do What U Want by Lady Gaga (Ft. R. Kelly)
   url: https://genius.com/Lady-gaga-do-what-u-want-lyrics
 - artists:
   - Cardi B
   featured_artists: []
+  genre: rap
+  id: 3627216
   title: Thru Your Phone
   title_with_artists: Thru Your Phone by Cardi B
   url: https://genius.com/Cardi-b-thru-your-phone-lyrics
@@ -5886,6 +7132,8 @@
   - Pharrell Williams
   - Tame Impala
   - The Weeknd
+  genre: rap
+  id: 3876988
   title: SKELETONS
   title_with_artists: SKELETONS by Travis Scott (Ft. Pharrell Williams, Tame Impala
     & The Weeknd)
@@ -5893,18 +7141,24 @@
 - artists:
   - Ruth B.
   featured_artists: []
+  genre: pop
+  id: 697785
   title: Lost Boy
   title_with_artists: Lost Boy by Ruth B.
   url: https://genius.com/Ruth-b-lost-boy-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: rock
+  id: 3945416
   title: Mariners Apartment Complex
   title_with_artists: Mariners Apartment Complex by Lana Del Rey
   url: https://genius.com/Lana-del-rey-mariners-apartment-complex-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: rap
+  id: 56953
   title: Initiation
   title_with_artists: Initiation by The Weeknd
   url: https://genius.com/The-weeknd-initiation-lyrics
@@ -5912,36 +7166,48 @@
   - The Weeknd
   - Gesaffelstein
   featured_artists: []
+  genre: r-b
+  id: 3614927
   title: Hurt You
   title_with_artists: Hurt You by The Weeknd & Gesaffelstein
   url: https://genius.com/The-weeknd-and-gesaffelstein-hurt-you-lyrics
 - artists:
   - Nina Simone
   featured_artists: []
+  genre: r-b
+  id: 350534
   title: Feeling Good
   title_with_artists: Feeling Good by Nina Simone
   url: https://genius.com/Nina-simone-feeling-good-lyrics
 - artists:
   - Cuco
   featured_artists: []
+  genre: pop
+  id: 3102875
   title: Lo Que Siento
   title_with_artists: Lo Que Siento by Cuco
   url: https://genius.com/Cuco-lo-que-siento-lyrics
 - artists:
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 3765838
   title: "\u200Bgoodnight n go"
   title_with_artists: "\u200Bgoodnight n go by Ariana Grande"
   url: https://genius.com/Ariana-grande-goodnight-n-go-lyrics
 - artists:
   - Halsey
   featured_artists: []
+  genre: pop
+  id: 2323822
   title: Sorry
   title_with_artists: Sorry by Halsey
   url: https://genius.com/Halsey-sorry-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 6214042
   title: Shiritsu Morimori Gakuen Seishun Boys / Yarichin Bitch Club - Touch You (Romanized)
   title_with_artists: Shiritsu Morimori Gakuen Seishun Boys / Yarichin Bitch Club
     - Touch You (Romanized) by Genius Romanizations
@@ -5952,24 +7218,32 @@
   - Bebe Rexha
   - Cardi B
   - Charli XCX
+  genre: rap
+  id: 3876994
   title: Girls
   title_with_artists: Girls by Rita Ora (Ft. Bebe Rexha, Cardi B & Charli XCX)
   url: https://genius.com/Rita-ora-girls-lyrics
 - artists:
   - One Direction
   featured_artists: []
+  genre: pop
+  id: 2268553
   title: Drag Me Down
   title_with_artists: Drag Me Down by One Direction
   url: https://genius.com/One-direction-drag-me-down-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 551256
   title: Wildest Dreams
   title_with_artists: Wildest Dreams by Taylor Swift
   url: https://genius.com/Taylor-swift-wildest-dreams-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: r-b
+  id: 5319624
   title: Faith
   title_with_artists: Faith by The Weeknd
   url: https://genius.com/The-weeknd-faith-lyrics
@@ -5978,24 +7252,32 @@
   featured_artists:
   - Don Toliver
   - Kid Cudi
+  genre: rap
+  id: 235729
   title: Moon
   title_with_artists: Moon by Kanye West (Ft. Don Toliver & Kid Cudi)
   url: https://genius.com/Kanye-west-moon-lyrics
 - artists:
   - Penelope Scott
   featured_artists: []
+  genre: pop
+  id: 5964986
   title: "R\xE4t"
   title_with_artists: "R\xE4t by Penelope Scott"
   url: https://genius.com/Penelope-scott-rat-lyrics
 - artists:
   - Sub Urban
   featured_artists: []
+  genre: rock
+  id: 4205372
   title: Cradles
   title_with_artists: Cradles by Sub Urban
   url: https://genius.com/Sub-urban-cradles-lyrics
 - artists:
   - Idina Menzel
   featured_artists: []
+  genre: pop
+  id: 352918
   title: Let It Go
   title_with_artists: Let It Go by Idina Menzel
   url: https://genius.com/Idina-menzel-let-it-go-lyrics
@@ -6003,12 +7285,16 @@
   - Lady Gaga
   - BLACKPINK
   featured_artists: []
+  genre: pop
+  id: 5489013
   title: Sour Candy
   title_with_artists: Sour Candy by Lady Gaga & BLACKPINK
   url: https://genius.com/Lady-gaga-and-blackpink-sour-candy-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 5268063
   title: "BTS - \uCE5C\uAD6C (Friends) (English Translation)"
   title_with_artists: "BTS - \uCE5C\uAD6C (Friends) (English Translation) by Genius\
     \ English Translations"
@@ -6017,12 +7303,16 @@
   - Bad Bunny
   - Jhay Cortez
   featured_artists: []
+  genre: pop
+  id: 6100181
   title: "D\xC1KITI"
   title_with_artists: "D\xC1KITI by Bad Bunny & Jhay Cortez"
   url: https://genius.com/Bad-bunny-and-jhay-cortez-dakiti-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 5037815
   title: Cherry
   title_with_artists: Cherry by Lana Del Rey
   url: https://genius.com/Lana-del-rey-cherry-lyrics
@@ -6032,6 +7322,8 @@
   - Chance the Rapper
   - Justin Bieber
   - Quavo
+  genre: pop
+  id: 3844672
   title: No Brainer
   title_with_artists: No Brainer by DJ Khaled (Ft. Chance the Rapper, Justin Bieber
     & Quavo)
@@ -6039,12 +7331,16 @@
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 5793963
   title: "\u200Bepiphany"
   title_with_artists: "\u200Bepiphany by Taylor Swift"
   url: https://genius.com/Taylor-swift-epiphany-lyrics
 - artists:
   - M.I.A.
   featured_artists: []
+  genre: rap
+  id: 2171
   title: Paper Planes
   title_with_artists: Paper Planes by M.I.A.
   url: https://genius.com/Mia-paper-planes-lyrics
@@ -6052,36 +7348,48 @@
   - Jessica Keenan Wynn, Alice Lee,
   - Elle McLemore
   featured_artists: []
+  genre: pop
+  id: 2429260
   title: Candy Store
   title_with_artists: Candy Store by Jessica Keenan Wynn, Alice Lee, & Elle McLemore
   url: https://genius.com/Jessica-keenan-wynn-alice-lee-and-elle-mclemore-candy-store-lyrics
 - artists:
   - Mazzy Star
   featured_artists: []
+  genre: rock
+  id: 67703
   title: Fade Into You
   title_with_artists: Fade Into You by Mazzy Star
   url: https://genius.com/Mazzy-star-fade-into-you-lyrics
 - artists:
   - Frank Ocean
   featured_artists: []
+  genre: pop
+  id: 78957
   title: Sweet Life
   title_with_artists: Sweet Life by Frank Ocean
   url: https://genius.com/Frank-ocean-sweet-life-lyrics
 - artists:
   - Tame Impala
   featured_artists: []
+  genre: rock
+  id: 721026
   title: Let It Happen
   title_with_artists: Let It Happen by Tame Impala
   url: https://genius.com/Tame-impala-let-it-happen-lyrics
 - artists:
   - Melanie Martinez
   featured_artists: []
+  genre: pop
+  id: 381520
   title: Dollhouse
   title_with_artists: Dollhouse by Melanie Martinez
   url: https://genius.com/Melanie-martinez-dollhouse-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 4499979
   title: I Can See You (Taylor's Version) [From The Vault]
   title_with_artists: I Can See You (Taylor's Version) [From The Vault] by Taylor
     Swift
@@ -6089,12 +7397,16 @@
 - artists:
   - Nicki Minaj
   featured_artists: []
+  genre: rap
+  id: 65701
   title: Starships
   title_with_artists: Starships by Nicki Minaj
   url: https://genius.com/Nicki-minaj-starships-lyrics
 - artists:
   - Alec Benjamin
   featured_artists: []
+  genre: pop
+  id: 3741963
   title: Let Me Down Slowly
   title_with_artists: Let Me Down Slowly by Alec Benjamin
   url: https://genius.com/Alec-benjamin-let-me-down-slowly-lyrics
@@ -6102,6 +7414,8 @@
   - Jason Derulo
   featured_artists:
   - 2 Chainz
+  genre: rap
+  id: 194687
   title: Talk Dirty
   title_with_artists: Talk Dirty by Jason Derulo (Ft. 2 Chainz)
   url: https://genius.com/Jason-derulo-talk-dirty-lyrics
@@ -6109,54 +7423,72 @@
   - Juice WRLD
   - Marshmello
   featured_artists: []
+  genre: pop
+  id: 4130757
   title: Come & Go
   title_with_artists: Come & Go by Juice WRLD & Marshmello
   url: https://genius.com/Juice-wrld-and-marshmello-come-and-go-lyrics
 - artists:
   - James Bay
   featured_artists: []
+  genre: pop
+  id: 352918
   title: Let It Go
   title_with_artists: Let It Go by James Bay
   url: https://genius.com/James-bay-let-it-go-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8485915
   title: Bejeweled
   title_with_artists: Bejeweled by Taylor Swift
   url: https://genius.com/Taylor-swift-bejeweled-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 203944
   title: Carmen
   title_with_artists: Carmen by Lana Del Rey
   url: https://genius.com/Lana-del-rey-carmen-lyrics
 - artists:
   - Shawn Mendes
   featured_artists: []
+  genre: pop
+  id: 4507577
   title: If I Can't Have You
   title_with_artists: If I Can't Have You by Shawn Mendes
   url: https://genius.com/Shawn-mendes-if-i-cant-have-you-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 4533523
   title: Doin' Time
   title_with_artists: Doin' Time by Lana Del Rey
   url: https://genius.com/Lana-del-rey-doin-time-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 3804131
   title: BTS - FAKE LOVE (Romanized)
   title_with_artists: BTS - FAKE LOVE (Romanized) by Genius Romanizations
   url: https://genius.com/Genius-romanizations-bts-fake-love-romanized-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 4765976
   title: Miss Americana & The Heartbreak Prince
   title_with_artists: Miss Americana & The Heartbreak Prince by Taylor Swift
   url: https://genius.com/Taylor-swift-miss-americana-and-the-heartbreak-prince-lyrics
 - artists:
   - Shawn Mendes
   featured_artists: []
+  genre: rap
+  id: 70324
   title: Mercy
   title_with_artists: Mercy by Shawn Mendes
   url: https://genius.com/Shawn-mendes-mercy-lyrics
@@ -6164,12 +7496,16 @@
   - Dan Salvato
   featured_artists:
   - Jillian Ashcraft
+  genre: pop
+  id: 3278148
   title: Your Reality
   title_with_artists: Your Reality by Dan Salvato (Ft. Jillian Ashcraft)
   url: https://genius.com/Dan-salvato-your-reality-lyrics
 - artists:
   - The 1975
   featured_artists: []
+  genre: pop
+  id: 139463
   title: Chocolate
   title_with_artists: Chocolate by The 1975
   url: https://genius.com/The-1975-chocolate-lyrics
@@ -6178,6 +7514,8 @@
   featured_artists:
   - Camila Cabello
   - Cardi B
+  genre: pop
+  id: 4575094
   title: South Of The Border
   title_with_artists: South Of The Border by Ed Sheeran (Ft. Camila Cabello & Cardi
     B)
@@ -6185,24 +7523,32 @@
 - artists:
   - Imagine Dragons
   featured_artists: []
+  genre: pop
+  id: 3833988
   title: Natural
   title_with_artists: Natural by Imagine Dragons
   url: https://genius.com/Imagine-dragons-natural-lyrics
 - artists:
   - Emma Watson
   featured_artists: []
+  genre: pop
+  id: 2996323
   title: Belle
   title_with_artists: Belle by Emma Watson
   url: https://genius.com/Emma-watson-belle-lyrics
 - artists:
   - BLACKPINK
   featured_artists: []
+  genre: pop
+  id: 5909351
   title: Lovesick Girls
   title_with_artists: Lovesick Girls by BLACKPINK
   url: https://genius.com/Blackpink-lovesick-girls-lyrics
 - artists:
   - Jeff Buckley
   featured_artists: []
+  genre: folk
+  id: 1237
   title: Hallelujah
   title_with_artists: Hallelujah by Jeff Buckley
   url: https://genius.com/Jeff-buckley-hallelujah-lyrics
@@ -6210,6 +7556,8 @@
   - Marshmello
   - Lil Peep
   featured_artists: []
+  genre: rap
+  id: 3384913
   title: Spotlight
   title_with_artists: Spotlight by Marshmello & Lil Peep
   url: https://genius.com/Marshmello-and-lil-peep-spotlight-lyrics
@@ -6217,6 +7565,8 @@
   - Kanye West
   featured_artists:
   - Bon Iver
+  genre: rap
+  id: 1656
   title: Lost In the World
   title_with_artists: Lost In the World by Kanye West (Ft. Bon Iver)
   url: https://genius.com/Kanye-west-lost-in-the-world-lyrics
@@ -6224,6 +7574,8 @@
   - Ariana Grande
   featured_artists:
   - Nicki Minaj
+  genre: pop
+  id: 3690801
   title: "\u200Bthe light is coming"
   title_with_artists: "\u200Bthe light is coming by Ariana Grande (Ft. Nicki Minaj)"
   url: https://genius.com/Ariana-grande-the-light-is-coming-lyrics
@@ -6231,6 +7583,8 @@
   - Little Mix
   featured_artists:
   - Jason Derulo
+  genre: pop
+  id: 2342120
   title: Secret Love Song
   title_with_artists: Secret Love Song by Little Mix (Ft. Jason Derulo)
   url: https://genius.com/Little-mix-secret-love-song-lyrics
@@ -6238,6 +7592,8 @@
   - Hugh Jackman
   - The Greatest Showman Ensemble
   featured_artists: []
+  genre: pop
+  id: 3317642
   title: From Now On
   title_with_artists: From Now On by Hugh Jackman & The Greatest Showman Ensemble
   url: https://genius.com/Hugh-jackman-and-the-greatest-showman-ensemble-from-now-on-lyrics
@@ -6246,12 +7602,16 @@
   - Wiz Khalifa
   featured_artists:
   - Bruno Mars
+  genre: rap
+  id: 4935
   title: Young, Wild & Free
   title_with_artists: Young, Wild & Free by Snoop Dogg & Wiz Khalifa (Ft. Bruno Mars)
   url: https://genius.com/Snoop-dogg-and-wiz-khalifa-young-wild-and-free-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 2276865
   title: High By The Beach
   title_with_artists: High By The Beach by Lana Del Rey
   url: https://genius.com/Lana-del-rey-high-by-the-beach-lyrics
@@ -6259,24 +7619,32 @@
   - The Weeknd
   featured_artists:
   - Lana Del Rey
+  genre: r-b
+  id: 729459
   title: Prisoner
   title_with_artists: Prisoner by The Weeknd (Ft. Lana Del Rey)
   url: https://genius.com/The-weeknd-prisoner-lyrics
 - artists:
   - Fleetwood Mac
   featured_artists: []
+  genre: rock
+  id: 6282
   title: Landslide
   title_with_artists: Landslide by Fleetwood Mac
   url: https://genius.com/Fleetwood-mac-landslide-lyrics
 - artists:
   - Selena Gomez
   featured_artists: []
+  genre: pop
+  id: 4960031
   title: Look At Her Now
   title_with_artists: Look At Her Now by Selena Gomez
   url: https://genius.com/Selena-gomez-look-at-her-now-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 2247573
   title: Tsuyu - Renai Circulation (Romanized)
   title_with_artists: Tsuyu - Renai Circulation (Romanized) by Genius Romanizations
   url: https://genius.com/Genius-romanizations-tsuyu-renai-circulation-romanized-lyrics
@@ -6284,6 +7652,8 @@
   - Justin Bieber
   featured_artists:
   - Quavo
+  genre: pop
+  id: 5168488
   title: Intentions
   title_with_artists: Intentions by Justin Bieber (Ft. Quavo)
   url: https://genius.com/Justin-bieber-intentions-lyrics
@@ -6292,42 +7662,56 @@
   - Sam Smith
   featured_artists:
   - Jessie Reyez
+  genre: pop
+  id: 3897728
   title: Promises
   title_with_artists: Promises by Calvin Harris & Sam Smith (Ft. Jessie Reyez)
   url: https://genius.com/Calvin-harris-and-sam-smith-promises-lyrics
 - artists:
   - Cigarettes After Sex
   featured_artists: []
+  genre: pop
+  id: 3057010
   title: K.
   title_with_artists: K. by Cigarettes After Sex
   url: https://genius.com/Cigarettes-after-sex-k-lyrics
 - artists:
   - Bo Burnham
   featured_artists: []
+  genre: pop
+  id: 6863915
   title: Welcome to the Internet
   title_with_artists: Welcome to the Internet by Bo Burnham
   url: https://genius.com/Bo-burnham-welcome-to-the-internet-lyrics
 - artists:
   - "C\xE9line Dion"
   featured_artists: []
+  genre: pop
+  id: 2960957
   title: How Does a Moment Last Forever
   title_with_artists: "How Does a Moment Last Forever by C\xE9line Dion"
   url: https://genius.com/Celine-dion-how-does-a-moment-last-forever-lyrics
 - artists:
   - "Beyonc\xE9"
   featured_artists: []
+  genre: pop
+  id: 2461245
   title: Sandcastles
   title_with_artists: "Sandcastles by Beyonc\xE9"
   url: https://genius.com/Beyonce-sandcastles-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: pop
+  id: 2475085
   title: True Colors
   title_with_artists: True Colors by The Weeknd
   url: https://genius.com/The-weeknd-true-colors-lyrics
 - artists:
   - Jodi Benson
   featured_artists: []
+  genre: pop
+  id: 205385
   title: Part of Your World (Soundtrack Version)
   title_with_artists: Part of Your World (Soundtrack Version) by Jodi Benson
   url: https://genius.com/Jodi-benson-part-of-your-world-soundtrack-version-lyrics
@@ -6335,12 +7719,16 @@
   - Flo Rida
   featured_artists:
   - T-Pain
+  genre: r-b
+  id: 727466
   title: Low
   title_with_artists: Low by Flo Rida (Ft. T-Pain)
   url: https://genius.com/Flo-rida-low-lyrics
 - artists:
   - The Weeknd
   featured_artists: []
+  genre: pop
+  id: 2863577
   title: False Alarm
   title_with_artists: False Alarm by The Weeknd
   url: https://genius.com/The-weeknd-false-alarm-lyrics
@@ -6349,6 +7737,8 @@
   featured_artists:
   - PnB Rock
   - Trippie Redd
+  genre: r-b
+  id: 4880026
   title: "\u200Bbad vibes forever"
   title_with_artists: "\u200Bbad vibes forever by XXXTENTACION (Ft. PnB Rock & Trippie\
     \ Redd)"
@@ -6356,18 +7746,24 @@
 - artists:
   - One Direction
   featured_artists: []
+  genre: pop
+  id: 567753
   title: Night Changes
   title_with_artists: Night Changes by One Direction
   url: https://genius.com/One-direction-night-changes-lyrics
 - artists:
   - Lauv
   featured_artists: []
+  genre: pop
+  id: 3092121
   title: I Like Me Better
   title_with_artists: I Like Me Better by Lauv
   url: https://genius.com/Lauv-i-like-me-better-lyrics
 - artists:
   - BROCKHAMPTON
   featured_artists: []
+  genre: rap
+  id: 2314493
   title: SUGAR
   title_with_artists: SUGAR by BROCKHAMPTON
   url: https://genius.com/Brockhampton-sugar-lyrics
@@ -6375,18 +7771,24 @@
   - Justin Bieber
   - benny blanco
   featured_artists: []
+  genre: rap
+  id: 207
   title: Lonely
   title_with_artists: Lonely by Justin Bieber & benny blanco
   url: https://genius.com/Justin-bieber-and-benny-blanco-lonely-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: rock
+  id: 9382808
   title: "\u200Bballad of a homeschooled girl"
   title_with_artists: "\u200Bballad of a homeschooled girl by Olivia Rodrigo"
   url: https://genius.com/Olivia-rodrigo-ballad-of-a-homeschooled-girl-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: pop
+  id: 6702223
   title: 1 step forward, 3 steps back
   title_with_artists: 1 step forward, 3 steps back by Olivia Rodrigo
   url: https://genius.com/Olivia-rodrigo-1-step-forward-3-steps-back-lyrics
@@ -6394,18 +7796,24 @@
   - Jonas Blue
   featured_artists:
   - William Singe
+  genre: rap
+  id: 3039923
   title: Mama
   title_with_artists: Mama by Jonas Blue (Ft. William Singe)
   url: https://genius.com/Jonas-blue-mama-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 4782854
   title: London Boy
   title_with_artists: London Boy by Taylor Swift
   url: https://genius.com/Taylor-swift-london-boy-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 8485919
   title: Sweet Nothing
   title_with_artists: Sweet Nothing by Taylor Swift
   url: https://genius.com/Taylor-swift-sweet-nothing-lyrics
@@ -6413,6 +7821,8 @@
   - 'Avatar: The Last Airbender'
   featured_artists:
   - General Iroh
+  genre: pop
+  id: 2290476
   title: Leaves From The Vine (Little Soldier Boy)
   title_with_artists: 'Leaves From The Vine (Little Soldier Boy) by Avatar: The Last
     Airbender (Ft. General Iroh)'
@@ -6420,6 +7830,8 @@
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 5793971
   title: "\u200Bthe lakes"
   title_with_artists: "\u200Bthe lakes by Taylor Swift"
   url: https://genius.com/Taylor-swift-the-lakes-lyrics
@@ -6428,12 +7840,16 @@
   - Labrinth
   featured_artists:
   - Eminem
+  genre: rap
+  id: 3890624
   title: Majesty
   title_with_artists: Majesty by Nicki Minaj & Labrinth (Ft. Eminem)
   url: https://genius.com/Nicki-minaj-and-labrinth-majesty-lyrics
 - artists:
   - Halsey
   featured_artists: []
+  genre: pop
+  id: 5009294
   title: You should be sad
   title_with_artists: You should be sad by Halsey
   url: https://genius.com/Halsey-you-should-be-sad-lyrics
@@ -6441,42 +7857,56 @@
   - Gucci Mane, Bruno Mars
   - Kodak Black
   featured_artists: []
+  genre: rap
+  id: 3955579
   title: Wake Up in the Sky
   title_with_artists: Wake Up in the Sky by Gucci Mane, Bruno Mars & Kodak Black
   url: https://genius.com/Gucci-mane-bruno-mars-and-kodak-black-wake-up-in-the-sky-lyrics
 - artists:
   - Rema
   featured_artists: []
+  genre: r-b
+  id: 7689807
   title: Calm Down
   title_with_artists: Calm Down by Rema
   url: https://genius.com/Rema-calm-down-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 438407
   title: Ultraviolence
   title_with_artists: Ultraviolence by Lana Del Rey
   url: https://genius.com/Lana-del-rey-ultraviolence-lyrics
 - artists:
   - Sam Smith
   featured_artists: []
+  genre: pop
+  id: 183538
   title: Lay Me Down
   title_with_artists: Lay Me Down by Sam Smith
   url: https://genius.com/Sam-smith-lay-me-down-lyrics
 - artists:
   - Arizona Zervas
   featured_artists: []
+  genre: rap
+  id: 4934901
   title: ROXANNE
   title_with_artists: ROXANNE by Arizona Zervas
   url: https://genius.com/Arizona-zervas-roxanne-lyrics
 - artists:
   - Tate McRae
   featured_artists: []
+  genre: pop
+  id: 3315513
   title: One Day
   title_with_artists: One Day by Tate McRae
   url: https://genius.com/Tate-mcrae-one-day-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 3305019
   title: King of My Heart
   title_with_artists: King of My Heart by Taylor Swift
   url: https://genius.com/Taylor-swift-king-of-my-heart-lyrics
@@ -6484,18 +7914,24 @@
   - Kanye West
   featured_artists:
   - T-Pain
+  genre: rap
+  id: 3007473
   title: Good Life
   title_with_artists: Good Life by Kanye West (Ft. T-Pain)
   url: https://genius.com/Kanye-west-good-life-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 64759
   title: National Anthem
   title_with_artists: National Anthem by Lana Del Rey
   url: https://genius.com/Lana-del-rey-national-anthem-lyrics
 - artists:
   - Larray
   featured_artists: []
+  genre: rap
+  id: 6073052
   title: Canceled
   title_with_artists: Canceled by Larray
   url: https://genius.com/Larray-canceled-lyrics
@@ -6503,24 +7939,32 @@
   - The Weeknd
   featured_artists:
   - Ed Sheeran
+  genre: pop
+  id: 2273452
   title: Dark Times
   title_with_artists: Dark Times by The Weeknd (Ft. Ed Sheeran)
   url: https://genius.com/The-weeknd-dark-times-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 4016817
   title: Cinnamon Girl
   title_with_artists: Cinnamon Girl by Lana Del Rey
   url: https://genius.com/Lana-del-rey-cinnamon-girl-lyrics
 - artists:
   - "Beyonc\xE9"
   featured_artists: []
+  genre: pop
+  id: 587286
   title: 7/11
   title_with_artists: "7/11 by Beyonc\xE9"
   url: https://genius.com/Beyonce-7-11-lyrics
 - artists:
   - The 1975
   featured_artists: []
+  genre: pop
+  id: 3848710
   title: Sincerity Is Scary
   title_with_artists: Sincerity Is Scary by The 1975
   url: https://genius.com/The-1975-sincerity-is-scary-lyrics
@@ -6528,12 +7972,16 @@
   - Machine Gun Kelly, X Ambassadors
   - Bebe Rexha
   featured_artists: []
+  genre: rap
+  id: 207
   title: Home
   title_with_artists: Home by Machine Gun Kelly, X Ambassadors & Bebe Rexha
   url: https://genius.com/Machine-gun-kelly-x-ambassadors-and-bebe-rexha-home-lyrics
 - artists:
   - Meghan Trainor
   featured_artists: []
+  genre: pop
+  id: 471152
   title: All About That Bass
   title_with_artists: All About That Bass by Meghan Trainor
   url: https://genius.com/Meghan-trainor-all-about-that-bass-lyrics
@@ -6542,6 +7990,8 @@
   featured_artists:
   - Ozzy Osbourne
   - Travis Scott
+  genre: rap
+  id: 4839109
   title: Take What You Want
   title_with_artists: Take What You Want by Post Malone (Ft. Ozzy Osbourne & Travis
     Scott)
@@ -6549,12 +7999,16 @@
 - artists:
   - Marshmello
   featured_artists: []
+  genre: pop
+  id: 2472272
   title: Alone
   title_with_artists: Alone by Marshmello
   url: https://genius.com/Marshmello-alone-lyrics
 - artists:
   - Kendrick Lamar
   featured_artists: []
+  genre: rap
+  id: 7995410
   title: Count Me Out
   title_with_artists: Count Me Out by Kendrick Lamar
   url: https://genius.com/Kendrick-lamar-count-me-out-lyrics
@@ -6564,6 +8018,8 @@
   featured_artists:
   - Jamie Scott
   - Romy Dya
+  genre: pop
+  id: 3179006
   title: So Far Away
   title_with_artists: So Far Away by Martin Garrix & David Guetta (Ft. Jamie Scott
     & Romy Dya)
@@ -6572,6 +8028,8 @@
   - "Beyonc\xE9"
   featured_artists:
   - The Weeknd
+  genre: pop
+  id: 2461229
   title: 6 Inch
   title_with_artists: "6 Inch by Beyonc\xE9 (Ft. The Weeknd)"
   url: https://genius.com/Beyonce-6-inch-lyrics
@@ -6579,24 +8037,32 @@
   - Cardi B
   - Bruno Mars
   featured_artists: []
+  genre: pop
+  id: 4314565
   title: Please Me
   title_with_artists: Please Me by Cardi B & Bruno Mars
   url: https://genius.com/Cardi-b-and-bruno-mars-please-me-lyrics
 - artists:
   - The Beatles
   featured_artists: []
+  genre: rock
+  id: 1436
   title: A Day in the Life
   title_with_artists: A Day in the Life by The Beatles
   url: https://genius.com/The-beatles-a-day-in-the-life-lyrics
 - artists:
   - Bastille
   featured_artists: []
+  genre: pop
+  id: 133381
   title: Pompeii
   title_with_artists: Pompeii by Bastille
   url: https://genius.com/Bastille-pompeii-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 3821249
   title: "BTS - Intro: Serendipity (\uC138\uB80C\uB514\uD53C\uD2F0) (English Translation)"
   title_with_artists: "BTS - Intro: Serendipity (\uC138\uB80C\uB514\uD53C\uD2F0) (English\
     \ Translation) by Genius English Translations"
@@ -6604,12 +8070,16 @@
 - artists:
   - Owl City
   featured_artists: []
+  genre: pop
+  id: 54831
   title: Fireflies
   title_with_artists: Fireflies by Owl City
   url: https://genius.com/Owl-city-fireflies-lyrics
 - artists:
   - Genius English Translations
   featured_artists: []
+  genre: pop
+  id: 4453304
   title: "BTS - \uC791\uC740 \uAC83\uB4E4\uC744 \uC704\uD55C \uC2DC (Boy With Luv)\
     \ ft. Halsey (English Translation)"
   title_with_artists: "BTS - \uC791\uC740 \uAC83\uB4E4\uC744 \uC704\uD55C \uC2DC (Boy\
@@ -6618,12 +8088,16 @@
 - artists:
   - We The Sus Music
   featured_artists: []
+  genre: pop
+  id: 6858399
   title: Dream - Mask (Official Sus Remix)
   title_with_artists: Dream - Mask (Official Sus Remix) by We The Sus Music
   url: https://genius.com/We-the-sus-music-dream-mask-official-sus-remix-lyrics
 - artists:
   - Genius Romanizations
   featured_artists: []
+  genre: pop
+  id: 5628265
   title: "YOASOBI - \u591C\u306B\u99C6\u3051\u308B (Yoru Ni Kakeru/Racing Into The\
     \ Night) (Romanized)"
   title_with_artists: "YOASOBI - \u591C\u306B\u99C6\u3051\u308B (Yoru Ni Kakeru/Racing\
@@ -6632,12 +8106,16 @@
 - artists:
   - Anuv Jain
   featured_artists: []
+  genre: pop
+  id: 5794145
   title: Alag Aasmaan
   title_with_artists: Alag Aasmaan by Anuv Jain
   url: https://genius.com/Anuv-jain-alag-aasmaan-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 551262
   title: Bad Blood
   title_with_artists: Bad Blood by Taylor Swift
   url: https://genius.com/Taylor-swift-bad-blood-lyrics
@@ -6645,18 +8123,24 @@
   - Gorillaz
   featured_artists:
   - Popcaan
+  genre: pop
+  id: 3027437
   title: Saturnz Barz
   title_with_artists: Saturnz Barz by Gorillaz (Ft. Popcaan)
   url: https://genius.com/Gorillaz-saturnz-barz-lyrics
 - artists:
   - Men at Work
   featured_artists: []
+  genre: rock
+  id: 131409
   title: Down Under
   title_with_artists: Down Under by Men at Work
   url: https://genius.com/Men-at-work-down-under-lyrics
 - artists:
   - Barney
   featured_artists: []
+  genre: pop
+  id: 4186978
   title: I Love You
   title_with_artists: I Love You by Barney
   url: https://genius.com/Barney-i-love-you-lyrics
@@ -6664,30 +8148,40 @@
   - Wes Walker
   - Dyl
   featured_artists: []
+  genre: rap
+  id: 709721
   title: Jordan Belfort
   title_with_artists: Jordan Belfort by Wes Walker & Dyl
   url: https://genius.com/Wes-walker-and-dyl-jordan-belfort-lyrics
 - artists:
   - Jason Mraz
   featured_artists: []
+  genre: rock
+  id: 71410
   title: I Won't Give Up
   title_with_artists: I Won't Give Up by Jason Mraz
   url: https://genius.com/Jason-mraz-i-wont-give-up-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 3281524
   title: New Year's Day
   title_with_artists: New Year's Day by Taylor Swift
   url: https://genius.com/Taylor-swift-new-years-day-lyrics
 - artists:
   - BTS
   featured_artists: []
+  genre: rap
+  id: 3035222
   title: DNA
   title_with_artists: DNA by BTS
   url: https://genius.com/Bts-dna-lyrics
 - artists:
   - Bruno Mars
   featured_artists: []
+  genre: pop
+  id: 724006
   title: Just the Way You Are
   title_with_artists: Just the Way You Are by Bruno Mars
   url: https://genius.com/Bruno-mars-just-the-way-you-are-lyrics
@@ -6695,18 +8189,24 @@
   - Shawn Mendes
   - Justin Bieber
   featured_artists: []
+  genre: rap
+  id: 1149
   title: Monster
   title_with_artists: Monster by Shawn Mendes & Justin Bieber
   url: https://genius.com/Shawn-mendes-and-justin-bieber-monster-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 5651833
   title: All Of The Girls You Loved Before
   title_with_artists: All Of The Girls You Loved Before by Taylor Swift
   url: https://genius.com/Taylor-swift-all-of-the-girls-you-loved-before-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 9538403
   title: Suburban Legends (Taylor's Version) [From The Vault]
   title_with_artists: Suburban Legends (Taylor's Version) [From The Vault] by Taylor
     Swift
@@ -6714,18 +8214,24 @@
 - artists:
   - Bruno Mars
   featured_artists: []
+  genre: pop
+  id: 58988
   title: Grenade
   title_with_artists: Grenade by Bruno Mars
   url: https://genius.com/Bruno-mars-grenade-lyrics
 - artists:
   - Olivia Rodrigo
   featured_artists: []
+  genre: pop
+  id: 9382810
   title: "\u200Bmaking the bed"
   title_with_artists: "\u200Bmaking the bed by Olivia Rodrigo"
   url: https://genius.com/Olivia-rodrigo-making-the-bed-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: pop
+  id: 4765965
   title: Cornelia Street
   title_with_artists: Cornelia Street by Taylor Swift
   url: https://genius.com/Taylor-swift-cornelia-street-lyrics
@@ -6733,12 +8239,16 @@
   - Meghan Trainor
   featured_artists:
   - John Legend
+  genre: pop
+  id: 527546
   title: Like I'm Gonna Lose You
   title_with_artists: Like I'm Gonna Lose You by Meghan Trainor (Ft. John Legend)
   url: https://genius.com/Meghan-trainor-like-im-gonna-lose-you-lyrics
 - artists:
   - 5 Seconds of Summer
   featured_artists: []
+  genre: rock
+  id: 369417
   title: She Looks So Perfect
   title_with_artists: She Looks So Perfect by 5 Seconds of Summer
   url: https://genius.com/5-seconds-of-summer-she-looks-so-perfect-lyrics
@@ -6746,6 +8256,8 @@
   - "\u041F\u043E\u0448\u043B\u0430\u044F \u041C\u043E\u043B\u043B\u0438 (Poshlaya\
     \ Molly)"
   featured_artists: []
+  genre: pop
+  id: 3482100
   title: "\u0421\u043F\u0430\u0442\u044C \u0441 \u0442\u043E\u0431\u043E\u0439 (To\
     \ Sleep With You)"
   title_with_artists: "\u0421\u043F\u0430\u0442\u044C \u0441 \u0442\u043E\u0431\u043E\
@@ -6755,42 +8267,56 @@
 - artists:
   - FKA twigs
   featured_artists: []
+  genre: pop
+  id: 459948
   title: Two Weeks
   title_with_artists: Two Weeks by FKA twigs
   url: https://genius.com/Fka-twigs-two-weeks-lyrics
 - artists:
   - Harry Styles
   featured_artists: []
+  genre: pop
+  id: 3053274
   title: Two Ghosts
   title_with_artists: Two Ghosts by Harry Styles
   url: https://genius.com/Harry-styles-two-ghosts-lyrics
 - artists:
   - The Longest Johns
   featured_artists: []
+  genre: folk
+  id: 3929795
   title: Wellerman
   title_with_artists: Wellerman by The Longest Johns
   url: https://genius.com/The-longest-johns-wellerman-lyrics
 - artists:
   - Taylor Swift
   featured_artists: []
+  genre: blues
+  id: 6260173
   title: "\u200Bcowboy like me"
   title_with_artists: "\u200Bcowboy like me by Taylor Swift"
   url: https://genius.com/Taylor-swift-cowboy-like-me-lyrics
 - artists:
   - Don Henley
   featured_artists: []
+  genre: rock
+  id: 127854
   title: The Boys of Summer
   title_with_artists: The Boys of Summer by Don Henley
   url: https://genius.com/Don-henley-the-boys-of-summer-lyrics
 - artists:
   - Alicia Keys
   featured_artists: []
+  genre: r-b
+  id: 415468
   title: Girl On Fire
   title_with_artists: Girl On Fire by Alicia Keys
   url: https://genius.com/Alicia-keys-girl-on-fire-lyrics
 - artists:
   - Camila Cabello
   featured_artists: []
+  genre: pop
+  id: 3088967
   title: Crying In The Club
   title_with_artists: Crying In The Club by Camila Cabello
   url: https://genius.com/Camila-cabello-crying-in-the-club-lyrics
@@ -6798,42 +8324,56 @@
   - Fergie
   featured_artists:
   - "\u200Bwill.i.am"
+  genre: rap
+  id: 32275
   title: Fergalicious
   title_with_artists: "Fergalicious by Fergie (Ft. \u200Bwill.i.am)"
   url: https://genius.com/Fergie-fergalicious-lyrics
 - artists:
   - Harry Styles
   featured_artists: []
+  genre: pop
+  id: 3053277
   title: Sweet Creature
   title_with_artists: Sweet Creature by Harry Styles
   url: https://genius.com/Harry-styles-sweet-creature-lyrics
 - artists:
   - Dua Lipa
   featured_artists: []
+  genre: pop
+  id: 2461299
   title: Blow Your Mind (Mwah)
   title_with_artists: Blow Your Mind (Mwah) by Dua Lipa
   url: https://genius.com/Dua-lipa-blow-your-mind-mwah-lyrics
 - artists:
   - Rex Orange County
   featured_artists: []
+  genre: r-b
+  id: 2838736
   title: Corduroy Dreams
   title_with_artists: Corduroy Dreams by Rex Orange County
   url: https://genius.com/Rex-orange-county-corduroy-dreams-lyrics
 - artists:
   - Billie Eilish
   featured_artists: []
+  genre: pop
+  id: 3041924
   title: "\u200Bmy boy"
   title_with_artists: "\u200Bmy boy by Billie Eilish"
   url: https://genius.com/Billie-eilish-my-boy-lyrics
 - artists:
   - Billie Holiday
   featured_artists: []
+  genre: r-b
+  id: 152651
   title: Strange Fruit
   title_with_artists: Strange Fruit by Billie Holiday
   url: https://genius.com/Billie-holiday-strange-fruit-lyrics
 - artists:
   - Lana Del Rey
   featured_artists: []
+  genre: pop
+  id: 8617107
   title: Did you know that there's a tunnel under Ocean Blvd
   title_with_artists: Did you know that there's a tunnel under Ocean Blvd by Lana
     Del Rey
@@ -6841,12 +8381,16 @@
 - artists:
   - Virgoun
   featured_artists: []
+  genre: pop
+  id: 3246067
   title: Bukti
   title_with_artists: Bukti by Virgoun
   url: https://genius.com/Virgoun-bukti-lyrics
 - artists:
   - BLACKPINK
   featured_artists: []
+  genre: pop
+  id: 3762339
   title: "\uB69C\uB450\uB69C\uB450 (DDU-DU DDU-DU)"
   title_with_artists: "\uB69C\uB450\uB69C\uB450 (DDU-DU DDU-DU) by BLACKPINK"
   url: https://genius.com/Blackpink-ddu-du-ddu-du-lyrics
@@ -6854,6 +8398,8 @@
   - Brandon Beal
   featured_artists:
   - Christopher
+  genre: pop
+  id: 525571
   title: Twerk It Like Miley
   title_with_artists: Twerk It Like Miley by Brandon Beal (Ft. Christopher)
   url: https://genius.com/Brandon-beal-twerk-it-like-miley-lyrics
@@ -6861,6 +8407,8 @@
   - The Weeknd
   - Ariana Grande
   featured_artists: []
+  genre: pop
+  id: 6722709
   title: Save Your Tears (Remix)
   title_with_artists: Save Your Tears (Remix) by The Weeknd & Ariana Grande
   url: https://genius.com/The-weeknd-and-ariana-grande-save-your-tears-remix-lyrics
@@ -6868,24 +8416,32 @@
   - The Weeknd
   featured_artists:
   - Lana Del Rey
+  genre: pop
+  id: 2911566
   title: Stargirl Interlude
   title_with_artists: Stargirl Interlude by The Weeknd (Ft. Lana Del Rey)
   url: https://genius.com/The-weeknd-stargirl-interlude-lyrics
 - artists:
   - Ben&Ben
   featured_artists: []
+  genre: pop
+  id: 3333358
   title: Kathang Isip
   title_with_artists: Kathang Isip by Ben&Ben
   url: https://genius.com/Ben-ben-kathang-isip-lyrics
 - artists:
   - Ricky Montgomery
   featured_artists: []
+  genre: pop
+  id: 2491738
   title: Line Without a Hook
   title_with_artists: Line Without a Hook by Ricky Montgomery
   url: https://genius.com/Ricky-montgomery-line-without-a-hook-lyrics
 - artists:
   - Skee-Lo
   featured_artists: []
+  genre: rap
+  id: 154
   title: I Wish
   title_with_artists: I Wish by Skee-Lo
   url: https://genius.com/Skee-lo-i-wish-lyrics
