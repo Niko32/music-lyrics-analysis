@@ -27,7 +27,7 @@ id;title;artists;langauge;genre
 543082;An Animal;Blood Red Shoes;en;rock
 529927;Z Hunna vs Orriginal (battle);Z-hunna;en;rap
 272966;The Camel;James Tate;en;
-876375;Chance To Change;Hey! Say! JUMP;None;pop
+876375;Chance To Change;Hey! Say! JUMP;;pop
 38747;I Ain’t Fuckin’ Wit Cha;CJ Mac;en;rap
 212423;Flucht in Ketten;Creutzfeld & Jakob;de;rap
 460021;Tango à terre;Luidji;fr;rap
@@ -106,38 +106,6 @@ id;title;artists;langauge;genre
 525060;Bud Pils;Morlockk Dilemma;de;rap
 881794;She’s So Wild;Donnie Iris;en;rock
 974158;Street Life;Tank;en;pop
-779635;I Saw You Fall;Amber Asylum;en;pop
-876144;Chaos;Electric Soft Parade;en;pop
-527943;Victim’s Story;Diabolic;en;rap
-330301;Brothers;Defeater;en;rock
-872559;Turn Me Down;Paddy Goes To Holyhead;en;pop
-943251;Ghost Inside;Gun Barrel;en;pop
-587305;Straight from the Soul;Flash the Ripper;en;rap
-527943;Victim’s Story;Diabolic;en;rap
-330301;Brothers;Defeater;en;rock
-872559;Turn Me Down;Paddy Goes To Holyhead;en;pop
-943251;Ghost Inside;Gun Barrel;en;pop
-587305;Straight from the Soul;Flash the Ripper;en;rap
-889145;Middle Of The Night;Wes Swing;en;pop
-379066;Sleepsong;Bastille;en;rock
-115771;Lost Ones;Lil B;en;rap
-517431;Tibia;LMN (POL);pl;rap
-675594;Sejanus His Fall  Act 1. Scene 2;Ben Jonson;en;
-400807;Mazzieh (African in Paris);Kazik;en;rock
-100075;“Of Cannibals”;Michel de Montaigne;en;rap
-701082;Palm Trees (Remix);PLK (Ft. 2zer & Aladin 135);fr;rap
-172271;Timon of Athens  Act 2 Scene 1;William Shakespeare;en;
-259149;Rolling Home;Santiano;de;rock
-938626;Firecracker People;Hotel Lights;en;pop
-990306;No Geit’s;Patent Ochsner;de;pop
-829829;Cheap Thrill;Bastardolomey;en;pop
-875277;Just Slaves;Lola Angst;en;pop
-256729;La era de Dios;Logan Hate;es;rap
-40810;In the House;Run–DMC;en;rap
-20473;Potnas;Will Smith;en;rap
-525060;Bud Pils;Morlockk Dilemma;de;rap
-881794;She’s So Wild;Donnie Iris;en;rock
-974158;Street Life;Tank;en;pop
 422758;My Thang;James Brown;en;r-b
 826660;Everybody Loves Somebody;Andy Williams;en;pop
 837315;Another Intervention;Down To Earth Approach;en;pop
@@ -189,7 +157,7 @@ id;title;artists;langauge;genre
 384368;Peace (Gorgeous Remix);Tungatz D'LAW;en;rap
 194702;Evil;The Black Keys;en;rock
 186262;Santa Claus Is Comin’ to Town;Miley Cyrus;en;pop
-743971;Daniela;Gianni Celeste;None;pop
+743971;Daniela;Gianni Celeste;;pop
 768294;So Much Better;Carl Thomas;en;pop
 394960;Qassaman / قسما برب الأمهات الصامدات;Ghani Mahdi;ar;
 573357;Conflicted;Mace (Rapper);en;rap
@@ -204,7 +172,7 @@ id;title;artists;langauge;genre
 199527;A Minha Casinha;Xutos & Pontapés;pt;rock
 532186;Brain Dead Familia;WSRH;pl;rap
 935025;We Dream in Color;Starship;en;pop
-941565;Isgrav, det siste hvilested;Dismal Euphony;None;pop
+941565;Isgrav, det siste hvilested;Dismal Euphony;;pop
 158992;The History of England, Vol.I. Part B. ( Chap 13);David Hume;en;
 995278;Truck of Fear;The Jazz Butcher;en;pop
 607356;MONEY;Mindy3761;en;rap
@@ -259,7 +227,7 @@ id;title;artists;langauge;genre
 487424;How Can You Really;Foxygen;en;rock
 778659;Mordomia;Almir Guineto;pt;pop
 13373;Nothin’ But Lies;Chamillionaire;en;rap
-995315;Love Record;Straightener;None;pop
+995315;Love Record;Straightener;;pop
 708091;Dans le bendo;Francis Tra$h (Ft. Beny, Lucas Oprv & Luni Sacks);fr;rap
 466439;Werewolf;Cat Power;en;rock
 944951;The Golden Age;Artifex Pereo;en;pop
@@ -362,7 +330,7 @@ id;title;artists;langauge;genre
 64290;Bush Doctor;Peter Tosh;en;r-b
 405715;Real Nigga Anthem;Fred the Godson (Ft. Tyler Woods);en;rap
 139427;The Fall;Don Rivers;en;rap
-507442;Child with a Dove;Pablo Picasso;None;
+507442;Child with a Dove;Pablo Picasso;;
 132693;Warpath;​dead prez (Ft. Ratfink);en;rap
 936791;Frozen Meat;Avulsed;en;pop
 513268;Hideaway;Karen O and the Kids;en;rock
@@ -472,7 +440,7 @@ id;title;artists;langauge;genre
 865260;This Broken Heart;Something Corporate;en;pop
 396638;All That I Need Is To Be Loved (House Of Suffering Mix);Moby;en;rock
 96511;Dreams & Nightmares Intro [4X4BARS #14];Spitty;en;rap
-131552;Schlangen sind giftig;Stieber Twins;None;rap
+131552;Schlangen sind giftig;Stieber Twins;;rap
 313599;Cicatrices;Delta (FRA);fr;rap
 853784;Girl From Athens;Pat McGee Band;en;pop
 173511;The Third Book Of The Odes Of Horace (Chap. 17);Quintus Horatius Flaccus (Ft. C. Smart);en;
@@ -487,7 +455,7 @@ id;title;artists;langauge;genre
 164671;The House Behind the Cedars (chap.19);Charless Chesnutt;en;
 407891;Show You How to Hustle;Re-Up Gang;en;rap
 224870;On Tradition;Franklin P. Adams;en;
-715676;Zeitgedichte - Kapitel 12;Heinrich Heine;None;
+715676;Zeitgedichte - Kapitel 12;Heinrich Heine;;
 179129;Patterned Therapy;St. Breeze (Ft. Dijon Prioleau);en;rap
 4416;Grenade (Remix);Bruno Mars (Ft. Lil Wayne);en;rap
 332270;Forever for Her (Is Over for Me);The White Stripes;en;rock
@@ -506,7 +474,7 @@ id;title;artists;langauge;genre
 799217;The Sea & The Shore;Amy Speace;en;pop
 12284;Hard Labor;C-Bo (Ft. Outlawz);en;rap
 148417;Love;Lax Louis;en;rap
-547779;Rap De Dur;Criks;None;rap
+547779;Rap De Dur;Criks;;rap
 740546;Made to Love (Telemitry Remix);TobyMac;en;pop
 977552;Joking;Indigo Girls;en;pop
 913275;Aheste Çek Kürekleri;Münir Nurettin Selçuk;tr;pop
@@ -536,7 +504,7 @@ id;title;artists;langauge;genre
 509245;20Something;Context (Ft. Jenna G);en;rap
 602959;Lucky #7;Jerrod Niemann;en;country
 125999;Life;Lil B;en;rap
-312459;The Sorcerer of Isis;Power of Zeus;None;rock
+312459;The Sorcerer of Isis;Power of Zeus;;rock
 765186;Crazy Games;Mary J. Blige;en;r-b
 327737;UniVerse;Rhettski;en;rap
 784382;Porphyria;AFI;en;rock
@@ -550,7 +518,7 @@ id;title;artists;langauge;genre
 101954;T’es Plus Qu’un Bord;GIOS4MA;fr;rap
 43141;Which One of You;Snoop Dogg (Ft. Nine Inch Dix);en;rap
 201003;Rock On;311;en;rock
-663941;Kinder dieser Welt;Kitty Kat (Ft. Amun);None;rap
+663941;Kinder dieser Welt;Kitty Kat (Ft. Amun);;rap
 990414;Heut’ will ich nur mit dir;Andrea Berg;de;pop
 49198;Angel In A New Dress;King Los;en;rap
 456377;I’m Going To Kill You;​videogamedunkey;en;rap
@@ -567,13 +535,13 @@ id;title;artists;langauge;genre
 942087;Greed And Gold;Seth Lakeman;en;pop
 631638;RAPport;Mehdi Black Wind;en;rap
 949905;Lovin’ You (Hex Hector dub mix);Kristine W;en;pop
-686750;They Don’t Know;King Space;None;rap
+686750;They Don’t Know;King Space;;rap
 389128;L.E.V;Nixen;da;rap
 897247;I Just Have to Breathe;Dionne Warwick;en;pop
 107320;Never Cry Wolf;Dark Time Sunshine (Ft. Reva Devito);en;rap
 47422;Foxy;Wafeek;en;rap
 83047;The Ballad of El Goodo;Big Star;en;rock
-249922;Big girl anthem;Fat girl;None;rap
+249922;Big girl anthem;Fat girl;;rap
 762883;The Underground (One Bird at a Time);Marian Call;en;pop
 456902;Solitude;Dion Jackson;en;rap
 100488;Time;M.I.;en;rap
@@ -598,7 +566,7 @@ id;title;artists;langauge;genre
 4898;Let ’Em Have It “L”;Big L;en;rap
 75776;Francesca;Psyonik;en;rap
 387911;Discosis;Bran Van 3000 (Ft. Big Daddy Kane & Dimitri From Paris);en;rap
-30981;Closer;MC Lyte (Ft. Space Nine);None;rap
+30981;Closer;MC Lyte (Ft. Space Nine);;rap
 982471;You Can Understand -Share my world-;DA PUMP;ja;pop
 182322;You Belong to Me;Elvis Costello;en;rock
 997167;Megamix;Double You;en;pop
@@ -623,14 +591,14 @@ id;title;artists;langauge;genre
 32826;Sprung on a Thug (Remix);LaLa (Ft. The Game);en;rap
 832556;Los Maestros;Barricada;es;pop
 399337;Teaser;Mötley Crüe;en;rock
-870470;Headstar;Depeche Mode;None;rock
+870470;Headstar;Depeche Mode;;rock
 185381;I’m From a Wicked;Abstract Tribe Unique;en;rap
 330235;I Write Sins Not Tragedies;Fall Out Boy;en;rock
 19609;Real Talk (1, 2, 3);Fabolous (Ft. Xzibit);en;rap
 848987;Tortured Soul;Ducky Boys;en;pop
 192366;Stoned;Smash Mouth;en;pop
 801372;Audrey, Start the Revolution!;Anberlin;en;rock
-461961;Season 11 Top 20;So You Think You Can Dance (Ft. Adam Shankman, Irina Dvorovenko, Mary Murphy, NIgel Lythgoe, Tara Lipinski & Twitch);None;
+461961;Season 11 Top 20;So You Think You Can Dance (Ft. Adam Shankman, Irina Dvorovenko, Mary Murphy, NIgel Lythgoe, Tara Lipinski & Twitch);;
 173515;The Third Book Of The Odes Of Horace (Chap. 18);Quintus Horatius Flaccus (Ft. C. Smart);en;
 482671;HG Wellz;Metro Zu;en;rap
 283999;Hit ’Em High;Mike Bars (Ft. Karess, Keegan B. & Thr33 (Rap));en;rap
@@ -656,7 +624,7 @@ id;title;artists;langauge;genre
 137306;Blessings;Gucci Mane (Ft. Jadakiss & Yo Gotti);en;rap
 887311;Body Of God;Luti-Kriss;en;pop
 751168;Three Sisters;Acid Rain (ESP);en;pop
-696231;Intro (Mädchensache);Lumaraa;None;rap
+696231;Intro (Mädchensache);Lumaraa;;rap
 991351;Is It A Crime;Zion (Rock);en;pop
 110338;Beautiful Monster;Ne-Yo;en;rock
 929485;Ce Que J’Aime;El Club;fr;pop
@@ -684,11 +652,11 @@ id;title;artists;langauge;genre
 929224;Centryfuga;Kabát;cs;pop
 17646;Addicted to Sex;Dom Pachino;en;rap
 96997;The Shroud;Brothers Grimm;en;
-896827;Mr. Wishing Well;Nat "King" Cole;en;pop
+896827;Mr. Wishing Well;"Nat ""King"" Cole";en;pop
 916;Billionaire;Travie McCoy (Ft. Bruno Mars);en;pop
 887064;Pfaffenlied;Rabenschrey;de;pop
 960536;This Time Dad You’re Wrong;Arthur Russell;en;pop
-242022;South Bronx;Banksy;None;
+242022;South Bronx;Banksy;;
 78;Renegade;JAY-Z (Ft. Eminem);en;rap
 964628;Blood, Milk, & Sky;White Zombie;en;pop
 739481;Shake Down;Empire Cast (Ft. Mary J. Blige & Terrence Howard);en;r-b
@@ -725,7 +693,7 @@ id;title;artists;langauge;genre
 345838;Underdogs;LIZ (Ft. RiFF RAFF);en;pop
 940616;Death Of The Alphabet;Schatzi (USA);en;pop
 463910;Joe;PJ Harvey;en;rock
-937173;Music Is Love;David Crosby;None;pop
+937173;Music Is Love;David Crosby;;pop
 784149;Domino;In Aevum Agere;it;pop
 16487;I’m Gettin’ Ready;Doug E. Fresh & The Get Fresh Crew;en;rap
 1172;Hustler Musik;Lil Wayne;en;rap
@@ -793,7 +761,7 @@ id;title;artists;langauge;genre
 894338;Giving It Away (acoustic);Mae;en;pop
 573584;Up Above;Omar Sungar;en;rap
 654315;Why Order;Young Thug;en;rap
-378283;Drank Interlude (4:00);Starlito;None;rap
+378283;Drank Interlude (4:00);Starlito;;rap
 260512;Ooouuu;HrtBrkJay;en;rap
 28387;It’s My Life;Lil Rob;en;rap
 964755;Good Lookin’ Country;Bent Ridley;en;pop
@@ -813,7 +781,7 @@ id;title;artists;langauge;genre
 780204;A Very Precious Love;The Ames Brothers;en;pop
 823017;Ain’t Misbehavin’;Fats Waller and His Rhythm;en;pop
 389909;80 fache Kaioken;S.Castro;de;rap
-716048;If  I Find Gold;Extreme Music;None;pop
+716048;If  I Find Gold;Extreme Music;;pop
 338277;Gotta Run Fast;Zazu Times Two;en;rap
 945184;“little low”;Kari Rueslåtten;en;pop
 354206;Runagate Runagate;Robert Hayden;en;
@@ -839,7 +807,7 @@ id;title;artists;langauge;genre
 348388;Wewnętrzne sprawy;Kazik;pl;rock
 12315;Ain’t No Sunshine;C-Bo (Ft. Tuna Bug);en;rap
 769436;Success Is In Your Hand;Fred Hammond & Radical for Christ;en;pop
-45250;Neighborhood Hoe;Three 6 Mafia;None;rap
+45250;Neighborhood Hoe;Three 6 Mafia;;rap
 76918;Don’t Kick the Chair;Dia Frampton (Ft. Kid Cudi);en;rap
 787691;Canción Bolivariana;Alí Primera;es;pop
 984407;Shout To The Lord;Hillsong Kids;en;pop
@@ -856,17 +824,3 @@ id;title;artists;langauge;genre
 826637;Battered;Annihilator;en;rock
 126201;I Thank You;Heather P Wilson;en;
 825160;Evolución (Versión Bristol);Aleks Syntek;es;pop
-437248;United Together;Aretha Franklin;en;r-b
-756450;Folding Chair;Actionslacks;en;pop
-31741;Imagine This;Cory Ak (Ft. 8th Ward & Raekwon);en;rap
-655982;Summer Breeze;Nicki Richards;en;r-b
-60912;Bang;Waka Flocka Flame (Ft. Slim Dunkin & YG Hootie);en;rap
-117690;Milk & Black Spiders;Foals;en;rock
-1238;Magic;B.o.B (Ft. Rivers Cuomo);en;rap
-697338;Get It On Tonite;Montell Jordan;en;r-b
-755120;Hollyhood Skit;Lil' Kim;en;rap
-977500;Rebels Of Our Time;Emerald;en;pop
-970136;Postales del alma;Juan Carlos Baglietto;es;pop
-212250;Look... The Sun Is Rising;The Flaming Lips;en;rock
-137306;Blessings;Gucci Mane (Ft. Jadakiss & Yo Gotti);en;rap
-887311;Body Of God;Luti-Kriss;en;pop

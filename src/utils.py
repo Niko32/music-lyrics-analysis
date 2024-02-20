@@ -26,7 +26,7 @@ def get_main_tag(tags: List[str]):
                 return g
         
     # If there is still no match: set the genre to an empty string
-    return ""
+    return None
 
 def shrink_genius_tag(tag: dict) -> str:
     return tag["name"].lower().replace("&", "-")
