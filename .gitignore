@@ -2,5 +2,3 @@ venv
 *.env
 .cache
 */__pycache__
-
-data/multiclass-lyrics
