@@ -1,0 +1,64 @@
+Batter | Team | Inning | Pitcher | Runners on Base | Outs | Score
+
+Chicago Cubs def. Baltimore Orioles, 4-1:
+Luis Valbuena (12) | Cubs | 4th | Kevin Gausman | 0 | 1 | 0-0
+Javier Baez (6) | Cubs | 5th | Kevin Gausman | 0 | 2 | 2-0, Cubs
+Nelson Cruz (34) | Orioles | 7th | Jake Arrieta | 0 | 1 | 3-0, Cubs
+
+New York Yankees def. Chicago White Sox, 4-3:
+Jose Abreu (16) | White Sox | 1st | Shane Greene | 2 | 0 | 0-0
+Martin Prado (8) | Yankees | 3rd | John Danks | 1 | 2 | 3-0, White Sox
+
+Houston Astros def. Cleveland Indians, 5-1:
+Marwin Gonzalez (6) | Astros | 5th | Carlos Carrasco | 0 | 0 | 0-0
+Zach Walters (8) | Indians | 5th | Brad Peacock | 0 | 2 | 1-0, Astros
+Jon Singleton (12) | Astros | 9th | Cody Allen | 2 | 2 | 2-1, Astros
+
+San Francisco Giants def. Washington Nationals, 10-3:
+Joe Panik (1) | Giants | 4th | Doug Fister | 2 | 2 | 1-0, Nationals
+Jayson Werth (13) | Nationals | 4th | Tim Hudson | 0 | 0 | 3-1, Giants
+Buster Posey (15) | Giants | 6th | Doug Fister | 0 | 1 | 3-2, Giants
+
+Philadelphia Phillies def. St. Louis Cardinals, 5-4:
+Matt Adams (13) | Cardinals | 3rd | Kyle Kendrick | 0 | 0 | 3-1, Cardinals
+
+Tampa Bay Rays def. Toronto Blue Jays, 8-0:
+Evan Longoria (16) | Rays | 2nd | Marcus Stroman | 0 | 0 | 0-0
+Wil Myers (6) | Rays | 8th | Todd Redmond | 0 | 1 | 7-0, Rays
+Atlanta Braves def. Cincinnati Reds, 3-1 (12 innings):
+Justin Upton  (25) | Braves  | 12th | Manny Parra | 1 | 1 | 1-1
+
+Seattle Mariners def. Boston Red Sox, 5-3:
+Yoenis Cespedes (21) | Red Sox | 6th | Felix Hernandez | 2 | 1 | 0-0
+
+Kansas City Royals def. Texas Rangers, 6-3:
+Billy Butler (8) | Royals | 2nd | Colby Lewis | 0 | 0 | 1-0, Rangers
+Josh Willingham (14) | Royals | 4th | Colby Lewis | 0 | 0 | 3-1, Royals
+
+Minnesota Twins vs. Detroit Tigers, 20-6:
+Ian Kinsler (12) | Tigers | 1st | Tommy Milone | 0 | 0 | 0-0
+Eduardo Escobar (4) | Twins | 2nd | Robbie Ray | 1 | 1 | 2-1, Twins
+Danny Santana (6) | Twins | 2nd | Robbie Ray | 1 | 1 | 4-1, Twins
+Oswaldo Arcia (14) | Twins | 8th | Andrew Romine | 1 | 0 | 17-6, Twins
+Trevor Plouffe (10) | Twins | 8th | Andrew Romine | 0 | 0 | 19-6, Twins
+
+Pittsburgh Pirates def. Milwaukee Brewers, 8-3:
+Ryan Braun (16) | Brewers | 1st | Jeff Locke | 1 | 1 | 0-0
+Andrew McCutchen (18) | Pirates | 5th | Yovani Gallardo | 0 | 0 | 5-2, Pirates
+Josh Harrison (11) | Pirates | 8th | Brandon Kintzler | 1 | 2 | 6-2, Pirates
+
+Miami Marlins def. Colorado Rockies, 13-5:
+Justin Morneau (14) | Rockies | 3rd | Henderson Alvarez | 1 | 1 | 4-0, Marlins
+Corey Dickerson (18) | Rockies | 5th | Henderson Alvarez | 1 | 2 | 6-2, Marlins
+Marcell Ozuna (19) | Rockies | 9th | Juan Nicasio | 3 | 1 | 9-4, Marlins
+Arizona Diamondbacks def. San Diego Padres, 5-1:
+Miguel Montero (13) | Diamondbacks | 1st | Odrisamer Despaigne | 1 | 2 | 1-0, Diamondbacks
+
+Oakland Athletics def. Los Angeles Angels, 5-3:
+Mike Trout (28) | Angels | 1st | Sonny Gray | 0 | 1 | 0-0
+Coco Crisp (8) | Athletics | 1st | Hector Santiago | 0 | 0 | 1-0, Angels
+Josh Hamilton (9) | Angels | 4th | Sonny Gray | 0 | 1 | 1-1
+Josh Hamilton (9) | Athletics | 8th | Cam Bedrosian | 0 | 1 | 4-2, Athletics
+
+Los Angeles Dodgers def. New York Mets, 6-2:
+Curtis Granderson (16) | Mets | 1st | Dan Haren | 0 | 0 | 0-
