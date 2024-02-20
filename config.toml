@@ -1,6 +1,7 @@
 data_dir = "data"
 multiclass_data_dir = "data/multiclass"
 multilabel_data_dir = "data/multilabel"
+id_data_dir = "data/by_id"
 
 genres = [
     "pop", 
