@@ -30,3 +30,11 @@ def get_main_tag(tags: List[str]):
 
 def shrink_genius_tag(tag: dict) -> str:
     return tag["name"].lower().replace("&", "-")
+
+def song_to_csv(song: dict) -> str:
+    csv_values: List[str] = [str(song["id"]), song["title"], song["artists"], song["language"], song["genre"]]
+    csv_values = [value.replace(';', ':') if value else "None" for value in csv_values]
+    return ';'.join(csv_values) + '\n'
+
+def artists_list_to_string(artists: List[str]):
+    return ", ".join(artists[:-1]) + " & " + artists[-1]
