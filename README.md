@@ -11,11 +11,10 @@ This is the repository for a university project concerned with the analysis of t
 - 🔴 project planning
 - 🔴 data retrieval
 - 🟢 topic model implementation
-- ⚪ classifier implementation
+- 🟢 classifier implementation
 - 🟡 evaluation and visualisation of model results
 - 🟡 report: research gap and research question
-- ⚪ report: discussion
-- packets marked with ⚪ will be assigned later based on individual progress on the tasks
+- 🟡 report: discussion
 - other parts of the report will be written by the person responsible for its implementation
 
 
@@ -30,5 +29,5 @@ This is the repository for a university project concerned with the analysis of t
 - [x] 17.02. effective start of the group project
 - [x] 24.02. dummy data is ready for model development
 - [x] 02.03. the entire dataset is ready
-- [ ] 16.03. the model is implemented, trained and ready to be evaluated
-- [ ] 30.03. deadline for the finished project report
+- [x] 16.03. the model is implemented, trained and ready to be evaluated
+- [x] 30.03. deadline for the finished project report
